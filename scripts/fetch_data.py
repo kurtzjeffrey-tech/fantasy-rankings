@@ -449,11 +449,15 @@ def main():
     print("\n  Merging data sources...")
     merged = build_rankings_output(rankings, adp_list, sleeper_players, news_by_player, name_index)
 
-    # Add TFF rank to each player
+    # Add TFF rank and aggregate rank to each player
     for pos, players in merged.items():
         pos_tff = tff_lookup.get(pos, {})
         for player in players:
-            player["tff_rank"] = pos_tff.get(normalize_name(player["name"]))
+            tff = pos_tff.get(normalize_name(player["name"]))
+            player["tff_rank"] = tff
+            fp = player.get("rank")
+            available = [r for r in [fp, tff] if r is not None]
+            player["agg_rank"] = round(sum(available) / len(available), 1) if available else None
 
     # 5b. Compute rank_change vs previous data
     for pos, players in merged.items():

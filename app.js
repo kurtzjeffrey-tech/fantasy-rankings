@@ -4,9 +4,13 @@
   const POSITIONS = ['RB', 'WR', 'QB', 'TE', 'K', 'DST'];
   const cache = {};
 
+  const SOURCE_RANK = { agg: 'agg_rank', fp: 'rank', tff: 'tff_rank' };
+  const SOURCE_LABEL = { agg: 'Aggregated', fp: 'FantasyPros', tff: 'TFF' };
+
   let currentPos = 'RB';
   let currentData = [];
   let currentSort = 'rank';
+  let currentSource = 'agg';
   let searchQuery = '';
 
   // ── Elements ──────────────────────────────────────────
@@ -17,6 +21,7 @@
   const lastUpdated  = document.getElementById('lastUpdated');
   const searchInput  = document.getElementById('searchInput');
   const sortSelect   = document.getElementById('sortSelect');
+  const sourceBtns   = document.querySelectorAll('.source-btn');
   const newsDrawer   = document.getElementById('newsDrawer');
   const drawerPanel  = document.getElementById('drawerPanel');
   const drawerClose  = document.getElementById('drawerClose');
@@ -75,7 +80,8 @@
     } else if (currentSort === 'name') {
       rows.sort((a, b) => a.name.localeCompare(b.name));
     } else {
-      rows.sort((a, b) => (a.rank || 999) - (b.rank || 999));
+      const field = SOURCE_RANK[currentSource];
+      rows.sort((a, b) => (a[field] || 999) - (b[field] || 999));
     }
 
     return rows;
@@ -112,6 +118,9 @@
     const tr = document.createElement('tr');
 
     const rankTop = rank <= 5;
+    const displayRank = player[SOURCE_RANK[currentSource]] != null
+      ? Math.round(player[SOURCE_RANK[currentSource]])
+      : rank;
     const rc = player.rank_change;
     const trendHTML = (rc != null && rc !== 0)
       ? `<span class="trend-${rc > 0 ? 'up' : 'down'}">${rc > 0 ? '▲' : '▼'}${Math.abs(rc)}</span>`
@@ -135,7 +144,7 @@
     }
 
     tr.innerHTML = `
-      <td class="col-rank"><div class="rank-cell-inner"><span class="rank-num${rankTop ? ' rank-top' : ''}">${rank}</span>${trendHTML}</div></td>
+      <td class="col-rank"><div class="rank-cell-inner"><span class="rank-num${rankTop ? ' rank-top' : ''}">${displayRank}</span>${trendHTML}</div></td>
       <td class="col-player">
         <div class="player-cell">
           <img class="player-headshot" src="${player.headshot_url || ''}" alt="" loading="lazy" />
@@ -304,6 +313,14 @@
 
   document.querySelectorAll('.pos-tab').forEach(tab => {
     tab.addEventListener('click', () => switchPosition(tab.dataset.pos));
+  });
+
+  sourceBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      currentSource = btn.dataset.source;
+      sourceBtns.forEach(b => b.classList.toggle('active', b === btn));
+      render(currentData);
+    });
   });
 
   searchInput.addEventListener('input', () => {

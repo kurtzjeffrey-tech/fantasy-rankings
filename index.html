@@ -40,10 +40,15 @@
   <main class="main-content">
     <div class="table-controls">
       <input type="text" id="searchInput" class="search-input" placeholder="Search players…" aria-label="Search players" />
+      <div class="source-toggle" role="group" aria-label="Rankings source">
+        <button class="source-btn active" data-source="agg">Aggregated</button>
+        <button class="source-btn" data-source="fp">FantasyPros</button>
+        <button class="source-btn" data-source="tff">TFF</button>
+      </div>
       <div class="sort-controls">
         <span class="sort-label">Sort by</span>
         <select id="sortSelect" class="sort-select" aria-label="Sort by">
-          <option value="rank">Consensus rank</option>
+          <option value="rank">Rank</option>
           <option value="adp">ADP</option>
           <option value="name">Name</option>
         </select>
