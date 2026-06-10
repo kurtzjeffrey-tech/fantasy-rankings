@@ -289,6 +289,18 @@ def merge_news(espn_news: list, name_index: dict) -> dict:
     return news_by_player
 
 
+def load_prev_ranks(pos: str) -> dict:
+    """Load name -> rank from existing position JSON, for computing rank_change."""
+    path = DATA_DIR / f"{pos.lower()}.json"
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text())
+        return {normalize_name(p["name"]): p["rank"] for p in data if "name" in p and "rank" in p}
+    except Exception:
+        return {}
+
+
 def build_rankings_output(
     rankings: dict[str, list],
     adp_list: list,
@@ -372,6 +384,13 @@ def main():
     # 5. Merge everything
     print("\n  Merging data sources...")
     merged = build_rankings_output(rankings, adp_list, sleeper_players, news_by_player, name_index)
+
+    # 5b. Compute rank_change vs previous data
+    for pos, players in merged.items():
+        prev_ranks = load_prev_ranks(pos)
+        for player in players:
+            prev = prev_ranks.get(normalize_name(player["name"]))
+            player["rank_change"] = (prev - player["rank"]) if prev is not None else None
 
     # 6. Write output files
     meta = {

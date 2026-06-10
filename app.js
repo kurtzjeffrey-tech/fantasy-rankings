@@ -112,6 +112,10 @@
     const tr = document.createElement('tr');
 
     const rankTop = rank <= 5;
+    const rc = player.rank_change;
+    const trendHTML = (rc != null && rc !== 0)
+      ? `<span class="trend-${rc > 0 ? 'up' : 'down'}">${rc > 0 ? '▲' : '▼'}${Math.abs(rc)}</span>`
+      : '';
     const inj = injuryClass(player.injury_status);
     const adpVal = player.adp?.overall ? parseFloat(player.adp.overall).toFixed(1) : '—';
     const ecrAvg = player.ecr?.avg ? parseFloat(player.ecr.avg).toFixed(1) : '—';
@@ -131,7 +135,7 @@
     }
 
     tr.innerHTML = `
-      <td class="col-rank"><span class="rank-num${rankTop ? ' rank-top' : ''}">${rank}</span></td>
+      <td class="col-rank"><div class="rank-cell-inner"><span class="rank-num${rankTop ? ' rank-top' : ''}">${rank}</span>${trendHTML}</div></td>
       <td class="col-player">
         <div class="player-cell">
           <img class="player-headshot" src="${player.headshot_url || ''}" alt="" loading="lazy" />
