@@ -13,6 +13,7 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
@@ -204,6 +205,62 @@ def fetch_fp_adp() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# The Fantasy Footballers — free draft rankings (Playwright)
+# ---------------------------------------------------------------------------
+
+TFF_POSITION_URLS = {
+    "QB": "https://www.thefantasyfootballers.com/2026-quarterback-rankings-draft/",
+    "RB": "https://www.thefantasyfootballers.com/2026-running-back-rankings-draft/",
+    "WR": "https://www.thefantasyfootballers.com/2026-wide-receiver-rankings-draft/",
+    "TE": "https://www.thefantasyfootballers.com/2026-tight-end-rankings-draft/",
+}
+
+
+def fetch_tff_rankings() -> dict[str, list]:
+    """Scrapes TFF free draft rankings via Playwright (JS-rendered table)."""
+    results = {}
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        for pos, url in TFF_POSITION_URLS.items():
+            print(f"  Fetching TFF rankings for {pos}...")
+            try:
+                page.goto(url, wait_until="domcontentloaded", timeout=45000)
+                page.wait_for_timeout(4000)
+
+                rows = page.query_selector_all("table tbody tr")
+                ranked = []
+                for row in rows:
+                    name_el  = row.query_selector(".player-name a")
+                    rank_el  = row.query_selector("td.rank--cons")
+                    meta_el  = row.query_selector(".player-right-line-two")
+                    if not name_el or not rank_el:
+                        continue
+
+                    name = name_el.inner_text().strip()
+                    try:
+                        rank = int(rank_el.inner_text().strip())
+                    except ValueError:
+                        continue
+
+                    team_bye = meta_el.inner_text().strip() if meta_el else ""
+                    m = re.match(r"([A-Z]+)\s*\((\d+)\)", team_bye)
+                    team = m.group(1) if m else ""
+                    bye  = m.group(2) if m else ""
+
+                    ranked.append({"rank": rank, "name": name, "team": team, "bye": bye})
+
+                results[pos] = ranked
+                print(f"    Got {len(ranked)} {pos} rankings from TFF.")
+            except Exception as e:
+                print(f"    ERROR fetching TFF {pos}: {e}")
+                results[pos] = []
+
+        browser.close()
+    return results
+
+
+# ---------------------------------------------------------------------------
 # ESPN NFL News API
 # ---------------------------------------------------------------------------
 
@@ -381,9 +438,22 @@ def main():
     espn_news = fetch_espn_news()
     news_by_player = merge_news(espn_news, name_index)
 
-    # 5. Merge everything
+    # 5. TFF rankings
+    tff_rankings = fetch_tff_rankings()
+    tff_lookup = {
+        pos: {normalize_name(p["name"]): p["rank"] for p in players}
+        for pos, players in tff_rankings.items()
+    }
+
+    # 6. Merge everything
     print("\n  Merging data sources...")
     merged = build_rankings_output(rankings, adp_list, sleeper_players, news_by_player, name_index)
+
+    # Add TFF rank to each player
+    for pos, players in merged.items():
+        pos_tff = tff_lookup.get(pos, {})
+        for player in players:
+            player["tff_rank"] = pos_tff.get(normalize_name(player["name"]))
 
     # 5b. Compute rank_change vs previous data
     for pos, players in merged.items():
@@ -392,7 +462,7 @@ def main():
             prev = prev_ranks.get(normalize_name(player["name"]))
             player["rank_change"] = (prev - player["rank"]) if prev is not None else None
 
-    # 6. Write output files
+    # 7. Write output files
     meta = {
         "last_updated": datetime.now(timezone.utc).isoformat(),
         "positions": POSITIONS,
