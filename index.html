@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fantasy Rankings — Full PPR</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <svg class="brand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+          <ellipse cx="12" cy="12" rx="9" ry="6" transform="rotate(-30 12 12)" />
+          <line x1="5.5" y1="9.5" x2="18.5" y2="14.5" />
+          <line x1="8" y1="6.5" x2="8" y2="17.5" />
+          <line x1="16" y1="6.5" x2="16" y2="17.5" />
+        </svg>
+        <span class="brand-name">Fantasy Rankings</span>
+        <span class="brand-tag">Full PPR</span>
+      </div>
+      <div class="header-meta">
+        <span class="updated-label">Updated</span>
+        <span class="updated-time" id="lastUpdated">—</span>
+      </div>
+    </div>
+  </header>
+
+  <nav class="pos-nav" role="navigation" aria-label="Position tabs">
+    <div class="pos-nav-inner">
+      <button class="pos-tab active" data-pos="RB">RB</button>
+      <button class="pos-tab" data-pos="WR">WR</button>
+      <button class="pos-tab" data-pos="QB">QB</button>
+      <button class="pos-tab" data-pos="TE">TE</button>
+      <button class="pos-tab" data-pos="K">K</button>
+      <button class="pos-tab" data-pos="DST">DST</button>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <div class="table-controls">
+      <input type="text" id="searchInput" class="search-input" placeholder="Search players…" aria-label="Search players" />
+      <div class="sort-controls">
+        <span class="sort-label">Sort by</span>
+        <select id="sortSelect" class="sort-select" aria-label="Sort by">
+          <option value="rank">Consensus rank</option>
+          <option value="adp">ADP</option>
+          <option value="name">Name</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="table-wrap" role="region" aria-label="Player rankings">
+      <table class="rankings-table" id="rankingsTable">
+        <thead>
+          <tr>
+            <th class="col-rank">#</th>
+            <th class="col-player">Player</th>
+            <th class="col-bye">Bye</th>
+            <th class="col-ecr">ECR</th>
+            <th class="col-adp">ADP</th>
+            <th class="col-adp-sites" title="ECR vs ADP delta">vs ADP</th>
+            <th class="col-news">News</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+
+    <div id="noResults" class="no-results hidden">No players match your search.</div>
+    <div id="loadingState" class="loading-state">Loading rankings…</div>
+    <div id="errorState" class="error-state hidden">Failed to load rankings. Please try again later.</div>
+  </main>
+
+  <!-- News drawer -->
+  <aside class="news-drawer" id="newsDrawer" aria-label="Player news" aria-hidden="true">
+    <div class="drawer-backdrop" id="drawerBackdrop"></div>
+    <div class="drawer-panel" id="drawerPanel">
+      <div class="drawer-header">
+        <div class="drawer-player-info">
+          <img class="drawer-headshot" id="drawerHeadshot" src="" alt="" />
+          <div>
+            <h2 class="drawer-player-name" id="drawerPlayerName">—</h2>
+            <p class="drawer-player-sub" id="drawerPlayerSub">—</p>
+          </div>
+        </div>
+        <button class="drawer-close" id="drawerClose" aria-label="Close news panel">&#x2715;</button>
+      </div>
+      <div class="drawer-stats" id="drawerStats"></div>
+      <div class="drawer-news" id="drawerNews">
+        <p class="drawer-no-news">No recent news.</p>
+      </div>
+    </div>
+  </aside>
+
+  <script src="app.js"></script>
+</body>
+</html>

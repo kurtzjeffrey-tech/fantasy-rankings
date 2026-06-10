@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 install *)",
+      "Bash(python3 scripts/fetch_data.py)",
+      "mcp__visualize__read_me",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(npx --version)",
+      "Bash(which node; which php; which ruby; ls /usr/local/bin/ 2>/dev/null | head -20)",
+      "Bash(python3 -c ' *)",
+      "mcp__visualize__show_widget",
+      "Bash(gh auth *)",
+      "Bash(git --version)",
+      "Bash(brew install *)"
+    ]
+  }
+}
