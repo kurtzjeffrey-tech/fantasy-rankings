@@ -17,14 +17,62 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "51.5",
+      "overall": "51.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "2026 NFL contracts: Next to get a big deal at every position",
+        "description": "Will Patrick Mahomes stick as the highest-paid QB? Could another edge rusher top Will Anderson Jr.? We named the next players to get PAID at every position.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49010295/2026-nfl-season-contracts-market-reset-every-position-extensions-barnwell",
+        "timestamp": "2026-06-11T10:32:59Z",
+        "player_names": [
+          "Patrick Mahomes",
+          "Lamar Jackson"
+        ],
+        "player_name": "Patrick Mahomes",
+        "teams": [
+          "Dallas Cowboys",
+          "Baltimore Ravens",
+          "Houston Texans",
+          "Seattle Seahawks",
+          "Los Angeles Rams",
+          "Kansas City Chiefs",
+          "Philadelphia Eagles",
+          "Pittsburgh Steelers",
+          "Washington Commanders",
+          "Los Angeles Chargers",
+          "Las Vegas Raiders",
+          "Indianapolis Colts",
+          "San Francisco 49ers",
+          "Atlanta Falcons",
+          "Detroit Lions"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Lamar Jackson touts new Ravens offense under OC Declan Doyle",
+        "description": "After the Ravens wrapped up their minicamp Wednesday, Lamar Jackson expressed excitement over the future of the new offense under coordinator Declan Doyle. \"I feel like there's going to be a lot of explosiveness this year,\" the QB said.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49023246/lamar-jackson-touts-new-ravens-oc-declan-doyle-offense-mind-blowing",
+        "timestamp": "2026-06-10T23:56:35Z",
+        "player_names": [
+          "Lamar Jackson"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [
+          "Baltimore Ravens"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "4881",
     "fp_id": 17233,
     "tff_rank": 2,
@@ -128,7 +176,7 @@
         "description": "We have seen a fair share of massive contracts in the NFL. So who tops the highest-paid list at every position as of today?",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position",
-        "timestamp": "2026-06-09T20:58:12Z",
+        "timestamp": "2026-06-10T22:15:28Z",
         "player_names": [
           "Dak Prescott",
           "Josh Allen",
@@ -151,7 +199,8 @@
           "AJ Cole",
           "Will Anderson Jr",
           "Brandon Aubrey",
-          "Breece Hall"
+          "Breece Hall",
+          "Patrick Mahomes"
         ],
         "player_name": "Dak Prescott",
         "teams": [],
@@ -189,7 +238,25 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Chargers 2026 offseason: Five things we've learned in OTAs",
+        "description": "Things are changing in Los Angeles for the Chargers. Here's what we learned in OTAs.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49019894/los-angeles-chargers-learned-otas-justin-herbert-mike-mcdaniel",
+        "timestamp": "2026-06-11T10:00:08Z",
+        "player_names": [
+          "Justin Herbert",
+          "Kayode Awosika"
+        ],
+        "player_name": "Justin Herbert",
+        "teams": [
+          "Los Angeles Chargers"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "6797",
     "fp_id": 18635,
     "tff_rank": 15,
@@ -256,6 +323,22 @@
     "news": [
       {
         "source": "espn",
+        "headline": "Hurts: Nothing can take away what Eagles, Brown accomplished",
+        "description": "Eagles quarterback Jalen Hurts addressed the A.J. Brown trade for the first time since it became official Wednesday, briefly focusing on what they achieved during their four years together before spinning things forward.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49025526/jalen-hurts-take-away-eagles-aj-brown-accomplished",
+        "timestamp": "2026-06-11T05:33:07Z",
+        "player_names": [
+          "Jalen Hurts"
+        ],
+        "player_name": "Jalen Hurts",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "type": "HeadlineNews"
+      },
+      {
+        "source": "espn",
         "headline": "What Mannion can bring to Philly offense: 'Sean is an evil genius'",
         "description": "The Eagles are looking to recalibrate after last season.",
         "story": "",
@@ -267,38 +350,6 @@
         "player_name": "Jalen Hurts",
         "teams": [
           "Philadelphia Eagles"
-        ],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "2026 NFL minicamps: Teams, rookies, QBs we're watching",
-        "description": "NFL Nation frames minicamp storylines, including Jalen Hurts, Patrick Mahomes and QBs in Arizona and Minnesota.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/48988004/2026-nfl-minicamps-otas-teams-rookies-qbs-veterans-watching",
-        "timestamp": "2026-06-08T13:50:19Z",
-        "player_names": [
-          "Jalen Hurts"
-        ],
-        "player_name": "Jalen Hurts",
-        "teams": [
-          "Arizona Cardinals",
-          "New York Giants",
-          "Baltimore Ravens",
-          "Philadelphia Eagles",
-          "Buffalo Bills",
-          "Carolina Panthers",
-          "Chicago Bears",
-          "Cleveland Browns",
-          "Green Bay Packers",
-          "Houston Texans",
-          "Indianapolis Colts",
-          "Jacksonville Jaguars",
-          "Kansas City Chiefs",
-          "Minnesota Vikings",
-          "Seattle Seahawks",
-          "Las Vegas Raiders",
-          "New England Patriots"
         ],
         "type": "Story"
       }
@@ -359,7 +410,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "89.0",
+      "overall": "89.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -401,11 +452,27 @@
     "news": [
       {
         "source": "espn",
+        "headline": "How Prescott's leadership has grown in decade with Cowboys",
+        "description": "After 10 seasons, Prescott's focus is on helping his teammates grow so they can attain the ultimate goal of winning a Super Bowl.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49019755/nfl-dallas-cowboys-dak-prescott-leadership",
+        "timestamp": "2026-06-11T12:47:03Z",
+        "player_names": [
+          "Dak Prescott"
+        ],
+        "player_name": "Dak Prescott",
+        "teams": [
+          "Dallas Cowboys"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
         "headline": "Highest-paid NFL players: Most guaranteed money at every position",
         "description": "We have seen a fair share of massive contracts in the NFL. So who tops the highest-paid list at every position as of today?",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position",
-        "timestamp": "2026-06-09T20:58:12Z",
+        "timestamp": "2026-06-10T22:15:28Z",
         "player_names": [
           "Dak Prescott",
           "Josh Allen",
@@ -428,7 +495,8 @@
           "AJ Cole",
           "Will Anderson Jr",
           "Brandon Aubrey",
-          "Breece Hall"
+          "Breece Hall",
+          "Patrick Mahomes"
         ],
         "player_name": "Dak Prescott",
         "teams": [],
@@ -491,7 +559,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "81.0",
+      "overall": "81.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -523,7 +591,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "96.0",
+      "overall": "96.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -587,7 +655,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "112.5",
+      "overall": "112.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -669,7 +737,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "93.5",
+      "overall": "93.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -711,11 +779,94 @@
     "news": [
       {
         "source": "espn",
+        "headline": "2026 NFL contracts: Next to get a big deal at every position",
+        "description": "Will Patrick Mahomes stick as the highest-paid QB? Could another edge rusher top Will Anderson Jr.? We named the next players to get PAID at every position.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49010295/2026-nfl-season-contracts-market-reset-every-position-extensions-barnwell",
+        "timestamp": "2026-06-11T10:32:59Z",
+        "player_names": [
+          "Patrick Mahomes",
+          "Lamar Jackson"
+        ],
+        "player_name": "Patrick Mahomes",
+        "teams": [
+          "Dallas Cowboys",
+          "Baltimore Ravens",
+          "Houston Texans",
+          "Seattle Seahawks",
+          "Los Angeles Rams",
+          "Kansas City Chiefs",
+          "Philadelphia Eagles",
+          "Pittsburgh Steelers",
+          "Washington Commanders",
+          "Los Angeles Chargers",
+          "Las Vegas Raiders",
+          "Indianapolis Colts",
+          "San Francisco 49ers",
+          "Atlanta Falcons",
+          "Detroit Lions"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Highest-paid NFL players: Most guaranteed money at every position",
+        "description": "We have seen a fair share of massive contracts in the NFL. So who tops the highest-paid list at every position as of today?",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/34096853/highest-paid-nfl-players-tracking-most-money-guaranteed-per-year-every-position",
+        "timestamp": "2026-06-10T22:15:28Z",
+        "player_names": [
+          "Dak Prescott",
+          "Josh Allen",
+          "Saquon Barkley",
+          "Jaxon Smith-Njigba",
+          "Trey McBride",
+          "Laremy Tunsil",
+          "Rashawn Slater",
+          "Trey Smith",
+          "Tyler Linderbaum",
+          "Trent McDuffie",
+          "Kyle Hamilton",
+          "Micah Parsons",
+          "Aidan Hutchinson",
+          "Chris Jones",
+          "Nik Bonitto",
+          "Reid Ferguson",
+          "Joe Cardona",
+          "Michael Dickson",
+          "AJ Cole",
+          "Will Anderson Jr",
+          "Brandon Aubrey",
+          "Breece Hall",
+          "Patrick Mahomes"
+        ],
+        "player_name": "Dak Prescott",
+        "teams": [],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Riddick after Mahomes extension: Chiefs love absolutely everything about him",
+        "description": "Riddick after Mahomes extension: Chiefs love absolutely everything about him",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/49022387/chiefs-love-absolutely-everything-him",
+        "timestamp": "2026-06-10T21:33:46Z",
+        "player_names": [
+          "Patrick Mahomes"
+        ],
+        "player_name": "Patrick Mahomes",
+        "teams": [
+          "Kansas City Chiefs"
+        ],
+        "type": "Media"
+      },
+      {
+        "source": "espn",
         "headline": "Sources: Chiefs' Patrick Mahomes to make over $500M in reworked deal",
         "description": "The Chiefs are adding two years to Patrick Mahomes' contract in a reworked contract that ties him to Kansas City through 2033 at a value of $504.75 million, sources told ESPN.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/49021927/sources-chiefs-patrick-mahomes-make-500m-reworked-deal",
-        "timestamp": "2026-06-10T21:04:20Z",
+        "timestamp": "2026-06-11T10:45:59Z",
         "player_names": [
           "Patrick Mahomes"
         ],
@@ -831,7 +982,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "126.0",
+      "overall": "127.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -863,7 +1014,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "112.0",
+      "overall": "112.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -895,7 +1046,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "150.5",
+      "overall": "152.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -927,7 +1078,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "139.5",
+      "overall": "140.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -998,24 +1149,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Can Titans' Pollard hit 1,000 yards for a fifth straight year?",
-        "description": "Only Tennessee's Tony Pollard and Baltimore's Derrick Henry have eclipsed 1,000 rushing yards each of the past four seasons.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/48967864/tennessee-titans-tony-pollard-praise-robert-saleh-1000-yards",
-        "timestamp": "2026-06-08T12:31:07Z",
-        "player_names": [
-          "Cam Ward"
-        ],
-        "player_name": "Cam Ward",
-        "teams": [
-          "Tennessee Titans"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "12522",
     "fp_id": 24755,
     "tff_rank": 22,
@@ -1040,7 +1174,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "249.0",
+      "overall": "248.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1092,7 +1226,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "175.0",
+      "overall": "176.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1147,22 +1281,6 @@
           "Arizona Cardinals"
         ],
         "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Sources: QB Jacoby Brissett to report for Cardinals minicamp",
-        "description": "Cardinals quarterback Jacoby Brissett will report for Arizona's mandatory minicamp this week, sources told ESPN, after holding out for all of the team's offseason program while he awaits a reworked contract for this season.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/48996758/qb-jacoby-brissett-report-arizona-cardinals-mandatory-minicamp",
-        "timestamp": "2026-06-08T14:11:02Z",
-        "player_names": [
-          "Jacoby Brissett"
-        ],
-        "player_name": "Jacoby Brissett",
-        "teams": [
-          "Arizona Cardinals"
-        ],
-        "type": "HeadlineNews"
       }
     ],
     "sleeper_id": "3257",
@@ -1221,7 +1339,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "166.0",
+      "overall": "165.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1253,7 +1371,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "245.5",
+      "overall": "237.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1261,23 +1379,6 @@
       "sleeper": null
     },
     "news": [
-      {
-        "source": "espn",
-        "headline": "Browns coach: QB1 decision at end of minicamp unlikely",
-        "description": "Browns coach: QB1 decision at end of minicamp unlikely",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/49013692/qb1-decision-end-minicamp-unlikely",
-        "timestamp": "2026-06-09T21:57:44Z",
-        "player_names": [
-          "Shedeur Sanders",
-          "Deshaun Watson"
-        ],
-        "player_name": "Shedeur Sanders",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "type": "Media"
-      },
       {
         "source": "espn",
         "headline": "Browns QB1 decision at end of minicamp unlikely, Monken says",
@@ -1320,7 +1421,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "228.5",
+      "overall": "230.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1402,7 +1503,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "170.5",
+      "overall": "171.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1454,7 +1555,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "221.5",
+      "overall": "222.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1464,20 +1565,19 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Browns coach: QB1 decision at end of minicamp unlikely",
-        "description": "Browns coach: QB1 decision at end of minicamp unlikely",
+        "headline": "QB Deshaun Watson eager to start again for Browns after injury",
+        "description": "Browns QB Deshaun Watson spoke to reporters Wednesday after Cleveland's second day of mandatory minicamp, marking his first comments since he ruptured his right Achilles tendon on Oct. 20, 2024.",
         "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/49013692/qb1-decision-end-minicamp-unlikely",
-        "timestamp": "2026-06-09T21:57:44Z",
+        "url": "https://www.espn.com/nfl/story/_/id/49022643/qb-deshaun-watson-eager-compete-browns-starting-job-downplays-jimmy-haslam-swing-miss-comment",
+        "timestamp": "2026-06-11T04:47:02Z",
         "player_names": [
-          "Shedeur Sanders",
           "Deshaun Watson"
         ],
-        "player_name": "Shedeur Sanders",
+        "player_name": "Deshaun Watson",
         "teams": [
           "Cleveland Browns"
         ],
-        "type": "Media"
+        "type": "HeadlineNews"
       },
       {
         "source": "espn",
@@ -1521,7 +1621,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "330.0",
+      "overall": "326.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1585,7 +1685,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "305.5",
+      "overall": "301.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1617,7 +1717,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "354.0",
+      "overall": "363.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1668,7 +1768,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "345.0",
+      "overall": "354.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1732,7 +1832,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "348.0",
+      "overall": "343.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1764,7 +1864,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "296.0",
+      "overall": "299.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1860,7 +1960,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "358.0",
+      "overall": "361.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1892,7 +1992,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "382.0",
+      "overall": "383.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1924,7 +2024,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "269.0",
+      "overall": "272.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1956,7 +2056,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "306.0",
+      "overall": "309.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1988,7 +2088,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "366.0",
+      "overall": "370.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
