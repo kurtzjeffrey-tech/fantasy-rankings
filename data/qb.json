@@ -318,13 +318,45 @@
   },
   {
     "rank": 9,
+    "name": "Caleb Williams",
+    "team": "CHI",
+    "position": "QB",
+    "position_rank": "QB9",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11560.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": "69.0",
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11560",
+    "fp_id": 23084,
+    "tff_rank": 10,
+    "agg_rank": 9.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 10,
     "name": "Dak Prescott",
     "team": "DAL",
     "position": "QB",
-    "position_rank": "QB9",
+    "position_rank": "QB10",
     "bye": "14",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3294.jpg",
-    "injury_status": "",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -345,96 +377,15 @@
     "sleeper_id": "3294",
     "fp_id": 15600,
     "tff_rank": 9,
-    "agg_rank": 9.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 10,
-    "name": "Caleb Williams",
-    "team": "CHI",
-    "position": "QB",
-    "position_rank": "QB10",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11560.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "69.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Bears' Caleb Williams eyes taking leadership to next level this season",
-        "description": "Bears QB Caleb Williams said his his knowledge of the team's offense has allowed him to take his leadership to the next level.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49035127/bears-caleb-williams-eyes-taking-leadership-next-level-season",
-        "timestamp": "2026-06-12T17:27:34Z",
-        "player_names": [
-          "Caleb Williams"
-        ],
-        "player_name": "Caleb Williams",
-        "teams": [
-          "Chicago Bears"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "11560",
-    "fp_id": 23084,
-    "tff_rank": 10,
-    "agg_rank": 10.0,
-    "rank_change": 0
+    "agg_rank": 9.5,
+    "rank_change": -1
   },
   {
     "rank": 11,
-    "name": "Trevor Lawrence",
-    "team": "JAX",
-    "position": "QB",
-    "position_rank": "QB11",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7523.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "81.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "7523",
-    "fp_id": 19780,
-    "tff_rank": 8,
-    "agg_rank": 9.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 12,
     "name": "Brock Purdy",
     "team": "SF",
     "position": "QB",
-    "position_rank": "QB12",
+    "position_rank": "QB11",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8183.jpg",
     "injury_status": "",
@@ -458,8 +409,40 @@
     "sleeper_id": "8183",
     "fp_id": 19797,
     "tff_rank": 12,
-    "agg_rank": 12.0,
-    "rank_change": 0
+    "agg_rank": 11.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 12,
+    "name": "Trevor Lawrence",
+    "team": "JAX",
+    "position": "QB",
+    "position_rank": "QB12",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7523.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": "81.0",
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "7523",
+    "fp_id": 19780,
+    "tff_rank": 8,
+    "agg_rank": 10.0,
+    "rank_change": -1
   },
   {
     "rank": 13,
@@ -489,6 +472,22 @@
     "news": [
       {
         "source": "espn",
+        "headline": "Bucs' Baker Mayfield pushes back on durability; talks contract",
+        "description": "Bucs QB Baker Mayfield pushed back Tuesday at the notion that he needs to better protect himself while adding that he and the team are not close on contract negotiations.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49083803/bucs-baker-mayfield-pushes-back-durability-talks-contract",
+        "timestamp": "2026-06-16T18:33:27Z",
+        "player_names": [
+          "Baker Mayfield"
+        ],
+        "player_name": "Baker Mayfield",
+        "teams": [
+          "Tampa Bay Buccaneers"
+        ],
+        "type": "HeadlineNews"
+      },
+      {
+        "source": "espn",
         "headline": "Why McAfee isn't concerned over Baker Mayfield's contract status",
         "description": "Why McAfee isn't concerned over Baker Mayfield's contract status",
         "story": "",
@@ -502,22 +501,6 @@
           "Tampa Bay Buccaneers"
         ],
         "type": "Media"
-      },
-      {
-        "source": "espn",
-        "headline": "Bucs' Bowles backs Mayfield as long-term QB amid contract talks",
-        "description": "Bucs coach Todd Bowles said he \"absolutely\" wants Baker Mayfield as his long-term quarterback and that he doesn't believe the lack of progress on a new deal has impacted him.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49037608/bucs-bowles-backs-mayfield-long-term-qb-amid-contract-talks",
-        "timestamp": "2026-06-15T11:06:30Z",
-        "player_names": [
-          "Baker Mayfield"
-        ],
-        "player_name": "Baker Mayfield",
-        "teams": [
-          "Tampa Bay Buccaneers"
-        ],
-        "type": "HeadlineNews"
       }
     ],
     "sleeper_id": "4892",
@@ -1608,7 +1591,7 @@
         "description": "As coach Sean McVay cancels Rams minicamp, here's a look at some questions facing L.A. heading into training camp.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/49071184/los-angeles-rams-close-otas-three-lingering-questions-aaron-donald-puka-nacua",
-        "timestamp": "2026-06-16T10:47:20Z",
+        "timestamp": "2026-06-16T18:10:08Z",
         "player_names": [
           "Alaric Jackson",
           "Puka Nacua",
