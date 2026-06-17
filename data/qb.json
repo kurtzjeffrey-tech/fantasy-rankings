@@ -56,60 +56,10 @@
   },
   {
     "rank": 2,
-    "name": "Joe Burrow",
-    "team": "CIN",
-    "position": "QB",
-    "position_rank": "QB2",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6770.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "57.5",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Will Bengals regain contender status? Front office is confident",
-        "description": "Looking to maximize Joe Burrow's window, the Bengals acquired Dexter Lawrence during active offseason.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49075331/will-bengals-regain-contender-status-front-office-confident-dexter-lawrence-joe-burrow",
-        "timestamp": "2026-06-15T20:42:30Z",
-        "player_names": [
-          "Joe Burrow",
-          "Dexter Lawrence II"
-        ],
-        "player_name": "Joe Burrow",
-        "teams": [
-          "Cincinnati Bengals"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "6770",
-    "fp_id": 19196,
-    "tff_rank": 6,
-    "agg_rank": 4.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 3,
     "name": "Josh Allen",
     "team": "BUF",
     "position": "QB",
-    "position_rank": "QB3",
+    "position_rank": "QB2",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg",
     "injury_status": "",
@@ -133,8 +83,59 @@
     "sleeper_id": "4984",
     "fp_id": 17298,
     "tff_rank": 1,
-    "agg_rank": 2.0,
-    "rank_change": 0
+    "agg_rank": 1.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 3,
+    "name": "Joe Burrow",
+    "team": "CIN",
+    "position": "QB",
+    "position_rank": "QB3",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6770.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": "57.5",
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Burrow says Bengals remind him of 2019 national champion LSU",
+        "description": "Joe Burrow said the vibes on this year's Bengals' team are similar to what they were on the 2019 LSU team he led to a College Football Playoff championship.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49098918/burrow-says-bengals-remind-2019-national-champion-lsu",
+        "timestamp": "2026-06-17T20:03:56Z",
+        "player_names": [
+          "Joe Burrow"
+        ],
+        "player_name": "Joe Burrow",
+        "teams": [
+          "Cincinnati Bengals",
+          "LSU Tigers",
+          "Louisiana State University"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
+    "sleeper_id": "6770",
+    "fp_id": 19196,
+    "tff_rank": 6,
+    "agg_rank": 4.5,
+    "rank_change": -1
   },
   {
     "rank": 4,
@@ -190,42 +191,10 @@
   },
   {
     "rank": 5,
-    "name": "Jayden Daniels",
-    "team": "WAS",
-    "position": "QB",
-    "position_rank": "QB5",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11566.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "65.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11566",
-    "fp_id": 22902,
-    "tff_rank": 3,
-    "agg_rank": 4.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 6,
     "name": "Jalen Hurts",
     "team": "PHI",
     "position": "QB",
-    "position_rank": "QB6",
+    "position_rank": "QB5",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6904.jpg",
     "injury_status": "",
@@ -249,8 +218,40 @@
     "sleeper_id": "6904",
     "fp_id": 19275,
     "tff_rank": 5,
-    "agg_rank": 5.5,
-    "rank_change": 0
+    "agg_rank": 5.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 6,
+    "name": "Jayden Daniels",
+    "team": "WAS",
+    "position": "QB",
+    "position_rank": "QB6",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11566.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": "65.0",
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11566",
+    "fp_id": 22902,
+    "tff_rank": 3,
+    "agg_rank": 4.5,
+    "rank_change": -1
   },
   {
     "rank": 7,
@@ -286,42 +287,10 @@
   },
   {
     "rank": 8,
-    "name": "Jaxson Dart",
-    "team": "NYG",
-    "position": "QB",
-    "position_rank": "QB8",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12508.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "91.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12508",
-    "fp_id": 23160,
-    "tff_rank": 7,
-    "agg_rank": 7.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 9,
     "name": "Dak Prescott",
     "team": "DAL",
     "position": "QB",
-    "position_rank": "QB9",
+    "position_rank": "QB8",
     "bye": "14",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3294.jpg",
     "injury_status": "Questionable",
@@ -345,8 +314,40 @@
     "sleeper_id": "3294",
     "fp_id": 15600,
     "tff_rank": 9,
-    "agg_rank": 9.0,
+    "agg_rank": 8.5,
     "rank_change": 1
+  },
+  {
+    "rank": 9,
+    "name": "Jaxson Dart",
+    "team": "NYG",
+    "position": "QB",
+    "position_rank": "QB9",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12508.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": "91.0",
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12508",
+    "fp_id": 23160,
+    "tff_rank": 8,
+    "agg_rank": 8.5,
+    "rank_change": -1
   },
   {
     "rank": 10,
@@ -378,7 +379,7 @@
     "fp_id": 23084,
     "tff_rank": 10,
     "agg_rank": 10.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -425,9 +426,9 @@
     ],
     "sleeper_id": "7523",
     "fp_id": 19780,
-    "tff_rank": 8,
-    "agg_rank": 9.5,
-    "rank_change": 1
+    "tff_rank": 7,
+    "agg_rank": 9.0,
+    "rank_change": 0
   },
   {
     "rank": 12,
@@ -459,7 +460,7 @@
     "fp_id": 19797,
     "tff_rank": 12,
     "agg_rank": 12.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 13,
@@ -489,6 +490,23 @@
     "news": [
       {
         "source": "espn",
+        "headline": "Damien Woody: Bucs are playing a dangerous game with Baker Mayfield",
+        "description": "Damien Woody: Bucs are playing a dangerous game with Baker Mayfield",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/49095371/bucs-playing-dangerous-game-baker-mayfield",
+        "timestamp": "2026-06-17T14:49:57Z",
+        "player_names": [
+          "Baker Mayfield",
+          "Damien Woody"
+        ],
+        "player_name": "Baker Mayfield",
+        "teams": [
+          "Tampa Bay Buccaneers"
+        ],
+        "type": "Media"
+      },
+      {
+        "source": "espn",
         "headline": "Bucs' Baker Mayfield pushes back on durability; talks contract",
         "description": "Bucs QB Baker Mayfield pushed back Tuesday at the notion that he needs to better protect himself while adding that he and the team are not close on contract negotiations.",
         "story": "",
@@ -506,66 +524,16 @@
     ],
     "sleeper_id": "4892",
     "fp_id": 17237,
-    "tff_rank": 18,
-    "agg_rank": 15.5,
+    "tff_rank": 19,
+    "agg_rank": 16.0,
     "rank_change": 0
   },
   {
     "rank": 14,
-    "name": "Jordan Love",
-    "team": "GB",
-    "position": "QB",
-    "position_rank": "QB14",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6804.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "112.5",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "What Tyrod Taylor brings to Packers as Jordan Love's backup",
-        "description": "Green Bay is counting on Taylor's veteran presence off the field, even if he never has to play.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49020640/nfl-green-bay-packers-tyrod-taylor-jordan-love",
-        "timestamp": "2026-06-16T10:00:07Z",
-        "player_names": [
-          "Tyrod Taylor",
-          "Jordan Love"
-        ],
-        "player_name": "Tyrod Taylor",
-        "teams": [
-          "Green Bay Packers"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "6804",
-    "fp_id": 19246,
-    "tff_rank": 21,
-    "agg_rank": 17.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 15,
     "name": "Kyler Murray",
     "team": "MIN",
     "position": "QB",
-    "position_rank": "QB15",
+    "position_rank": "QB14",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
     "injury_status": "",
@@ -653,8 +621,58 @@
     "sleeper_id": "5849",
     "fp_id": 18600,
     "tff_rank": 14,
-    "agg_rank": 14.5,
-    "rank_change": 0
+    "agg_rank": 14.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 15,
+    "name": "Jordan Love",
+    "team": "GB",
+    "position": "QB",
+    "position_rank": "QB15",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6804.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": "112.5",
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "What Tyrod Taylor brings to Packers as Jordan Love's backup",
+        "description": "Green Bay is counting on Taylor's veteran presence off the field, even if he never has to play.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49020640/nfl-green-bay-packers-tyrod-taylor-jordan-love",
+        "timestamp": "2026-06-16T10:00:07Z",
+        "player_names": [
+          "Tyrod Taylor",
+          "Jordan Love"
+        ],
+        "player_name": "Tyrod Taylor",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "6804",
+    "fp_id": 19246,
+    "tff_rank": 21,
+    "agg_rank": 18.0,
+    "rank_change": -1
   },
   {
     "rank": 16,
@@ -858,33 +876,11 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "To draft or not to draft: Eight fantasy football players that should be on or off your draft board",
-        "description": "Is there a player you're too cautious with that everyone else seems to love -- or vice versa? You're not alone.",
-        "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49032463/2026-fantasy-football-draft-strategy-draft-not-draft",
-        "timestamp": "2026-06-15T11:51:53Z",
-        "player_names": [
-          "Matthew Golden",
-          "Tyler Shough",
-          "Luther Burden III",
-          "Jonathon Brooks",
-          "Michael Wilson",
-          "Christian McCaffrey",
-          "Najee Harris",
-          "Saquon Barkley"
-        ],
-        "player_name": "Matthew Golden",
-        "teams": [],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "12545",
     "fp_id": 23096,
-    "tff_rank": 19,
-    "agg_rank": 20.0,
+    "tff_rank": 18,
+    "agg_rank": 19.5,
     "rank_change": 0
   },
   {
@@ -1098,8 +1094,8 @@
     ],
     "sleeper_id": "1166",
     "fp_id": 11177,
-    "tff_rank": 33,
-    "agg_rank": 29.5,
+    "tff_rank": 34,
+    "agg_rank": 30.0,
     "rank_change": 0
   },
   {
@@ -1290,8 +1286,8 @@
     "news": [],
     "sleeper_id": "11559",
     "fp_id": 22973,
-    "tff_rank": 31,
-    "agg_rank": 31.5,
+    "tff_rank": 32,
+    "agg_rank": 32.0,
     "rank_change": 0
   },
   {
@@ -1344,8 +1340,8 @@
     ],
     "sleeper_id": "6768",
     "fp_id": 19198,
-    "tff_rank": 34,
-    "agg_rank": 33.5,
+    "tff_rank": 31,
+    "agg_rank": 32.0,
     "rank_change": 0
   },
   {
@@ -1373,28 +1369,11 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Raiders' first impressions of rookie QB Fernando Mendoza",
-        "description": "We asked coaches and players about their first impressions of the Raiders' rookie and No. 1 pick during OTAs.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49041440/las-vegas-raiders-rookie-quarterback-fernando-mendoza-first-impressions-2026-otas",
-        "timestamp": "2026-06-15T17:25:38Z",
-        "player_names": [
-          "Fernando Mendoza"
-        ],
-        "player_name": "Fernando Mendoza",
-        "teams": [
-          "Las Vegas Raiders"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "13269",
     "fp_id": 28013,
-    "tff_rank": 32,
-    "agg_rank": 33.0,
+    "tff_rank": 33,
+    "agg_rank": 33.5,
     "rank_change": 0
   },
   {
