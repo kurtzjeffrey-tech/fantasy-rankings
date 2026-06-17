@@ -24,7 +24,30 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football: Was 2025 a bad sign or just a bad season for these nine players?",
+        "description": "These players struggled in 2025. Did they have an isolated bad season, or is it a sign of trouble ahead?",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49030143/espn-nfl-fantasy-football-bad-sign-bad-season",
+        "timestamp": "2026-06-17T11:54:28Z",
+        "player_names": [
+          "Brock Bowers",
+          "Omarion Hampton",
+          "Marvin Harrison Jr",
+          "Bucky Irving",
+          "Lamar Jackson",
+          "Justin Jefferson",
+          "Terry McLaurin",
+          "Kyler Murray",
+          "Brian Thomas Jr"
+        ],
+        "player_name": "Brock Bowers",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "4881",
     "fp_id": 17233,
     "tff_rank": 2,
@@ -49,7 +72,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "58.0",
+      "overall": "57.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -99,7 +122,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "27.5",
+      "overall": "28.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -131,7 +154,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "76.0",
+      "overall": "75.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -183,7 +206,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "65.5",
+      "overall": "65.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -247,37 +270,14 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "62.0",
+      "overall": "61.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Why was Patriots rookie Gabe Jacas absent from minicamp?",
-        "description": "The linebacker is the lone second-round draft pick in the NFL who has not signed a contract.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49046571/why-new-england-patriots-gabe-jacas-contract-absent-team",
-        "timestamp": "2026-06-14T10:00:12Z",
-        "player_names": [
-          "Gabe Jacas",
-          "AJ Brown",
-          "Kayshon Boutte",
-          "Julian Hill",
-          "Eli Raridon",
-          "Drake Maye",
-          "Caleb Lomu"
-        ],
-        "player_name": "Gabe Jacas",
-        "teams": [
-          "New England Patriots"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "11564",
     "fp_id": 23046,
     "tff_rank": 4,
@@ -318,42 +318,10 @@
   },
   {
     "rank": 9,
-    "name": "Caleb Williams",
-    "team": "CHI",
-    "position": "QB",
-    "position_rank": "QB9",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11560.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "69.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11560",
-    "fp_id": 23084,
-    "tff_rank": 10,
-    "agg_rank": 9.5,
-    "rank_change": 1
-  },
-  {
-    "rank": 10,
     "name": "Dak Prescott",
     "team": "DAL",
     "position": "QB",
-    "position_rank": "QB10",
+    "position_rank": "QB9",
     "bye": "14",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3294.jpg",
     "injury_status": "Questionable",
@@ -377,15 +345,96 @@
     "sleeper_id": "3294",
     "fp_id": 15600,
     "tff_rank": 9,
-    "agg_rank": 9.5,
+    "agg_rank": 9.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 10,
+    "name": "Caleb Williams",
+    "team": "CHI",
+    "position": "QB",
+    "position_rank": "QB10",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11560.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": "69.0",
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11560",
+    "fp_id": 23084,
+    "tff_rank": 10,
+    "agg_rank": 10.0,
     "rank_change": -1
   },
   {
     "rank": 11,
+    "name": "Trevor Lawrence",
+    "team": "JAX",
+    "position": "QB",
+    "position_rank": "QB11",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7523.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": "81.0",
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Jaguars to auction off Trevor Lawrence's wig used for viral faux haircut",
+        "description": "The original haircut video, released May 14 as part of the NFL's annual schedule release event, caused a stir -- it has 3.8 million views as of June 16.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49084429/jacksonville-jaguars-trevor-lawrence-wig-auction",
+        "timestamp": "2026-06-16T21:20:14Z",
+        "player_names": [
+          "Trevor Lawrence"
+        ],
+        "player_name": "Trevor Lawrence",
+        "teams": [
+          "Jacksonville Jaguars"
+        ],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "7523",
+    "fp_id": 19780,
+    "tff_rank": 8,
+    "agg_rank": 9.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 12,
     "name": "Brock Purdy",
     "team": "SF",
     "position": "QB",
-    "position_rank": "QB11",
+    "position_rank": "QB12",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8183.jpg",
     "injury_status": "",
@@ -409,39 +458,7 @@
     "sleeper_id": "8183",
     "fp_id": 19797,
     "tff_rank": 12,
-    "agg_rank": 11.5,
-    "rank_change": 1
-  },
-  {
-    "rank": 12,
-    "name": "Trevor Lawrence",
-    "team": "JAX",
-    "position": "QB",
-    "position_rank": "QB12",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7523.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "81.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "7523",
-    "fp_id": 19780,
-    "tff_rank": 8,
-    "agg_rank": 10.0,
+    "agg_rank": 12.0,
     "rank_change": -1
   },
   {
@@ -485,22 +502,6 @@
           "Tampa Bay Buccaneers"
         ],
         "type": "HeadlineNews"
-      },
-      {
-        "source": "espn",
-        "headline": "Why McAfee isn't concerned over Baker Mayfield's contract status",
-        "description": "Why McAfee isn't concerned over Baker Mayfield's contract status",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/49042736/why-mcafee-concerned-baker-mayfield-contract-status",
-        "timestamp": "2026-06-12T19:26:36Z",
-        "player_names": [
-          "Baker Mayfield"
-        ],
-        "player_name": "Baker Mayfield",
-        "teams": [
-          "Tampa Bay Buccaneers"
-        ],
-        "type": "Media"
       }
     ],
     "sleeper_id": "4892",
@@ -587,6 +588,49 @@
     "news": [
       {
         "source": "espn",
+        "headline": "Fantasy football: Was 2025 a bad sign or just a bad season for these nine players?",
+        "description": "These players struggled in 2025. Did they have an isolated bad season, or is it a sign of trouble ahead?",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49030143/espn-nfl-fantasy-football-bad-sign-bad-season",
+        "timestamp": "2026-06-17T11:54:28Z",
+        "player_names": [
+          "Brock Bowers",
+          "Omarion Hampton",
+          "Marvin Harrison Jr",
+          "Bucky Irving",
+          "Lamar Jackson",
+          "Justin Jefferson",
+          "Terry McLaurin",
+          "Kyler Murray",
+          "Brian Thomas Jr"
+        ],
+        "player_name": "Brock Bowers",
+        "teams": [],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Did Broncos start NFL salary cap trend by cutting Russell Wilson?",
+        "description": "The Broncos took a then-record $85 million dead money hit by parting with Wilson in 2024, but their quick turnaround has turned heads.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49083979/denver-broncos-russell-wilson-release-dead-money-turnaround-nfl-convention-wisdom-altered",
+        "timestamp": "2026-06-17T10:00:12Z",
+        "player_names": [
+          "Russell Wilson",
+          "Tua Tagovailoa",
+          "Deshaun Watson",
+          "Kyler Murray",
+          "Kirk Cousins"
+        ],
+        "player_name": "Russell Wilson",
+        "teams": [
+          "Denver Broncos",
+          "Miami Dolphins"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
         "headline": "Top Vikings storylines after minicamp, from QBs to new GM",
         "description": "Here's a look at the Kyler Murray/J.J. McCarthy QB battle, the WR room, and GM Nolan Teasley's first moves.",
         "story": "",
@@ -662,7 +706,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "93.0",
+      "overall": "92.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -704,11 +748,11 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Broncos coordinator Davis Webb embracing role as playcaller",
-        "description": "Sean Payton has rarely ceded playcalling duties in the past, which is a testament to his faith in Webb, his new 31-year-old offensive coordinator.",
+        "headline": "Bo Nix on track for training camp, says 2nd surgery was for bone spurs",
+        "description": "Broncos quarterback Bo Nix made his first appearance in a full offseason practice Tuesday and said he remains on track to be ready for training camp next month.",
         "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49035483/broncos-first-year-offensive-coordinator-davis-webb-playcaller-sean-payton",
-        "timestamp": "2026-06-13T10:00:01Z",
+        "url": "https://www.espn.com/nfl/story/_/id/49087824/broncos-bo-nix-track-training-camp-says-second-ankle-surgery-was-bone-spurs",
+        "timestamp": "2026-06-17T02:02:23Z",
         "player_names": [
           "Bo Nix"
         ],
@@ -716,7 +760,7 @@
         "teams": [
           "Denver Broncos"
         ],
-        "type": "Story"
+        "type": "HeadlineNews"
       }
     ],
     "sleeper_id": "11563",
@@ -807,7 +851,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "113.0",
+      "overall": "113.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -835,25 +879,6 @@
         "player_name": "Matthew Golden",
         "teams": [],
         "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Lingering Saints questions: Alvin Kamara, Cam Jordan, captains",
-        "description": "New Orleans searching for answers at RB, edge rusher and WR ahead of this week's mandatory minicamp,",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49049312/lingering-new-orleans-saints-minicamp-questions-alvin-kamara-cameron-jordan-2026-captains",
-        "timestamp": "2026-06-15T10:00:07Z",
-        "player_names": [
-          "Alvin Kamara",
-          "Tyler Shough",
-          "Jordyn Tyson",
-          "Chris Olave"
-        ],
-        "player_name": "Alvin Kamara",
-        "teams": [
-          "New Orleans Saints"
-        ],
-        "type": "Story"
       }
     ],
     "sleeper_id": "12545",
@@ -880,7 +905,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "151.5",
+      "overall": "152.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -912,7 +937,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "140.5",
+      "overall": "141.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -983,7 +1008,40 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Titans coach Robert Saleh not concerned by Cam Ward's accuracy issues",
+        "description": "Titans coach Robert Saleh not concerned by Cam Ward's accuracy issues",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/49085665/titans-coach-robert-saleh-not-concerned-cam-ward-accuracy-issues",
+        "timestamp": "2026-06-16T20:59:07Z",
+        "player_names": [
+          "Cam Ward"
+        ],
+        "player_name": "Cam Ward",
+        "teams": [
+          "Tennessee Titans"
+        ],
+        "type": "Media"
+      },
+      {
+        "source": "espn",
+        "headline": "Titans confident in Cam Ward despite QB's accuracy issues",
+        "description": "Cam Ward has had some accuracy issues at times during OTAs over the past couple of weeks, but the Titans' coaching staff isn't concerned.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49085241/titans-confident-cam-ward-qb-accuracy-issues",
+        "timestamp": "2026-06-16T20:54:32Z",
+        "player_names": [
+          "Cam Ward"
+        ],
+        "player_name": "Cam Ward",
+        "teams": [
+          "Tennessee Titans"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "12522",
     "fp_id": 24755,
     "tff_rank": 22,
@@ -1008,14 +1066,36 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "233.5",
+      "overall": "234.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Did Broncos start NFL salary cap trend by cutting Russell Wilson?",
+        "description": "The Broncos took a then-record $85 million dead money hit by parting with Wilson in 2024, but their quick turnaround has turned heads.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49083979/denver-broncos-russell-wilson-release-dead-money-turnaround-nfl-convention-wisdom-altered",
+        "timestamp": "2026-06-17T10:00:12Z",
+        "player_names": [
+          "Russell Wilson",
+          "Tua Tagovailoa",
+          "Deshaun Watson",
+          "Kyler Murray",
+          "Kirk Cousins"
+        ],
+        "player_name": "Russell Wilson",
+        "teams": [
+          "Denver Broncos",
+          "Miami Dolphins"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "1166",
     "fp_id": 11177,
     "tff_rank": 33,
@@ -1040,7 +1120,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "172.0",
+      "overall": "173.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1072,7 +1152,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "175.5",
+      "overall": "176.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1136,7 +1216,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "165.5",
+      "overall": "166.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1168,34 +1248,14 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "230.5",
+      "overall": "230.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Browns' QB competition and 4 more things learned from OTAs",
-        "description": "Whether Shedeur Sanders or Deshaun Watson will start and the WRs' fit are among Cleveland's top storylines.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49045930/cleveland-browns-quarterback-competition-deshaun-watson-shedeur-sanders-more-learned-otas",
-        "timestamp": "2026-06-14T10:00:04Z",
-        "player_names": [
-          "Deshaun Watson",
-          "Shedeur Sanders",
-          "KC Concepcion",
-          "Denzel Boston"
-        ],
-        "player_name": "Deshaun Watson",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "12524",
     "fp_id": 25968,
     "tff_rank": 30,
@@ -1220,7 +1280,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "228.5",
+      "overall": "230.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1259,7 +1319,29 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Did Broncos start NFL salary cap trend by cutting Russell Wilson?",
+        "description": "The Broncos took a then-record $85 million dead money hit by parting with Wilson in 2024, but their quick turnaround has turned heads.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49083979/denver-broncos-russell-wilson-release-dead-money-turnaround-nfl-convention-wisdom-altered",
+        "timestamp": "2026-06-17T10:00:12Z",
+        "player_names": [
+          "Russell Wilson",
+          "Tua Tagovailoa",
+          "Deshaun Watson",
+          "Kyler Murray",
+          "Kirk Cousins"
+        ],
+        "player_name": "Russell Wilson",
+        "teams": [
+          "Denver Broncos",
+          "Miami Dolphins"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "6768",
     "fp_id": 19198,
     "tff_rank": 34,
@@ -1284,7 +1366,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "171.5",
+      "overall": "172.0",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1333,7 +1415,7 @@
       "ecr_vs_adp": null
     },
     "adp": {
-      "overall": "222.0",
+      "overall": "221.5",
       "espn": null,
       "yahoo": null,
       "nfl": null,
@@ -1343,20 +1425,22 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Browns' QB competition and 4 more things learned from OTAs",
-        "description": "Whether Shedeur Sanders or Deshaun Watson will start and the WRs' fit are among Cleveland's top storylines.",
+        "headline": "Did Broncos start NFL salary cap trend by cutting Russell Wilson?",
+        "description": "The Broncos took a then-record $85 million dead money hit by parting with Wilson in 2024, but their quick turnaround has turned heads.",
         "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49045930/cleveland-browns-quarterback-competition-deshaun-watson-shedeur-sanders-more-learned-otas",
-        "timestamp": "2026-06-14T10:00:04Z",
+        "url": "https://www.espn.com/nfl/story/_/id/49083979/denver-broncos-russell-wilson-release-dead-money-turnaround-nfl-convention-wisdom-altered",
+        "timestamp": "2026-06-17T10:00:12Z",
         "player_names": [
+          "Russell Wilson",
+          "Tua Tagovailoa",
           "Deshaun Watson",
-          "Shedeur Sanders",
-          "KC Concepcion",
-          "Denzel Boston"
+          "Kyler Murray",
+          "Kirk Cousins"
         ],
-        "player_name": "Deshaun Watson",
+        "player_name": "Russell Wilson",
         "teams": [
-          "Cleveland Browns"
+          "Denver Broncos",
+          "Miami Dolphins"
         ],
         "type": "Story"
       }
@@ -1365,573 +1449,6 @@
     "fp_id": 16398,
     "tff_rank": 36,
     "agg_rank": 35.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 36,
-    "name": "Justin Fields",
-    "team": "KC",
-    "position": "QB",
-    "position_rank": "QB36",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7591.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "313.5",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "7591",
-    "fp_id": 19781,
-    "tff_rank": null,
-    "agg_rank": 36.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 37,
-    "name": "J.J. McCarthy",
-    "team": "MIN",
-    "position": "QB",
-    "position_rank": "QB37",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11565.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "319.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11565",
-    "fp_id": 23018,
-    "tff_rank": null,
-    "agg_rank": 37.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 38,
-    "name": "Carson Beck",
-    "team": "ARI",
-    "position": "QB",
-    "position_rank": "QB38",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13272.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "308.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13272",
-    "fp_id": 22953,
-    "tff_rank": 35,
-    "agg_rank": 36.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 39,
-    "name": "Mac Jones",
-    "team": "SF",
-    "position": "QB",
-    "position_rank": "QB39",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7527.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "353.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "7527",
-    "fp_id": 20156,
-    "tff_rank": null,
-    "agg_rank": 39.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 40,
-    "name": "Anthony Richardson Sr.",
-    "team": "IND",
-    "position": "QB",
-    "position_rank": "QB40",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9229.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "356.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "9229",
-    "fp_id": 24347,
-    "tff_rank": null,
-    "agg_rank": 40.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 41,
-    "name": "Cade Klubnik",
-    "team": "NYJ",
-    "position": "QB",
-    "position_rank": "QB41",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13303.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13303",
-    "fp_id": 24361,
-    "tff_rank": null,
-    "agg_rank": 41.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 42,
-    "name": "Ty Simpson",
-    "team": "LAR",
-    "position": "QB",
-    "position_rank": "QB42",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13275.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "345.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Los Angeles Rams close OTAs with three lingering questions",
-        "description": "As coach Sean McVay cancels Rams minicamp, here's a look at some questions facing L.A. heading into training camp.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49071184/los-angeles-rams-close-otas-three-lingering-questions-aaron-donald-puka-nacua",
-        "timestamp": "2026-06-16T18:10:08Z",
-        "player_names": [
-          "Alaric Jackson",
-          "Puka Nacua",
-          "Ty Simpson"
-        ],
-        "player_name": "Alaric Jackson",
-        "teams": [
-          "Los Angeles Rams"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "13275",
-    "fp_id": 25368,
-    "tff_rank": null,
-    "agg_rank": 42.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 43,
-    "name": "Gardner Minshew II",
-    "team": "ARI",
-    "position": "QB",
-    "position_rank": "QB43",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6011.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "292.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6011",
-    "fp_id": 18562,
-    "tff_rank": null,
-    "agg_rank": 43.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 44,
-    "name": "Jimmy Garoppolo",
-    "team": "FA",
-    "position": "QB",
-    "position_rank": "QB44",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1837.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "1837",
-    "fp_id": 12208,
-    "tff_rank": null,
-    "agg_rank": 44.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 45,
-    "name": "Riley Leonard",
-    "team": "IND",
-    "position": "QB",
-    "position_rank": "QB45",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12470.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12470",
-    "fp_id": 25373,
-    "tff_rank": null,
-    "agg_rank": 45.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 46,
-    "name": "Jameis Winston",
-    "team": "NYG",
-    "position": "QB",
-    "position_rank": "QB46",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2306.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "357.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Jameis Winston helps Japan's fans clean up after World Cup match",
-        "description": "In each of their World Cup appearances, Japan's fans have cleaned up their section after matches, and Jameis Winston joined in with them Sunday.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49066052/jameis-winston-japanese-fans-clean-world-cup-2026-match-new-york-giants",
-        "timestamp": "2026-06-15T01:50:43Z",
-        "player_names": [
-          "Jameis Winston"
-        ],
-        "player_name": "Jameis Winston",
-        "teams": [
-          "New York Giants",
-          "Japan"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "2306",
-    "fp_id": 13891,
-    "tff_rank": null,
-    "agg_rank": 46.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 47,
-    "name": "Joe Flacco",
-    "team": "CIN",
-    "position": "QB",
-    "position_rank": "QB47",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/19.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "389.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "19",
-    "fp_id": 9300,
-    "tff_rank": null,
-    "agg_rank": 47.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 48,
-    "name": "Tyrod Taylor",
-    "team": "GB",
-    "position": "QB",
-    "position_rank": "QB48",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/827.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "What Tyrod Taylor brings to Packers as Jordan Love's backup",
-        "description": "Green Bay is counting on Taylor's veteran presence off the field, even if he never has to play.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49020640/nfl-green-bay-packers-tyrod-taylor-jordan-love",
-        "timestamp": "2026-06-16T10:00:07Z",
-        "player_names": [
-          "Tyrod Taylor",
-          "Jordan Love"
-        ],
-        "player_name": "Tyrod Taylor",
-        "teams": [
-          "Green Bay Packers"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "827",
-    "fp_id": 10007,
-    "tff_rank": null,
-    "agg_rank": 48.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 49,
-    "name": "Quinn Ewers",
-    "team": "MIA",
-    "position": "QB",
-    "position_rank": "QB49",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12500.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "300.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12500",
-    "fp_id": 23680,
-    "tff_rank": null,
-    "agg_rank": 49.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 50,
-    "name": "Marcus Mariota",
-    "team": "WAS",
-    "position": "QB",
-    "position_rank": "QB50",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2307.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": "373.0",
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "2307",
-    "fp_id": 13890,
-    "tff_rank": null,
-    "agg_rank": 50.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 51,
-    "name": "Carson Wentz",
-    "team": "MIN",
-    "position": "QB",
-    "position_rank": "QB51",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3161.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "3161",
-    "fp_id": 15520,
-    "tff_rank": null,
-    "agg_rank": 51.0,
     "rank_change": 0
   }
 ]
