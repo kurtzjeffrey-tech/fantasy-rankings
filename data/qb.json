@@ -1,10 +1,94 @@
 [
   {
     "rank": 1,
+    "name": "Josh Allen",
+    "team": "BUF",
+    "position": "QB",
+    "position_rank": "QB1",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "4984",
+    "fp_id": 17298,
+    "tff_rank": 1,
+    "agg_rank": 1.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 2,
+    "name": "Joe Burrow",
+    "team": "CIN",
+    "position": "QB",
+    "position_rank": "QB2",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6770.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "You can have 'em: Six big-name players I'll be passing on in drafts",
+        "description": "Joe Burrow? De'Von Achane? Liz Loza lists some bigger names that she's not overly keen on drafting this season.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49347450/fantasy-football-rankings-top-players-avoid-2026-drafts",
+        "timestamp": "2026-07-15T10:39:32Z",
+        "player_names": [
+          "Joe Burrow",
+          "Christian McCaffrey",
+          "De'Von Achane",
+          "Malik Nabers",
+          "Davante Adams",
+          "Dallas Goedert"
+        ],
+        "player_name": "Joe Burrow",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "6770",
+    "fp_id": 19196,
+    "tff_rank": 6,
+    "agg_rank": 4.0,
+    "rank_change": 0
+  },
+  {
+    "rank": 3,
     "name": "Lamar Jackson",
     "team": "BAL",
     "position": "QB",
-    "position_rank": "QB1",
+    "position_rank": "QB3",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4881.jpg",
     "injury_status": "",
@@ -61,92 +145,8 @@
     "sleeper_id": "4881",
     "fp_id": 17233,
     "tff_rank": 2,
-    "agg_rank": 1.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 2,
-    "name": "Joe Burrow",
-    "team": "CIN",
-    "position": "QB",
-    "position_rank": "QB2",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6770.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "You can have 'em: Six big-name players I'll be passing on in drafts",
-        "description": "Joe Burrow? De'Von Achane? Liz Loza lists some bigger names that she's not overly keen on drafting this season.",
-        "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/49347450/fantasy-football-rankings-top-players-avoid-2026-drafts",
-        "timestamp": "2026-07-15T10:39:32Z",
-        "player_names": [
-          "Joe Burrow",
-          "Christian McCaffrey",
-          "De'Von Achane",
-          "Malik Nabers",
-          "Davante Adams",
-          "Dallas Goedert"
-        ],
-        "player_name": "Joe Burrow",
-        "teams": [],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "6770",
-    "fp_id": 19196,
-    "tff_rank": 6,
-    "agg_rank": 4.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 3,
-    "name": "Josh Allen",
-    "team": "BUF",
-    "position": "QB",
-    "position_rank": "QB3",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4984",
-    "fp_id": 17298,
-    "tff_rank": 1,
-    "agg_rank": 2.0,
-    "rank_change": 0
+    "agg_rank": 2.5,
+    "rank_change": -2
   },
   {
     "rank": 4,
@@ -214,10 +214,42 @@
   },
   {
     "rank": 6,
+    "name": "Drake Maye",
+    "team": "NE",
+    "position": "QB",
+    "position_rank": "QB6",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11564.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11564",
+    "fp_id": 23046,
+    "tff_rank": 4,
+    "agg_rank": 5.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 7,
     "name": "Jalen Hurts",
     "team": "PHI",
     "position": "QB",
-    "position_rank": "QB6",
+    "position_rank": "QB7",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6904.jpg",
     "injury_status": "",
@@ -258,97 +290,15 @@
     "sleeper_id": "6904",
     "fp_id": 19275,
     "tff_rank": 5,
-    "agg_rank": 5.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 7,
-    "name": "Drake Maye",
-    "team": "NE",
-    "position": "QB",
-    "position_rank": "QB7",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11564.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11564",
-    "fp_id": 23046,
-    "tff_rank": 4,
-    "agg_rank": 5.5,
-    "rank_change": 0
+    "agg_rank": 6.0,
+    "rank_change": -1
   },
   {
     "rank": 8,
-    "name": "Jaxson Dart",
-    "team": "NYG",
-    "position": "QB",
-    "position_rank": "QB8",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12508.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Foxworth excited to see how Giants evolve under John Harbaugh",
-        "description": "Foxworth excited to see how Giants evolve under John Harbaugh",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/49376090/foxworth-excited-see-how-giants-evolve-john-harbaugh",
-        "timestamp": "2026-07-16T15:14:18Z",
-        "player_names": [
-          "Jaxson Dart",
-          "Cam Skattebo"
-        ],
-        "player_name": "Jaxson Dart",
-        "teams": [
-          "New York Giants"
-        ],
-        "type": "Media"
-      }
-    ],
-    "sleeper_id": "12508",
-    "fp_id": 23160,
-    "tff_rank": 7,
-    "agg_rank": 7.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 9,
     "name": "Dak Prescott",
     "team": "DAL",
     "position": "QB",
-    "position_rank": "QB9",
+    "position_rank": "QB8",
     "bye": "14",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3294.jpg",
     "injury_status": "Questionable",
@@ -391,8 +341,58 @@
     "sleeper_id": "3294",
     "fp_id": 15600,
     "tff_rank": 9,
-    "agg_rank": 9.0,
-    "rank_change": 0
+    "agg_rank": 8.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 9,
+    "name": "Jaxson Dart",
+    "team": "NYG",
+    "position": "QB",
+    "position_rank": "QB9",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12508.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Foxworth excited to see how Giants evolve under John Harbaugh",
+        "description": "Foxworth excited to see how Giants evolve under John Harbaugh",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/49376090/foxworth-excited-see-how-giants-evolve-john-harbaugh",
+        "timestamp": "2026-07-16T15:14:18Z",
+        "player_names": [
+          "Jaxson Dart",
+          "Cam Skattebo"
+        ],
+        "player_name": "Jaxson Dart",
+        "teams": [
+          "New York Giants"
+        ],
+        "type": "Media"
+      }
+    ],
+    "sleeper_id": "12508",
+    "fp_id": 23160,
+    "tff_rank": 7,
+    "agg_rank": 8.0,
+    "rank_change": -1
   },
   {
     "rank": 10,
