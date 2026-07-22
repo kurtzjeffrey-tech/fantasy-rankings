@@ -101,10 +101,66 @@
   },
   {
     "rank": 3,
+    "name": "Justin Herbert",
+    "team": "LAC",
+    "position": "QB",
+    "position_rank": "QB3",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6797.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football: Dart, Tate and more set to follow path of 2025 breakouts",
+        "description": "These players are in position to follow a similar path to last year's breakouts and produce big numbers.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49309338/fantasy-football-2026-version-2025-breakouts-nfl-sleepers",
+        "timestamp": "2026-07-22T16:26:46Z",
+        "player_names": [
+          "Jaxson Dart",
+          "Carnell Tate",
+          "Emeka Egbuka",
+          "Jeremiyah Love",
+          "Kenyon Sadiq",
+          "Justin Herbert",
+          "Kenneth Walker III",
+          "Jaylen Waddle",
+          "Terrance Ferguson",
+          "Jack Bech"
+        ],
+        "player_name": "Jaxson Dart",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "6797",
+    "fp_id": 18635,
+    "tff_rank": 11,
+    "agg_rank": 7.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 4,
     "name": "Lamar Jackson",
     "team": "BAL",
     "position": "QB",
-    "position_rank": "QB3",
+    "position_rank": "QB4",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4881.jpg",
     "injury_status": "",
@@ -128,79 +184,15 @@
     "sleeper_id": "4881",
     "fp_id": 17233,
     "tff_rank": 2,
-    "agg_rank": 2.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 4,
-    "name": "Justin Herbert",
-    "team": "LAC",
-    "position": "QB",
-    "position_rank": "QB4",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6797.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6797",
-    "fp_id": 18635,
-    "tff_rank": 11,
-    "agg_rank": 7.5,
-    "rank_change": 0
+    "agg_rank": 3.0,
+    "rank_change": -1
   },
   {
     "rank": 5,
-    "name": "Jalen Hurts",
-    "team": "PHI",
-    "position": "QB",
-    "position_rank": "QB5",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6904.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6904",
-    "fp_id": 19275,
-    "tff_rank": 5,
-    "agg_rank": 5.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 6,
     "name": "Drake Maye",
     "team": "NE",
     "position": "QB",
-    "position_rank": "QB6",
+    "position_rank": "QB5",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11564.jpg",
     "injury_status": "",
@@ -236,31 +228,63 @@
           "New England Patriots"
         ],
         "type": "Media"
-      },
-      {
-        "source": "espn",
-        "headline": "Patriots to begin training camp on a Saturday for first time in decades",
-        "description": "QB Drake Maye kicks off a historic moment for New England as well as the start of Year 3 for him.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49385736/new-england-patriots-starts-2026-training-camp-saturday-drake-maye",
-        "timestamp": "2026-07-19T10:00:02Z",
-        "player_names": [
-          "Drake Maye",
-          "Rhamondre Stevenson",
-          "Mike Onwenu"
-        ],
-        "player_name": "Drake Maye",
-        "teams": [
-          "New England Patriots"
-        ],
-        "type": "Story"
       }
     ],
     "sleeper_id": "11564",
     "fp_id": 23046,
     "tff_rank": 4,
-    "agg_rank": 5.0,
-    "rank_change": 0
+    "agg_rank": 4.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 6,
+    "name": "Jalen Hurts",
+    "team": "PHI",
+    "position": "QB",
+    "position_rank": "QB6",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6904.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Are Nick Sirianni and Jalen Hurts still underappreciated?",
+        "description": "Are Nick Sirianni and Jalen Hurts still underappreciated?",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/49424052/are-nick-sirianni-jalen-hurts-underappreciated",
+        "timestamp": "2026-07-22T13:58:56Z",
+        "player_names": [
+          "Jalen Hurts",
+          "Jason McCourty"
+        ],
+        "player_name": "Jalen Hurts",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "type": "Media"
+      }
+    ],
+    "sleeper_id": "6904",
+    "fp_id": 19275,
+    "tff_rank": 5,
+    "agg_rank": 5.5,
+    "rank_change": -1
   },
   {
     "rank": 7,
@@ -290,11 +314,11 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Stephen A. dismisses Dak's \u2018Super Bowl or bust\u2019 goal for Cowboys",
-        "description": "Stephen A. dismisses Dak's \u2018Super Bowl or bust\u2019 goal for Cowboys",
+        "headline": "Louis Riddick: Cowboys have 'no more excuses' left in Super Bowl quest",
+        "description": "Louis Riddick: Cowboys have 'no more excuses' left in Super Bowl quest",
         "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/49417366/stephen-dismisses-dak-super-bowl-bust-goal-cowboys",
-        "timestamp": "2026-07-21T14:31:22Z",
+        "url": "https://www.espn.com/video/clip/_/id/49424725/cowboys-no-more-excuses-left-super-bowl-quest",
+        "timestamp": "2026-07-22T15:43:21Z",
         "player_names": [
           "Dak Prescott"
         ],
@@ -306,11 +330,11 @@
       },
       {
         "source": "espn",
-        "headline": "Dak on whether Super Bowl is realistic for Cowboys: 'Absolutely'",
-        "description": "Dak on whether Super Bowl is realistic for Cowboys: 'Absolutely'",
+        "headline": "Stephen A. dismisses Dak's \u2018Super Bowl or bust\u2019 goal for Cowboys",
+        "description": "Stephen A. dismisses Dak's \u2018Super Bowl or bust\u2019 goal for Cowboys",
         "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/49391371/absolutely",
-        "timestamp": "2026-07-18T15:09:23Z",
+        "url": "https://www.espn.com/video/clip/_/id/49417366/stephen-dismisses-dak-super-bowl-bust-goal-cowboys",
+        "timestamp": "2026-07-21T14:31:22Z",
         "player_names": [
           "Dak Prescott"
         ],
@@ -353,6 +377,29 @@
       "sleeper": null
     },
     "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football: Dart, Tate and more set to follow path of 2025 breakouts",
+        "description": "These players are in position to follow a similar path to last year's breakouts and produce big numbers.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49309338/fantasy-football-2026-version-2025-breakouts-nfl-sleepers",
+        "timestamp": "2026-07-22T16:26:46Z",
+        "player_names": [
+          "Jaxson Dart",
+          "Carnell Tate",
+          "Emeka Egbuka",
+          "Jeremiyah Love",
+          "Kenyon Sadiq",
+          "Justin Herbert",
+          "Kenneth Walker III",
+          "Jaylen Waddle",
+          "Terrance Ferguson",
+          "Jack Bech"
+        ],
+        "player_name": "Jaxson Dart",
+        "teams": [],
+        "type": "Story"
+      },
       {
         "source": "espn",
         "headline": "This QB could win you your league \ud83c\udfc6",
@@ -557,74 +604,10 @@
   },
   {
     "rank": 14,
-    "name": "Kyler Murray",
-    "team": "MIN",
-    "position": "QB",
-    "position_rank": "QB14",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "5849",
-    "fp_id": 18600,
-    "tff_rank": 15,
-    "agg_rank": 14.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 15,
-    "name": "Matthew Stafford",
-    "team": "LAR",
-    "position": "QB",
-    "position_rank": "QB15",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/421.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "421",
-    "fp_id": 9451,
-    "tff_rank": 17,
-    "agg_rank": 16.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 16,
     "name": "Patrick Mahomes II",
     "team": "KC",
     "position": "QB",
-    "position_rank": "QB16",
+    "position_rank": "QB14",
     "bye": "5",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4046.jpg",
     "injury_status": "Questionable",
@@ -667,8 +650,72 @@
     "sleeper_id": "4046",
     "fp_id": 16413,
     "tff_rank": 16,
-    "agg_rank": 16.0,
-    "rank_change": 0
+    "agg_rank": 15.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 15,
+    "name": "Kyler Murray",
+    "team": "MIN",
+    "position": "QB",
+    "position_rank": "QB15",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5849",
+    "fp_id": 18600,
+    "tff_rank": 15,
+    "agg_rank": 15.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 16,
+    "name": "Malik Willis",
+    "team": "MIA",
+    "position": "QB",
+    "position_rank": "QB16",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8161.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "8161",
+    "fp_id": 23499,
+    "tff_rank": 20,
+    "agg_rank": 18.0,
+    "rank_change": 3
   },
   {
     "rank": 17,
@@ -704,10 +751,42 @@
   },
   {
     "rank": 18,
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "position": "QB",
+    "position_rank": "QB18",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/421.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "421",
+    "fp_id": 9451,
+    "tff_rank": 17,
+    "agg_rank": 17.5,
+    "rank_change": -3
+  },
+  {
+    "rank": 19,
     "name": "Jordan Love",
     "team": "GB",
     "position": "QB",
-    "position_rank": "QB18",
+    "position_rank": "QB19",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6804.jpg",
     "injury_status": "",
@@ -750,40 +829,8 @@
     "sleeper_id": "6804",
     "fp_id": 19246,
     "tff_rank": 21,
-    "agg_rank": 19.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 19,
-    "name": "Malik Willis",
-    "team": "MIA",
-    "position": "QB",
-    "position_rank": "QB19",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8161.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "8161",
-    "fp_id": 23499,
-    "tff_rank": 20,
-    "agg_rank": 19.5,
-    "rank_change": 0
+    "agg_rank": 20.0,
+    "rank_change": -1
   },
   {
     "rank": 20,
@@ -1043,42 +1090,10 @@
   },
   {
     "rank": 28,
-    "name": "Kirk Cousins",
-    "team": "LV",
-    "position": "QB",
-    "position_rank": "QB28",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1166.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "1166",
-    "fp_id": 11177,
-    "tff_rank": 34,
-    "agg_rank": 31.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 29,
     "name": "Aaron Rodgers",
     "team": "PIT",
     "position": "QB",
-    "position_rank": "QB29",
+    "position_rank": "QB28",
     "bye": "9",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/96.jpg",
     "injury_status": "",
@@ -1119,8 +1134,40 @@
     "sleeper_id": "96",
     "fp_id": 9001,
     "tff_rank": 28,
-    "agg_rank": 28.5,
-    "rank_change": 0
+    "agg_rank": 28.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 29,
+    "name": "Kirk Cousins",
+    "team": "LV",
+    "position": "QB",
+    "position_rank": "QB29",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1166.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "1166",
+    "fp_id": 11177,
+    "tff_rank": 34,
+    "agg_rank": 31.5,
+    "rank_change": -1
   },
   {
     "rank": 30,
@@ -1156,10 +1203,63 @@
   },
   {
     "rank": 31,
+    "name": "Fernando Mendoza",
+    "team": "LV",
+    "position": "QB",
+    "position_rank": "QB31",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13269.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football buzz: Is LaPorta a late-round bargain in 2026 drafts?",
+        "description": "Tristan H. Cockcroft takes a deeper look at Sam LaPorta's upcoming 2026 season after returning from injury.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-07-22T16:14:22Z",
+        "player_names": [
+          "Rico Dowdle",
+          "Kenny Gainwell",
+          "Terrance Ferguson",
+          "Tyler Allgeier",
+          "Keaton Mitchell",
+          "Fernando Mendoza",
+          "Sam LaPorta"
+        ],
+        "player_name": "Rico Dowdle",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "13269",
+    "fp_id": 28013,
+    "tff_rank": 33,
+    "agg_rank": 32.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 32,
     "name": "Shedeur Sanders",
     "team": "CLE",
     "position": "QB",
-    "position_rank": "QB31",
+    "position_rank": "QB32",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12524.jpg",
     "injury_status": "",
@@ -1200,15 +1300,15 @@
     "sleeper_id": "12524",
     "fp_id": 25968,
     "tff_rank": 30,
-    "agg_rank": 30.5,
-    "rank_change": 0
+    "agg_rank": 31.0,
+    "rank_change": -1
   },
   {
-    "rank": 32,
+    "rank": 33,
     "name": "Tua Tagovailoa",
     "team": "ATL",
     "position": "QB",
-    "position_rank": "QB32",
+    "position_rank": "QB33",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6768.jpg",
     "injury_status": "",
@@ -1232,60 +1332,8 @@
     "sleeper_id": "6768",
     "fp_id": 19198,
     "tff_rank": 32,
-    "agg_rank": 32.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 33,
-    "name": "Fernando Mendoza",
-    "team": "LV",
-    "position": "QB",
-    "position_rank": "QB33",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13269.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Fantasy football buzz: Six backups to keep on your fantasy radar",
-        "description": "Mike Clay looks at six backups who could find fantasy relevance if things fall the right way.",
-        "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-07-21T16:58:16Z",
-        "player_names": [
-          "Rico Dowdle",
-          "Kenny Gainwell",
-          "Terrance Ferguson",
-          "Tyler Allgeier",
-          "Keaton Mitchell",
-          "Fernando Mendoza"
-        ],
-        "player_name": "Rico Dowdle",
-        "teams": [],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "13269",
-    "fp_id": 28013,
-    "tff_rank": 33,
-    "agg_rank": 33.0,
-    "rank_change": 0
+    "agg_rank": 32.5,
+    "rank_change": -1
   },
   {
     "rank": 34,
@@ -1536,24 +1584,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Where does Jets rookie QB Klubnik stand ahead of training camp?",
-        "description": "New York's fourth-round pick has made a good impression on the coaching staff.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49295893/new-york-jets-rookie-qb-klubnik-future-hope",
-        "timestamp": "2026-07-19T10:00:02Z",
-        "player_names": [
-          "Cade Klubnik"
-        ],
-        "player_name": "Cade Klubnik",
-        "teams": [
-          "New York Jets"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "13303",
     "fp_id": 24361,
     "tff_rank": null,
