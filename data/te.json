@@ -24,7 +24,24 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Raiders' Brock Bowers announces engagement to Cameron Newell",
+        "description": "Bowers and Newell took the next step in their lives together where it all began.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49447807/brock-bowers-las-vegas-raiders-engagement-announcement-cameron-newell",
+        "timestamp": "2026-07-25T18:40:08Z",
+        "player_names": [
+          "Brock Bowers"
+        ],
+        "player_name": "Brock Bowers",
+        "teams": [
+          "Las Vegas Raiders"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "11604",
     "fp_id": 22955,
     "tff_rank": 1,
@@ -1146,7 +1163,7 @@
     "position_rank": "TE36",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4217.jpg",
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "player_status": "Active",
     "ecr": {
       "avg": null,
