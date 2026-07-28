@@ -903,6 +903,24 @@
     "news": [
       {
         "source": "espn",
+        "headline": "2026 San Francisco 49ers training camp: Latest intel, updates",
+        "description": "Follow our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
+        "timestamp": "2026-07-27T21:52:00Z",
+        "player_names": [
+          "Brock Purdy",
+          "Mike Evans",
+          "Nick Bosa"
+        ],
+        "player_name": "Brock Purdy",
+        "teams": [
+          "San Francisco 49ers"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
         "headline": "Fantasy football sleepers, busts and breakouts for 2026",
         "description": "Which players will surprise, disappoint or make a big jump this fantasy season? Our analysts give their picks.",
         "story": "",
@@ -966,42 +984,6 @@
         ],
         "player_name": "Justin Herbert",
         "teams": [],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "2026 San Francisco 49ers training camp: Latest intel, updates",
-        "description": "Follow our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
-        "timestamp": "2026-07-26T21:27:13Z",
-        "player_names": [
-          "Brock Purdy",
-          "Mike Evans",
-          "Nick Bosa"
-        ],
-        "player_name": "Brock Purdy",
-        "teams": [
-          "San Francisco 49ers"
-        ],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Are the 49ers back in win-now mode for 2026?",
-        "description": "The 2025 season showed San Fran can still compete. With Mike Evans and other reinforcements the 49ers want to win now.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49435780/are-san-francisco-49ers-back-win-now-mode-2026",
-        "timestamp": "2026-07-25T10:48:25Z",
-        "player_names": [
-          "Brock Purdy",
-          "George Kittle",
-          "Mike Evans"
-        ],
-        "player_name": "Brock Purdy",
-        "teams": [
-          "San Francisco 49ers"
-        ],
         "type": "Story"
       }
     ],
@@ -1215,7 +1197,7 @@
     "position_rank": "WR27",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8142.jpg",
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -1232,7 +1214,25 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Colts' Daniel Jones says he's fully cleared for training camp",
+        "description": "Colts quarterback Daniel Jones said Monday that he is fully cleared to participate in training camp from the Achilles injury that prematurely ended his 2025 season.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49463610/colts-daniel-jones-says-fully-cleared-achilles-injury",
+        "timestamp": "2026-07-27T20:59:08Z",
+        "player_names": [
+          "Daniel Jones",
+          "Alec Pierce"
+        ],
+        "player_name": "Daniel Jones",
+        "teams": [
+          "Indianapolis Colts"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "8142",
     "fp_id": 23791,
     "tff_rank": 21,
@@ -2012,7 +2012,29 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Players with the most at stake during Chargers' training camp",
+        "description": "We picked out six players who have a lot to prove during the Los Angeles Chargers' training camp.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49433328/los-angeles-chargers-training-camp-storylines-preview-six-players-watch",
+        "timestamp": "2026-07-28T10:00:17Z",
+        "player_names": [
+          "Derius Davis",
+          "Daiyan Henley",
+          "Quentin Johnston",
+          "Tuli Tuipulotu",
+          "Jake Slaughter",
+          "Junior Colson"
+        ],
+        "player_name": "Derius Davis",
+        "teams": [
+          "Los Angeles Chargers"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "9754",
     "fp_id": 23123,
     "tff_rank": 34,
@@ -4362,7 +4384,32 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Lingering questions ahead of Raiders' 2026 training camp",
+        "description": "Everything you need to know ahead of the Raiders' 2026 training camp.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49462657/las-vegas-raiders-training-camp-preview-lingering-questions",
+        "timestamp": "2026-07-28T10:00:13Z",
+        "player_names": [
+          "Maxx Crosby",
+          "Isaiah Pola-Mao",
+          "Treydan Stukes",
+          "Dalton Johnson",
+          "Jack Bech",
+          "Dont'e Thornton Jr",
+          "Eric Stokes",
+          "Taron Johnson",
+          "Jermod McCoy"
+        ],
+        "player_name": "Maxx Crosby",
+        "teams": [
+          "Las Vegas Raiders"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "12483",
     "fp_id": 27224,
     "tff_rank": 76,
@@ -4817,7 +4864,7 @@
         "description": "Follow our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-        "timestamp": "2026-07-26T18:39:40Z",
+        "timestamp": "2026-07-27T22:29:51Z",
         "player_names": [
           "Drake Maye",
           "DeAndre Hopkins",
