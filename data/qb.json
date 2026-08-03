@@ -79,6 +79,24 @@
     "news": [
       {
         "source": "espn",
+        "headline": "Joe Burrow, Bengals find camaraderie on unusual battlefield",
+        "description": "Center Ted Karras brought a chessboard into the locker room, and it has become a hit.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49512851/joe-burrow-cincinnati-bengals-find-camaraderie-unusual-battlefield",
+        "timestamp": "2026-08-03T10:28:18Z",
+        "player_names": [
+          "Joe Burrow",
+          "Ted Karras",
+          "Erick All Jr"
+        ],
+        "player_name": "Joe Burrow",
+        "teams": [
+          "Cincinnati Bengals"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
         "headline": "2026 Cincinnati Bengals training camp: Latest intel, updates",
         "description": "Follow our daily updates from Bengals training camp, including intel on QBs, position battles and potential breakouts.",
         "story": "",
@@ -128,27 +146,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "2026 Baltimore Ravens training camp: Latest intel, updates",
-        "description": "Follow our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
-        "timestamp": "2026-08-01T18:10:39Z",
-        "player_names": [
-          "Lamar Jackson",
-          "Ja'Kobi Lane",
-          "Trey Hendrickson",
-          "Tyler Loop"
-        ],
-        "player_name": "Lamar Jackson",
-        "teams": [
-          "Baltimore Ravens"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "4881",
     "fp_id": 17233,
     "tff_rank": 2,
@@ -231,26 +229,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "2026 Philadelphia Eagles training camp: Latest intel, updates",
-        "description": "Follow our daily updates from Eagles training camp, including intel on QBs, position battles and potential breakouts.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49434399/philadelphia-eagles-training-camp-2026-intel-updates",
-        "timestamp": "2026-08-01T19:17:09Z",
-        "player_names": [
-          "Jalen Carter",
-          "Jordan Davis",
-          "Jalen Hurts"
-        ],
-        "player_name": "Jalen Carter",
-        "teams": [
-          "Philadelphia Eagles"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "6904",
     "fp_id": 19275,
     "tff_rank": 4,
@@ -520,28 +499,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "2026 Chicago Bears training camp: Latest intel, updates",
-        "description": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
-        "timestamp": "2026-08-01T19:10:41Z",
-        "player_names": [
-          "Caleb Williams",
-          "Darnell Wright",
-          "Braxton Jones",
-          "Jedrick Wills Jr",
-          "Kiran Amegadjie"
-        ],
-        "player_name": "Caleb Williams",
-        "teams": [
-          "Chicago Bears"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "11560",
     "fp_id": 23084,
     "tff_rank": 9,
@@ -720,7 +678,7 @@
         "description": "Follow our daily updates from Rams training camp, including intel on QBs, position battles and potential breakouts.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/49434454/los-angeles-rams-training-camp-2026-intel-updates",
-        "timestamp": "2026-08-02T02:49:47Z",
+        "timestamp": "2026-08-02T21:23:22Z",
         "player_names": [
           "Matthew Stafford",
           "Ty Simpson",
@@ -831,7 +789,7 @@
         "description": "Follow our daily updates from Buccaneers training camp, including intel on QBs, position battles and potential breakouts.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/49419613/tampa-bay-buccaneers-training-camp-2026-intel-updates",
-        "timestamp": "2026-08-02T19:57:41Z",
+        "timestamp": "2026-08-02T20:05:04Z",
         "player_names": [
           "Baker Mayfield",
           "Vita Vea",
@@ -879,7 +837,28 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "2026 Green Bay Packers training camp: Latest intel, updates",
+        "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
+        "timestamp": "2026-08-03T01:48:38Z",
+        "player_names": [
+          "Jordan Love",
+          "Micah Parsons",
+          "Trey Smack",
+          "Lenny Krieg",
+          "Kamal Hadden"
+        ],
+        "player_name": "Jordan Love",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "6804",
     "fp_id": 19246,
     "tff_rank": 21,
@@ -1054,7 +1033,7 @@
         "description": "Follow our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
-        "timestamp": "2026-08-02T19:01:45Z",
+        "timestamp": "2026-08-03T01:59:06Z",
         "player_names": [
           "Tyler Shough",
           "Travis Etienne Jr",
@@ -1307,25 +1286,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "2026 New York Jets training camp: Latest intel, updates",
-        "description": "Follow our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
-        "timestamp": "2026-08-01T17:11:12Z",
-        "player_names": [
-          "Breece Hall",
-          "Geno Smith"
-        ],
-        "player_name": "Breece Hall",
-        "teams": [
-          "New York Jets"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "1373",
     "fp_id": 11687,
     "tff_rank": 30,
@@ -1357,7 +1318,27 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "2026 Las Vegas Raiders training camp: Latest intel, updates",
+        "description": "Follow our daily updates from Raiders training camp, including intel on QBs, position battles and potential breakouts.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49425032/las-vegas-raiders-training-camp-2026-intel-updates",
+        "timestamp": "2026-08-02T21:10:16Z",
+        "player_names": [
+          "Maxx Crosby",
+          "Fernando Mendoza",
+          "Kirk Cousins",
+          "Kwity Paye"
+        ],
+        "player_name": "Maxx Crosby",
+        "teams": [
+          "Las Vegas Raiders"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "1166",
     "fp_id": 11177,
     "tff_rank": 33,
@@ -1498,23 +1479,6 @@
           "Cleveland Browns"
         ],
         "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Deshaun Watson: Preseason is 'great opportunity' after injuries",
-        "description": "Browns quarterback Deshaun Watson said the preseason will be a \"great opportunity\" after a pair of Achilles surgeries that have sidelined him for almost two years.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49505809/deshaun-watson-preseason-great-opportunity-injuries",
-        "timestamp": "2026-08-01T17:49:41Z",
-        "player_names": [
-          "Deshaun Watson",
-          "Shedeur Sanders"
-        ],
-        "player_name": "Deshaun Watson",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "type": "HeadlineNews"
       }
     ],
     "sleeper_id": "12524",
@@ -1580,7 +1544,27 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "2026 Las Vegas Raiders training camp: Latest intel, updates",
+        "description": "Follow our daily updates from Raiders training camp, including intel on QBs, position battles and potential breakouts.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49425032/las-vegas-raiders-training-camp-2026-intel-updates",
+        "timestamp": "2026-08-02T21:10:16Z",
+        "player_names": [
+          "Maxx Crosby",
+          "Fernando Mendoza",
+          "Kirk Cousins",
+          "Kwity Paye"
+        ],
+        "player_name": "Maxx Crosby",
+        "teams": [
+          "Las Vegas Raiders"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "13269",
     "fp_id": 28013,
     "tff_rank": 32,
@@ -1665,23 +1649,6 @@
           "Cleveland Browns"
         ],
         "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Deshaun Watson: Preseason is 'great opportunity' after injuries",
-        "description": "Browns quarterback Deshaun Watson said the preseason will be a \"great opportunity\" after a pair of Achilles surgeries that have sidelined him for almost two years.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/49505809/deshaun-watson-preseason-great-opportunity-injuries",
-        "timestamp": "2026-08-01T17:49:41Z",
-        "player_names": [
-          "Deshaun Watson",
-          "Shedeur Sanders"
-        ],
-        "player_name": "Deshaun Watson",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "type": "HeadlineNews"
       }
     ],
     "sleeper_id": "4017",
@@ -1715,7 +1682,56 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "2026 NFL training camp: Position battles on each depth chart",
+        "description": "We picked the top position battles to keep an eye on as training camp and the preseason roll on.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49513914/2026-nfl-training-camp-position-battles-afc-nfc",
+        "timestamp": "2026-08-03T10:00:11Z",
+        "player_names": [
+          "Justin Fields",
+          "Russell Wilson"
+        ],
+        "player_name": "Justin Fields",
+        "teams": [
+          "Minnesota Vikings",
+          "Pittsburgh Steelers",
+          "Denver Broncos",
+          "New England Patriots",
+          "Buffalo Bills",
+          "New York Jets",
+          "Las Vegas Raiders",
+          "Chicago Bears",
+          "Green Bay Packers",
+          "Philadelphia Eagles",
+          "Cincinnati Bengals",
+          "Dallas Cowboys",
+          "San Francisco 49ers",
+          "New York Giants",
+          "Cleveland Browns",
+          "Miami Dolphins",
+          "Los Angeles Rams",
+          "Baltimore Ravens",
+          "Houston Texans",
+          "Indianapolis Colts",
+          "Tennessee Titans",
+          "Jacksonville Jaguars",
+          "Kansas City Chiefs",
+          "Los Angeles Chargers",
+          "Washington Commanders",
+          "Detroit Lions",
+          "Atlanta Falcons",
+          "Carolina Panthers",
+          "New Orleans Saints",
+          "Tampa Bay Buccaneers",
+          "Arizona Cardinals",
+          "Seattle Seahawks"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "7591",
     "fp_id": 19781,
     "tff_rank": null,
@@ -1779,7 +1795,27 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "2026 Arizona Cardinals training camp: Latest intel, updates",
+        "description": "Follow our daily updates from Cardinals training camp, including intel on QBs, position battles and potential breakouts.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/49426382/arizona-cardinals-training-camp-2026-intel-updates",
+        "timestamp": "2026-08-03T01:18:12Z",
+        "player_names": [
+          "Trey McBride",
+          "Marvin Harrison Jr",
+          "Carson Beck",
+          "Jeremiyah Love"
+        ],
+        "player_name": "Trey McBride",
+        "teams": [
+          "Arizona Cardinals"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "13272",
     "fp_id": 22953,
     "tff_rank": 35,
@@ -1914,7 +1950,7 @@
         "description": "Follow our daily updates from Rams training camp, including intel on QBs, position battles and potential breakouts.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/49434454/los-angeles-rams-training-camp-2026-intel-updates",
-        "timestamp": "2026-08-02T02:49:47Z",
+        "timestamp": "2026-08-02T21:23:22Z",
         "player_names": [
           "Matthew Stafford",
           "Ty Simpson",
