@@ -321,42 +321,10 @@
   },
   {
     "rank": 11,
-    "name": "New Orleans Saints",
-    "team": "NO",
-    "position": "DST",
-    "position_rank": "DST11",
-    "bye": "8",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8190,
-    "tff_rank": null,
-    "agg_rank": 11.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 12,
     "name": "Los Angeles Rams",
     "team": "LAR",
     "position": "DST",
-    "position_rank": "DST12",
+    "position_rank": "DST11",
     "bye": "11",
     "headshot_url": "",
     "injury_status": "",
@@ -380,8 +348,40 @@
     "sleeper_id": null,
     "fp_id": 8280,
     "tff_rank": null,
+    "agg_rank": 11.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 12,
+    "name": "New Orleans Saints",
+    "team": "NO",
+    "position": "DST",
+    "position_rank": "DST12",
+    "bye": "8",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8190,
+    "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 13,
