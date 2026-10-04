@@ -221,7 +221,7 @@
     "fp_id": 14003,
     "tff_rank": null,
     "agg_rank": 7.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 8,
@@ -253,7 +253,7 @@
     "fp_id": 26763,
     "tff_rank": null,
     "agg_rank": 8.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 9,
@@ -381,7 +381,7 @@
     "fp_id": 19760,
     "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 13,
@@ -413,7 +413,7 @@
     "fp_id": 13029,
     "tff_rank": null,
     "agg_rank": 13.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 14,
@@ -513,42 +513,10 @@
   },
   {
     "rank": 17,
-    "name": "Matt Gay",
-    "team": "LV",
-    "position": "K",
-    "position_rank": "K17",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6083",
-    "fp_id": 18545,
-    "tff_rank": null,
-    "agg_rank": 17.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 18,
     "name": "Trey Smack",
     "team": "GB",
     "position": "K",
-    "position_rank": "K18",
+    "position_rank": "K17",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13545.jpg",
     "injury_status": "",
@@ -572,8 +540,40 @@
     "sleeper_id": "13545",
     "fp_id": 28507,
     "tff_rank": null,
+    "agg_rank": 17.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 18,
+    "name": "Matt Gay",
+    "team": "LV",
+    "position": "K",
+    "position_rank": "K18",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6083",
+    "fp_id": 18545,
+    "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 19,
@@ -728,7 +728,28 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "New York Jets vs. Chicago Bears: Game Highlights",
+        "description": "New York Jets vs. Chicago Bears: Game Highlights",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50103156/game-highlights",
+        "timestamp": "2026-10-04T20:54:50Z",
+        "player_names": [
+          "Jason Sanders",
+          "Geno Smith",
+          "Kyle Monangai",
+          "Minkah Fitzpatrick"
+        ],
+        "player_name": "Jason Sanders",
+        "teams": [
+          "Chicago Bears",
+          "New York Jets"
+        ],
+        "type": "Media"
+      }
+    ],
     "sleeper_id": "5119",
     "fp_id": 17533,
     "tff_rank": null,
