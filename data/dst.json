@@ -641,42 +641,10 @@
   },
   {
     "rank": 21,
-    "name": "Philadelphia Eagles",
-    "team": "PHI",
-    "position": "DST",
-    "position_rank": "DST21",
-    "bye": "10",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8230,
-    "tff_rank": null,
-    "agg_rank": 21.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 22,
     "name": "Green Bay Packers",
     "team": "GB",
     "position": "DST",
-    "position_rank": "DST22",
+    "position_rank": "DST21",
     "bye": "11",
     "headshot_url": "",
     "injury_status": "",
@@ -700,8 +668,40 @@
     "sleeper_id": null,
     "fp_id": 8110,
     "tff_rank": null,
+    "agg_rank": 21.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 22,
+    "name": "Philadelphia Eagles",
+    "team": "PHI",
+    "position": "DST",
+    "position_rank": "DST22",
+    "bye": "10",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8230,
+    "tff_rank": null,
     "agg_rank": 22.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 23,
