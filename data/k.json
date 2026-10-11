@@ -152,12 +152,71 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "What are the best quotes from NFL Week 5? Lawrence, Murray lead the way",
+        "description": "Here are some of the sharpest sound bites and one-liners from around the league in Week 5.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50159579/nfl-week-5-top-quotes",
+        "timestamp": "2026-10-11T21:27:26Z",
+        "player_names": [
+          "Cam Little",
+          "Trevor Lawrence",
+          "Kyler Murray",
+          "Justin Jefferson"
+        ],
+        "player_name": "Cam Little",
+        "teams": [
+          "Jacksonville Jaguars",
+          "Philadelphia Eagles",
+          "Minnesota Vikings"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Sirianni's call leads to dramatic winning kick by Jaguars' Little",
+        "description": "Eagles coach Nick Sirianni took responsibility for his handling of the closing moments of Sunday's dramatic 19-17 loss to the Jaguars in London.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50159690/sirianni-call-leads-dramatic-winning-kick-jaguars-little",
+        "timestamp": "2026-10-11T19:58:01Z",
+        "player_names": [
+          "Cam Little"
+        ],
+        "player_name": "Cam Little",
+        "teams": [
+          "Philadelphia Eagles",
+          "Jacksonville Jaguars"
+        ],
+        "type": "HeadlineNews"
+      },
+      {
+        "source": "espn",
+        "headline": "Philadelphia Eagles vs. Jacksonville Jaguars: Game Highlights",
+        "description": "Philadelphia Eagles vs. Jacksonville Jaguars: Game Highlights",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50158828/game-highlights",
+        "timestamp": "2026-10-11T17:26:18Z",
+        "player_names": [
+          "Jalen Hurts",
+          "Trevor Lawrence",
+          "Parker Washington",
+          "Cam Little"
+        ],
+        "player_name": "Jalen Hurts",
+        "teams": [
+          "Jacksonville Jaguars",
+          "Philadelphia Eagles"
+        ],
+        "type": "Media"
+      }
+    ],
     "sleeper_id": "11786",
     "fp_id": 26475,
     "tff_rank": null,
     "agg_rank": 5.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 6,
@@ -184,12 +243,32 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Houston Texans vs. Tennessee Titans: Game Highlights",
+        "description": "Houston Texans vs. Tennessee Titans: Game Highlights",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50160298/game-highlights",
+        "timestamp": "2026-10-11T20:07:45Z",
+        "player_names": [
+          "Ka'imi Fairbairn",
+          "CJ Stroud",
+          "Jaylin Noel"
+        ],
+        "player_name": "Ka'imi Fairbairn",
+        "teams": [
+          "Tennessee Titans",
+          "Houston Texans"
+        ],
+        "type": "Media"
+      }
+    ],
     "sleeper_id": "3451",
     "fp_id": 15756,
     "tff_rank": null,
     "agg_rank": 6.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 7,
@@ -225,42 +304,10 @@
   },
   {
     "rank": 8,
-    "name": "Spencer Shrader",
-    "team": "IND",
-    "position": "K",
-    "position_rank": "K8",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12185.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12185",
-    "fp_id": 26763,
-    "tff_rank": null,
-    "agg_rank": 8.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 9,
     "name": "Harrison Mevis",
     "team": "LAR",
     "position": "K",
-    "position_rank": "K9",
+    "position_rank": "K8",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12015.jpg",
     "injury_status": "",
@@ -284,8 +331,40 @@
     "sleeper_id": "12015",
     "fp_id": 26638,
     "tff_rank": null,
-    "agg_rank": 9.0,
+    "agg_rank": 8.0,
     "rank_change": 1
+  },
+  {
+    "rank": 9,
+    "name": "Spencer Shrader",
+    "team": "IND",
+    "position": "K",
+    "position_rank": "K9",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12185.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12185",
+    "fp_id": 26763,
+    "tff_rank": null,
+    "agg_rank": 9.0,
+    "rank_change": -1
   },
   {
     "rank": 10,
@@ -317,7 +396,7 @@
     "fp_id": 19760,
     "tff_rank": null,
     "agg_rank": 10.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -445,7 +524,7 @@
     "fp_id": 25354,
     "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 15,
@@ -477,7 +556,7 @@
     "fp_id": 27534,
     "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 16,
@@ -509,7 +588,7 @@
     "fp_id": 27291,
     "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 17,
@@ -541,7 +620,7 @@
     "fp_id": 9491,
     "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 18,
@@ -573,7 +652,7 @@
     "fp_id": 18545,
     "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 19,
@@ -605,7 +684,7 @@
     "fp_id": 16026,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 20,
@@ -637,7 +716,7 @@
     "fp_id": 28507,
     "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 21,
@@ -701,7 +780,7 @@
     "fp_id": 28175,
     "tff_rank": null,
     "agg_rank": 22.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -733,7 +812,7 @@
     "fp_id": 17533,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 24,
@@ -765,7 +844,7 @@
     "fp_id": 19058,
     "tff_rank": null,
     "agg_rank": 24.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 25,
@@ -797,7 +876,7 @@
     "fp_id": 28176,
     "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 26,
@@ -897,42 +976,10 @@
   },
   {
     "rank": 29,
-    "name": "Joey Slye",
-    "team": "TEN",
-    "position": "K",
-    "position_rank": "K29",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6528.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6528",
-    "fp_id": 19028,
-    "tff_rank": null,
-    "agg_rank": 29.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 30,
     "name": "Riley Patterson",
     "team": "MIA",
     "position": "K",
-    "position_rank": "K30",
+    "position_rank": "K29",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7922.jpg",
     "injury_status": "",
@@ -956,7 +1003,39 @@
     "sleeper_id": "7922",
     "fp_id": 23370,
     "tff_rank": null,
+    "agg_rank": 29.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 30,
+    "name": "Joey Slye",
+    "team": "TEN",
+    "position": "K",
+    "position_rank": "K30",
+    "bye": "9",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6528.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6528",
+    "fp_id": 19028,
+    "tff_rank": null,
     "agg_rank": 30.0,
-    "rank_change": 0
+    "rank_change": -1
   }
 ]
