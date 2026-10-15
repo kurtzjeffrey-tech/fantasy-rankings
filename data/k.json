@@ -157,7 +157,7 @@
     "fp_id": 27534,
     "tff_rank": null,
     "agg_rank": 5.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 6,
@@ -189,7 +189,7 @@
     "fp_id": 17575,
     "tff_rank": null,
     "agg_rank": 6.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 7,
@@ -385,12 +385,12 @@
   },
   {
     "rank": 13,
-    "name": "Ryan Fitzgerald",
-    "team": "CAR",
+    "name": "Dominic Zvada",
+    "team": "NYG",
     "position": "K",
     "position_rank": "K13",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12961.jpg",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13833.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -409,11 +409,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "12961",
-    "fp_id": 27261,
+    "sleeper_id": "13833",
+    "fp_id": 28176,
     "tff_rank": null,
     "agg_rank": 13.0,
-    "rank_change": 0
+    "rank_change": 2
   },
   {
     "rank": 14,
@@ -449,12 +449,12 @@
   },
   {
     "rank": 15,
-    "name": "Dominic Zvada",
-    "team": "NYG",
+    "name": "Ryan Fitzgerald",
+    "team": "CAR",
     "position": "K",
     "position_rank": "K15",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13833.jpg",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12961.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -473,11 +473,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "13833",
-    "fp_id": 28176,
+    "sleeper_id": "12961",
+    "fp_id": 27261,
     "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": 0
+    "rank_change": -2
   },
   {
     "rank": 16,
@@ -577,42 +577,10 @@
   },
   {
     "rank": 19,
-    "name": "Blake Grupe",
-    "team": "LAR",
-    "position": "K",
-    "position_rank": "K19",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11058.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11058",
-    "fp_id": 25533,
-    "tff_rank": null,
-    "agg_rank": 19.0,
-    "rank_change": 4
-  },
-  {
-    "rank": 20,
     "name": "Trey Smack",
     "team": "GB",
     "position": "K",
-    "position_rank": "K20",
+    "position_rank": "K19",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13545.jpg",
     "injury_status": "",
@@ -636,17 +604,17 @@
     "sleeper_id": "13545",
     "fp_id": 28507,
     "tff_rank": null,
-    "agg_rank": 20.0,
-    "rank_change": -1
+    "agg_rank": 19.0,
+    "rank_change": 1
   },
   {
-    "rank": 21,
-    "name": "Jake Elliott",
-    "team": "PHI",
+    "rank": 20,
+    "name": "Blake Grupe",
+    "team": "LAR",
     "position": "K",
-    "position_rank": "K21",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4195.jpg",
+    "position_rank": "K20",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11058.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -665,18 +633,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "4195",
-    "fp_id": 16540,
+    "sleeper_id": "11058",
+    "fp_id": 25533,
     "tff_rank": null,
-    "agg_rank": 21.0,
-    "rank_change": 1
+    "agg_rank": 20.0,
+    "rank_change": -1
   },
   {
-    "rank": 22,
+    "rank": 21,
     "name": "Drew Stevens",
     "team": "WAS",
     "position": "K",
-    "position_rank": "K22",
+    "position_rank": "K21",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13968.jpg",
     "injury_status": "",
@@ -699,6 +667,38 @@
     "news": [],
     "sleeper_id": "13968",
     "fp_id": 28175,
+    "tff_rank": null,
+    "agg_rank": 21.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 22,
+    "name": "Jake Elliott",
+    "team": "PHI",
+    "position": "K",
+    "position_rank": "K22",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4195.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "4195",
+    "fp_id": 16540,
     "tff_rank": null,
     "agg_rank": 22.0,
     "rank_change": -1
@@ -733,7 +733,7 @@
     "fp_id": 25354,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": -3
+    "rank_change": 0
   },
   {
     "rank": 24,
@@ -765,7 +765,7 @@
     "fp_id": 25713,
     "tff_rank": null,
     "agg_rank": 24.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 25,
@@ -797,7 +797,7 @@
     "fp_id": 16026,
     "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 26,
@@ -829,46 +829,14 @@
     "fp_id": 23901,
     "tff_rank": null,
     "agg_rank": 26.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 27,
-    "name": "Harrison Mevis",
-    "team": "FA",
-    "position": "K",
-    "position_rank": "K27",
-    "bye": null,
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12015.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12015",
-    "fp_id": 26638,
-    "tff_rank": null,
-    "agg_rank": 27.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 28,
     "name": "Jason Sanders",
     "team": "NYJ",
     "position": "K",
-    "position_rank": "K28",
+    "position_rank": "K27",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5119.jpg",
     "injury_status": "",
@@ -892,8 +860,40 @@
     "sleeper_id": "5119",
     "fp_id": 17533,
     "tff_rank": null,
+    "agg_rank": 27.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 28,
+    "name": "Harrison Mevis",
+    "team": "FA",
+    "position": "K",
+    "position_rank": "K28",
+    "bye": null,
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12015.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12015",
+    "fp_id": 26638,
+    "tff_rank": null,
     "agg_rank": 28.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 29,
