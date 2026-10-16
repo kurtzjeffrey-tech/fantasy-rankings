@@ -65,12 +65,12 @@
   },
   {
     "rank": 3,
-    "name": "Ka'imi Fairbairn",
-    "team": "HOU",
+    "name": "Eddy Pineiro",
+    "team": "SF",
     "position": "K",
     "position_rank": "K3",
     "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3451.jpg",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5189.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -89,11 +89,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "3451",
-    "fp_id": 15756,
+    "sleeper_id": "5189",
+    "fp_id": 17575,
     "tff_rank": null,
     "agg_rank": 3.0,
-    "rank_change": 0
+    "rank_change": 3
   },
   {
     "rank": 4,
@@ -120,7 +120,27 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Harry Kane has talent for NFL - Jags kicker Cam Little",
+        "description": "Cam Little is confident Harry Kane has the skill to become an NFL kicker.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50195310/harry-kane-talent-nfl-jacksonville-jaguars-kicker-cam-little",
+        "timestamp": "2026-10-16T11:58:04Z",
+        "player_names": [
+          "Cam Little",
+          "Harry Kane"
+        ],
+        "player_name": "Cam Little",
+        "teams": [
+          "Jacksonville Jaguars",
+          "England",
+          "Bayern Munich"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "11786",
     "fp_id": 26475,
     "tff_rank": null,
@@ -161,12 +181,12 @@
   },
   {
     "rank": 6,
-    "name": "Eddy Pineiro",
-    "team": "SF",
+    "name": "Ka'imi Fairbairn",
+    "team": "HOU",
     "position": "K",
     "position_rank": "K6",
     "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5189.jpg",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3451.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -185,11 +205,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "5189",
-    "fp_id": 17575,
+    "sleeper_id": "3451",
+    "fp_id": 15756,
     "tff_rank": null,
     "agg_rank": 6.0,
-    "rank_change": 0
+    "rank_change": -3
   },
   {
     "rank": 7,
@@ -253,7 +273,7 @@
     "fp_id": 19760,
     "tff_rank": null,
     "agg_rank": 8.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 9,
@@ -280,51 +300,42 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Seattle Seahawks vs. Denver Broncos: Game Highlights",
+        "description": "Seattle Seahawks vs. Denver Broncos: Game Highlights",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50194124/game-highlights",
+        "timestamp": "2026-10-16T03:59:12Z",
+        "player_names": [
+          "Jason Myers",
+          "JK Dobbins",
+          "Rashid Shaheed",
+          "Wil Lutz",
+          "RJ Harvey",
+          "George Holani"
+        ],
+        "player_name": "Jason Myers",
+        "teams": [
+          "Denver Broncos",
+          "Seattle Seahawks"
+        ],
+        "type": "Media"
+      }
+    ],
     "sleeper_id": "2747",
     "fp_id": 14003,
     "tff_rank": null,
     "agg_rank": 9.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 10,
-    "name": "Chris Boswell",
-    "team": "PIT",
-    "position": "K",
-    "position_rank": "K10",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1945.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "1945",
-    "fp_id": 13029,
-    "tff_rank": null,
-    "agg_rank": 10.0,
     "rank_change": 0
   },
   {
-    "rank": 11,
+    "rank": 10,
     "name": "Cairo Santos",
     "team": "CHI",
     "position": "K",
-    "position_rank": "K11",
+    "position_rank": "K10",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2020.jpg",
     "injury_status": "",
@@ -348,8 +359,40 @@
     "sleeper_id": "2020",
     "fp_id": 13731,
     "tff_rank": null,
-    "agg_rank": 11.0,
+    "agg_rank": 10.0,
     "rank_change": 1
+  },
+  {
+    "rank": 11,
+    "name": "Chris Boswell",
+    "team": "PIT",
+    "position": "K",
+    "position_rank": "K11",
+    "bye": "9",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1945.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "1945",
+    "fp_id": 13029,
+    "tff_rank": null,
+    "agg_rank": 11.0,
+    "rank_change": -1
   },
   {
     "rank": 12,
@@ -381,7 +424,7 @@
     "fp_id": 18545,
     "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 13,
@@ -449,42 +492,10 @@
   },
   {
     "rank": 15,
-    "name": "Ryan Fitzgerald",
-    "team": "CAR",
-    "position": "K",
-    "position_rank": "K15",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12961.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12961",
-    "fp_id": 27261,
-    "tff_rank": null,
-    "agg_rank": 15.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 16,
     "name": "Trey Smack",
     "team": "GB",
     "position": "K",
-    "position_rank": "K16",
+    "position_rank": "K15",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13545.jpg",
     "injury_status": "",
@@ -508,8 +519,40 @@
     "sleeper_id": "13545",
     "fp_id": 28507,
     "tff_rank": null,
+    "agg_rank": 15.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 16,
+    "name": "Blake Grupe",
+    "team": "LAR",
+    "position": "K",
+    "position_rank": "K16",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11058.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11058",
+    "fp_id": 25533,
+    "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": 3
+    "rank_change": 4
   },
   {
     "rank": 17,
@@ -541,16 +584,16 @@
     "fp_id": 9491,
     "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 18,
-    "name": "Chase McLaughlin",
-    "team": "TB",
+    "name": "Ryan Fitzgerald",
+    "team": "CAR",
     "position": "K",
     "position_rank": "K18",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6650.jpg",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12961.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -569,11 +612,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "6650",
-    "fp_id": 19058,
+    "sleeper_id": "12961",
+    "fp_id": 27261,
     "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": -1
+    "rank_change": -3
   },
   {
     "rank": 19,
@@ -605,16 +648,16 @@
     "fp_id": 17420,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 20,
-    "name": "Blake Grupe",
-    "team": "LAR",
+    "name": "Chase McLaughlin",
+    "team": "TB",
     "position": "K",
     "position_rank": "K20",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11058.jpg",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6650.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -633,11 +676,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "11058",
-    "fp_id": 25533,
+    "sleeper_id": "6650",
+    "fp_id": 19058,
     "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": 0
+    "rank_change": -2
   },
   {
     "rank": 21,
@@ -701,7 +744,7 @@
     "fp_id": 25354,
     "tff_rank": null,
     "agg_rank": 22.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -733,14 +776,69 @@
     "fp_id": 16540,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 24,
+    "name": "Wil Lutz",
+    "team": "DEN",
+    "position": "K",
+    "position_rank": "K24",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3678.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Seattle Seahawks vs. Denver Broncos: Game Highlights",
+        "description": "Seattle Seahawks vs. Denver Broncos: Game Highlights",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50194124/game-highlights",
+        "timestamp": "2026-10-16T03:59:12Z",
+        "player_names": [
+          "Jason Myers",
+          "JK Dobbins",
+          "Rashid Shaheed",
+          "Wil Lutz",
+          "RJ Harvey",
+          "George Holani"
+        ],
+        "player_name": "Jason Myers",
+        "teams": [
+          "Denver Broncos",
+          "Seattle Seahawks"
+        ],
+        "type": "Media"
+      }
+    ],
+    "sleeper_id": "3678",
+    "fp_id": 16026,
+    "tff_rank": null,
+    "agg_rank": 24.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 25,
     "name": "Andre Szmyt",
     "team": "CLE",
     "position": "K",
-    "position_rank": "K24",
+    "position_rank": "K25",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11261.jpg",
     "injury_status": "",
@@ -764,40 +862,8 @@
     "sleeper_id": "11261",
     "fp_id": 25713,
     "tff_rank": null,
-    "agg_rank": 24.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 25,
-    "name": "Wil Lutz",
-    "team": "DEN",
-    "position": "K",
-    "position_rank": "K25",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3678.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "3678",
-    "fp_id": 16026,
-    "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 26,
@@ -865,42 +931,10 @@
   },
   {
     "rank": 28,
-    "name": "Harrison Mevis",
-    "team": "FA",
-    "position": "K",
-    "position_rank": "K28",
-    "bye": null,
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12015.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12015",
-    "fp_id": 26638,
-    "tff_rank": null,
-    "agg_rank": 28.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 29,
     "name": "Joey Slye",
     "team": "TEN",
     "position": "K",
-    "position_rank": "K29",
+    "position_rank": "K28",
     "bye": "9",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6528.jpg",
     "injury_status": "",
@@ -924,7 +958,39 @@
     "sleeper_id": "6528",
     "fp_id": 19028,
     "tff_rank": null,
+    "agg_rank": 28.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 29,
+    "name": "Harrison Mevis",
+    "team": "FA",
+    "position": "K",
+    "position_rank": "K29",
+    "bye": null,
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12015.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12015",
+    "fp_id": 26638,
+    "tff_rank": null,
     "agg_rank": 29.0,
-    "rank_change": 0
+    "rank_change": -1
   }
 ]
