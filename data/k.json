@@ -161,12 +161,12 @@
   },
   {
     "rank": 6,
-    "name": "Harrison Butker",
-    "team": "KC",
+    "name": "Tyler Bass",
+    "team": "BUF",
     "position": "K",
     "position_rank": "K6",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4227.jpg",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7042.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -185,11 +185,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "4227",
-    "fp_id": 16712,
+    "sleeper_id": "7042",
+    "fp_id": 19760,
     "tff_rank": null,
     "agg_rank": 6.0,
-    "rank_change": 1
+    "rank_change": 2
   },
   {
     "rank": 7,
@@ -221,16 +221,16 @@
     "fp_id": 15756,
     "tff_rank": null,
     "agg_rank": 7.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 8,
-    "name": "Tyler Bass",
-    "team": "BUF",
+    "name": "Harrison Butker",
+    "team": "KC",
     "position": "K",
     "position_rank": "K8",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7042.jpg",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4227.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -249,11 +249,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "7042",
-    "fp_id": 19760,
+    "sleeper_id": "4227",
+    "fp_id": 16712,
     "tff_rank": null,
     "agg_rank": 8.0,
-    "rank_change": 0
+    "rank_change": -2
   },
   {
     "rank": 9,
@@ -285,7 +285,7 @@
     "fp_id": 13731,
     "tff_rank": null,
     "agg_rank": 9.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 10,
@@ -317,7 +317,7 @@
     "fp_id": 14003,
     "tff_rank": null,
     "agg_rank": 10.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -353,74 +353,10 @@
   },
   {
     "rank": 12,
-    "name": "Matt Gay",
-    "team": "LV",
-    "position": "K",
-    "position_rank": "K12",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6083",
-    "fp_id": 18545,
-    "tff_rank": null,
-    "agg_rank": 12.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 13,
-    "name": "Dominic Zvada",
-    "team": "NYG",
-    "position": "K",
-    "position_rank": "K13",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13833.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13833",
-    "fp_id": 28176,
-    "tff_rank": null,
-    "agg_rank": 13.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 14,
     "name": "Trey Smack",
     "team": "GB",
     "position": "K",
-    "position_rank": "K14",
+    "position_rank": "K12",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13545.jpg",
     "injury_status": "",
@@ -444,8 +380,72 @@
     "sleeper_id": "13545",
     "fp_id": 28507,
     "tff_rank": null,
+    "agg_rank": 12.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 13,
+    "name": "Matt Gay",
+    "team": "LV",
+    "position": "K",
+    "position_rank": "K13",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6083",
+    "fp_id": 18545,
+    "tff_rank": null,
+    "agg_rank": 13.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 14,
+    "name": "Dominic Zvada",
+    "team": "NYG",
+    "position": "K",
+    "position_rank": "K14",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13833.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13833",
+    "fp_id": 28176,
+    "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": 1
+    "rank_change": -1
   },
   {
     "rank": 15,
@@ -477,7 +477,7 @@
     "fp_id": 27291,
     "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 16,
