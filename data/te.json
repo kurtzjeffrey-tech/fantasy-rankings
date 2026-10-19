@@ -24,7 +24,26 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "NFL suspends Bills' C.J. Gardner-Johnson for one game for spitting",
+        "description": "The NFL has suspended Bills safety C.J. Gardner-Johnson for one game after cameras captured him spitting toward Raiders players on Sunday.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50220546/nfl-suspends-cj-gardner-johnson-one-game-spitting",
+        "timestamp": "2026-10-19T19:50:20Z",
+        "player_names": [
+          "CJ Gardner-Johnson",
+          "Brock Bowers",
+          "Tyler Linderbaum"
+        ],
+        "player_name": "CJ Gardner-Johnson",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "11604",
     "fp_id": 22955,
     "tff_rank": 2,
@@ -123,11 +142,11 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Fantasy football buzz: Who got the ball on Sunday?",
-        "description": "After Week 6 in fantasy football, which players got the ball on Sunday and which saw fewer opportunities?",
+        "headline": "Fantasy football buzz: How Davante Adams injury affects Rams",
+        "description": "What should fantasy managers do with Davante Adams set to miss the next 6-10 weeks?",
         "story": "",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-10-19T15:14:07Z",
+        "timestamp": "2026-10-19T22:03:38Z",
         "player_names": [
           "MarShawn Lloyd",
           "Ashton Jeanty",
@@ -154,7 +173,12 @@
           "Drake London",
           "Bhayshul Tuten",
           "Marvin Harrison Jr",
-          "Woody Marks"
+          "Woody Marks",
+          "Davante Adams",
+          "Tyler Higbee",
+          "Konata Mumpfield",
+          "Tutu Atwell",
+          "Jordan Whittington"
         ],
         "player_name": "MarShawn Lloyd",
         "teams": [],
@@ -384,22 +408,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Why Colston Loveland should be a fantasy starter",
-        "description": "Why Colston Loveland should be a fantasy starter",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50215632/why-colston-loveland-fantasy-starter",
-        "timestamp": "2026-10-19T01:42:32Z",
-        "player_names": [
-          "Colston Loveland"
-        ],
-        "player_name": "Colston Loveland",
-        "teams": [],
-        "type": "Media"
-      }
-    ],
+    "news": [],
     "sleeper_id": "12517",
     "fp_id": 26006,
     "tff_rank": 3,
@@ -495,7 +504,52 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football buzz: How Davante Adams injury affects Rams",
+        "description": "What should fantasy managers do with Davante Adams set to miss the next 6-10 weeks?",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-10-19T22:03:38Z",
+        "player_names": [
+          "MarShawn Lloyd",
+          "Ashton Jeanty",
+          "Omarion Hampton",
+          "Xavier Worthy",
+          "Bam Knight",
+          "Jaylen Warren",
+          "Chuba Hubbard",
+          "Jalen Coker",
+          "Tetairoa McMillan",
+          "Isaiah Likely",
+          "Kendre Miller",
+          "Braelon Allen",
+          "Omar Cooper Jr",
+          "DeMario Douglas",
+          "AJ Brown",
+          "Wan'Dale Robinson",
+          "Denzel Boston",
+          "KC Concepcion",
+          "Jaleel McLaughlin",
+          "Luther Burden III",
+          "D'Andre Swift",
+          "Kyle Pitts Sr",
+          "Drake London",
+          "Bhayshul Tuten",
+          "Marvin Harrison Jr",
+          "Woody Marks",
+          "Davante Adams",
+          "Tyler Higbee",
+          "Konata Mumpfield",
+          "Tutu Atwell",
+          "Jordan Whittington"
+        ],
+        "player_name": "MarShawn Lloyd",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "3271",
     "fp_id": 15623,
     "tff_rank": null,
