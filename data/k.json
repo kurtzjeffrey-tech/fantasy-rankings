@@ -61,7 +61,7 @@
     "fp_id": 15756,
     "tff_rank": null,
     "agg_rank": 2.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 3,
@@ -93,7 +93,7 @@
     "fp_id": 26068,
     "tff_rank": null,
     "agg_rank": 3.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 4,
@@ -125,7 +125,7 @@
     "fp_id": 13029,
     "tff_rank": null,
     "agg_rank": 4.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 5,
@@ -189,7 +189,7 @@
     "fp_id": 26763,
     "tff_rank": null,
     "agg_rank": 6.0,
-    "rank_change": -4
+    "rank_change": 0
   },
   {
     "rank": 7,
@@ -225,42 +225,10 @@
   },
   {
     "rank": 8,
-    "name": "Cairo Santos",
-    "team": "CHI",
-    "position": "K",
-    "position_rank": "K8",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2020.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "2020",
-    "fp_id": 13731,
-    "tff_rank": null,
-    "agg_rank": 8.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 9,
     "name": "Tyler Loop",
     "team": "BAL",
     "position": "K",
-    "position_rank": "K9",
+    "position_rank": "K8",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12711.jpg",
     "injury_status": "",
@@ -283,6 +251,38 @@
     "news": [],
     "sleeper_id": "12711",
     "fp_id": 27534,
+    "tff_rank": null,
+    "agg_rank": 8.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 9,
+    "name": "Cairo Santos",
+    "team": "CHI",
+    "position": "K",
+    "position_rank": "K9",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2020.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "2020",
+    "fp_id": 13731,
     "tff_rank": null,
     "agg_rank": 9.0,
     "rank_change": -1
@@ -317,7 +317,7 @@
     "fp_id": 18545,
     "tff_rank": null,
     "agg_rank": 10.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -349,46 +349,14 @@
     "fp_id": 26075,
     "tff_rank": null,
     "agg_rank": 11.0,
-    "rank_change": 4
+    "rank_change": 0
   },
   {
     "rank": 12,
-    "name": "Eddy Pineiro",
-    "team": "SF",
-    "position": "K",
-    "position_rank": "K12",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5189.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "5189",
-    "fp_id": 17575,
-    "tff_rank": null,
-    "agg_rank": 12.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 13,
     "name": "Jason Myers",
     "team": "SEA",
     "position": "K",
-    "position_rank": "K13",
+    "position_rank": "K12",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2747.jpg",
     "injury_status": "",
@@ -412,8 +380,40 @@
     "sleeper_id": "2747",
     "fp_id": 14003,
     "tff_rank": null,
+    "agg_rank": 12.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 13,
+    "name": "Eddy Pineiro",
+    "team": "SF",
+    "position": "K",
+    "position_rank": "K13",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5189.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5189",
+    "fp_id": 17575,
+    "tff_rank": null,
     "agg_rank": 13.0,
-    "rank_change": -2
+    "rank_change": -1
   },
   {
     "rank": 14,
@@ -477,7 +477,7 @@
     "fp_id": 16712,
     "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": -3
+    "rank_change": 0
   },
   {
     "rank": 16,
@@ -509,7 +509,7 @@
     "fp_id": 25354,
     "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 17,
@@ -541,7 +541,7 @@
     "fp_id": 28176,
     "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 18,
@@ -573,7 +573,7 @@
     "fp_id": 28507,
     "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 19,
@@ -605,7 +605,7 @@
     "fp_id": 27291,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 20,
@@ -637,7 +637,7 @@
     "fp_id": 9491,
     "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 21,
@@ -765,7 +765,7 @@
     "fp_id": 16026,
     "tff_rank": null,
     "agg_rank": 24.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 25,
@@ -797,7 +797,7 @@
     "fp_id": 16540,
     "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 26,
