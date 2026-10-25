@@ -120,7 +120,28 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Pittsburgh Steelers vs. New Orleans Saints: Full Game Highlight",
+        "description": "Pittsburgh Steelers vs. New Orleans Saints: Full Game Highlight ",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50277973/full-game-highlight",
+        "timestamp": "2026-10-25T18:04:25Z",
+        "player_names": [
+          "Payton Wilson",
+          "Tyler Shough",
+          "Aaron Rodgers",
+          "Chris Boswell"
+        ],
+        "player_name": "Payton Wilson",
+        "teams": [
+          "New Orleans Saints",
+          "Pittsburgh Steelers"
+        ],
+        "type": "Media"
+      }
+    ],
     "sleeper_id": "1945",
     "fp_id": 13029,
     "tff_rank": null,
@@ -189,7 +210,7 @@
     "fp_id": 13731,
     "tff_rank": null,
     "agg_rank": 6.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 7,
@@ -221,7 +242,7 @@
     "fp_id": 26075,
     "tff_rank": null,
     "agg_rank": 7.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 8,
@@ -253,7 +274,7 @@
     "fp_id": 27261,
     "tff_rank": null,
     "agg_rank": 8.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 9,
@@ -285,7 +306,7 @@
     "fp_id": 27534,
     "tff_rank": null,
     "agg_rank": 9.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 10,
@@ -317,46 +338,14 @@
     "fp_id": 17575,
     "tff_rank": null,
     "agg_rank": 10.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 11,
-    "name": "Matt Gay",
-    "team": "LV",
-    "position": "K",
-    "position_rank": "K11",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6083",
-    "fp_id": 18545,
-    "tff_rank": null,
-    "agg_rank": 11.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 12,
     "name": "Spencer Shrader",
     "team": "IND",
     "position": "K",
-    "position_rank": "K12",
+    "position_rank": "K11",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12185.jpg",
     "injury_status": "",
@@ -380,8 +369,40 @@
     "sleeper_id": "12185",
     "fp_id": 26763,
     "tff_rank": null,
+    "agg_rank": 11.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 12,
+    "name": "Matt Gay",
+    "team": "LV",
+    "position": "K",
+    "position_rank": "K12",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6083",
+    "fp_id": 18545,
+    "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": -2
+    "rank_change": -1
   },
   {
     "rank": 13,
@@ -445,7 +466,7 @@
     "fp_id": 28507,
     "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 15,
@@ -477,46 +498,14 @@
     "fp_id": 19058,
     "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 16,
-    "name": "Harrison Butker",
-    "team": "KC",
-    "position": "K",
-    "position_rank": "K16",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4227.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4227",
-    "fp_id": 16712,
-    "tff_rank": null,
-    "agg_rank": 16.0,
     "rank_change": 0
   },
   {
-    "rank": 17,
+    "rank": 16,
     "name": "Andy Borregales",
     "team": "NE",
     "position": "K",
-    "position_rank": "K17",
+    "position_rank": "K16",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12713.jpg",
     "injury_status": "",
@@ -540,8 +529,40 @@
     "sleeper_id": "12713",
     "fp_id": 27291,
     "tff_rank": null,
+    "agg_rank": 16.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 17,
+    "name": "Harrison Butker",
+    "team": "KC",
+    "position": "K",
+    "position_rank": "K17",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4227.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "4227",
+    "fp_id": 16712,
+    "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 18,
@@ -605,7 +626,7 @@
     "fp_id": 16026,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 20,
@@ -637,7 +658,7 @@
     "fp_id": 13274,
     "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 21,
@@ -669,7 +690,7 @@
     "fp_id": 25354,
     "tff_rank": null,
     "agg_rank": 21.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 22,
@@ -733,7 +754,7 @@
     "fp_id": 25713,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 24,
@@ -765,7 +786,7 @@
     "fp_id": 17533,
     "tff_rank": null,
     "agg_rank": 24.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 25,
@@ -797,7 +818,7 @@
     "fp_id": 28176,
     "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": -4
+    "rank_change": 0
   },
   {
     "rank": 26,

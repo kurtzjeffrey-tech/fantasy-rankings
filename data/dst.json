@@ -193,42 +193,10 @@
   },
   {
     "rank": 7,
-    "name": "Kansas City Chiefs",
-    "team": "KC",
-    "position": "DST",
-    "position_rank": "DST7",
-    "bye": "5",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8150,
-    "tff_rank": null,
-    "agg_rank": 7.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 8,
     "name": "Tennessee Titans",
     "team": "TEN",
     "position": "DST",
-    "position_rank": "DST8",
+    "position_rank": "DST7",
     "bye": "9",
     "headshot_url": "",
     "injury_status": "",
@@ -252,8 +220,40 @@
     "sleeper_id": null,
     "fp_id": 8300,
     "tff_rank": null,
-    "agg_rank": 8.0,
+    "agg_rank": 7.0,
     "rank_change": 1
+  },
+  {
+    "rank": 8,
+    "name": "Kansas City Chiefs",
+    "team": "KC",
+    "position": "DST",
+    "position_rank": "DST8",
+    "bye": "5",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8150,
+    "tff_rank": null,
+    "agg_rank": 8.0,
+    "rank_change": -1
   },
   {
     "rank": 9,
@@ -285,7 +285,7 @@
     "fp_id": 8040,
     "tff_rank": null,
     "agg_rank": 9.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 10,
@@ -413,46 +413,14 @@
     "fp_id": 8050,
     "tff_rank": null,
     "agg_rank": 13.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 14,
-    "name": "Dallas Cowboys",
-    "team": "DAL",
-    "position": "DST",
-    "position_rank": "DST14",
-    "bye": "14",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8080,
-    "tff_rank": null,
-    "agg_rank": 14.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 15,
     "name": "New Orleans Saints",
     "team": "NO",
     "position": "DST",
-    "position_rank": "DST15",
+    "position_rank": "DST14",
     "bye": "8",
     "headshot_url": "",
     "injury_status": "",
@@ -476,8 +444,40 @@
     "sleeper_id": null,
     "fp_id": 8190,
     "tff_rank": null,
+    "agg_rank": 14.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 15,
+    "name": "Dallas Cowboys",
+    "team": "DAL",
+    "position": "DST",
+    "position_rank": "DST15",
+    "bye": "14",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8080,
+    "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": -2
+    "rank_change": -1
   },
   {
     "rank": 16,
@@ -541,7 +541,7 @@
     "fp_id": 8060,
     "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 18,
@@ -573,7 +573,7 @@
     "fp_id": 8290,
     "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 19,
@@ -605,7 +605,7 @@
     "fp_id": 8020,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 20,
@@ -701,7 +701,7 @@
     "fp_id": 8230,
     "tff_rank": null,
     "agg_rank": 22.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -733,7 +733,7 @@
     "fp_id": 8130,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 24,
@@ -765,7 +765,7 @@
     "fp_id": 8160,
     "tff_rank": null,
     "agg_rank": 24.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 25,
