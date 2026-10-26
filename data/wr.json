@@ -27,6 +27,27 @@
     "news": [
       {
         "source": "espn",
+        "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
+        "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+        "story": "",
+        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
+        "timestamp": "2026-10-26T19:39:56Z",
+        "player_names": [
+          "Josh Allen",
+          "Brock Purdy",
+          "Patrick Mahomes",
+          "Kenneth Walker III",
+          "Jahmyr Gibbs",
+          "Trevor Lawrence",
+          "Jaxon Smith-Njigba",
+          "Joe Burrow"
+        ],
+        "player_name": "Josh Allen",
+        "teams": [],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
         "headline": "Fantasy football buzz: Who got the ball on Sunday?",
         "description": "After a busy Week 7, which players saw the most opportunity in fantasy football and which ones disappointed?",
         "story": "",
@@ -78,27 +99,6 @@
           "Kansas City Chiefs"
         ],
         "type": "HeadlineNews"
-      },
-      {
-        "source": "espn",
-        "headline": "Seahawks knock off Chiefs 20-3, giving K.C. its first loss",
-        "description": "Seahawks knock off Chiefs 20-3, giving K.C. its first loss",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50284399/seahawks-knock-chiefs-20-3-giving-kc-first-loss",
-        "timestamp": "2026-10-26T05:20:58Z",
-        "player_names": [
-          "Emanuel Wilson",
-          "Ty Okada",
-          "Jaxon Smith-Njigba",
-          "Nohl Williams",
-          "Harrison Butker"
-        ],
-        "player_name": "Emanuel Wilson",
-        "teams": [
-          "Kansas City Chiefs",
-          "Seattle Seahawks"
-        ],
-        "type": "Media"
       }
     ],
     "sleeper_id": "9488",
@@ -115,7 +115,7 @@
     "position_rank": "WR2",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7547.jpg",
-    "injury_status": "",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -437,7 +437,7 @@
     "position_rank": "WR9",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12501.jpg",
-    "injury_status": "",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -555,32 +555,6 @@
         ],
         "player_name": "Derrick Henry",
         "teams": [],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?",
-        "description": "Will J.J. McCarthy bring the Giants to the postseason? Are the Vikings headed for a bye? How bad do the 49ers need Mike Evans back? Let's overreact to Sunday's games.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals",
-        "timestamp": "2026-10-26T11:01:42Z",
-        "player_names": [
-          "Malachi Fields",
-          "Malik Willis",
-          "Nico Collins",
-          "Marvin Harrison Jr",
-          "Tank Dell",
-          "Tony Pollard",
-          "Ashton Jeanty"
-        ],
-        "player_name": "Malachi Fields",
-        "teams": [
-          "New York Giants",
-          "Cincinnati Bengals",
-          "San Francisco 49ers",
-          "Minnesota Vikings",
-          "Denver Broncos"
-        ],
         "type": "Story"
       }
     ],
@@ -796,7 +770,7 @@
         "description": "Commenting for the first time on Garrett Wilson's sideline outburst during Sunday's loss to Miami, Jets coach Aaron Glenn said it was \"overblown\" by the media.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/50287902/aaron-glenn-says-talked-garrett-wilson-outburst",
-        "timestamp": "2026-10-26T16:23:11Z",
+        "timestamp": "2026-10-26T18:08:25Z",
         "player_names": [
           "Garrett Wilson"
         ],
@@ -821,7 +795,7 @@
     "position_rank": "WR16",
     "bye": "5",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11646.jpg",
-    "injury_status": "",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -1421,26 +1395,6 @@
         "player_name": "Derrick Henry",
         "teams": [],
         "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Green Bay Packers vs. Detroit Lions: Game Highlight",
-        "description": "Green Bay Packers vs. Detroit Lions: Game Highlight",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50282971/game-highlight",
-        "timestamp": "2026-10-26T04:10:54Z",
-        "player_names": [
-          "Brian Branch",
-          "Jameson Williams",
-          "Jake Bates",
-          "Josh Jacobs"
-        ],
-        "player_name": "Brian Branch",
-        "teams": [
-          "Green Bay Packers",
-          "Detroit Lions"
-        ],
-        "type": "Media"
       }
     ],
     "sleeper_id": "8148",
@@ -1737,6 +1691,23 @@
       "sleeper": null
     },
     "news": [
+      {
+        "source": "espn",
+        "headline": "Browns balance relishing close wins, lamenting slow starts",
+        "description": "Despite a \"complete game\" by Deshaun Watson, offensive struggles are still lingering for the AFC North-leading Browns.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50288083/cleveland-browns-balance-close-wins-slow-starts-week-7",
+        "timestamp": "2026-10-26T18:34:24Z",
+        "player_names": [
+          "Deshaun Watson",
+          "KC Concepcion"
+        ],
+        "player_name": "Deshaun Watson",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "Story"
+      },
       {
         "source": "espn",
         "headline": "Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options",
@@ -2462,7 +2433,26 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Source: Seahawks LT Charles Cross has high ankle sprain, likely to miss time",
+        "description": "Seahawks left tackle Charles Cross suffered a high ankle sprain and is expected to miss time, a source told NFL Network's Ian Rapoport.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50288850/source-seahawks-lt-charles-cross-high-ankle-sprain",
+        "timestamp": "2026-10-26T18:12:57Z",
+        "player_names": [
+          "Charles Cross",
+          "Rashid Shaheed",
+          "Jadarian Price"
+        ],
+        "player_name": "Charles Cross",
+        "teams": [
+          "Seattle Seahawks"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "8676",
     "fp_id": 24687,
     "tff_rank": 51,
@@ -2661,34 +2651,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?",
-        "description": "Will J.J. McCarthy bring the Giants to the postseason? Are the Vikings headed for a bye? How bad do the 49ers need Mike Evans back? Let's overreact to Sunday's games.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals",
-        "timestamp": "2026-10-26T11:01:42Z",
-        "player_names": [
-          "Malachi Fields",
-          "Malik Willis",
-          "Nico Collins",
-          "Marvin Harrison Jr",
-          "Tank Dell",
-          "Tony Pollard",
-          "Ashton Jeanty"
-        ],
-        "player_name": "Malachi Fields",
-        "teams": [
-          "New York Giants",
-          "Cincinnati Bengals",
-          "San Francisco 49ers",
-          "Minnesota Vikings",
-          "Denver Broncos"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "13285",
     "fp_id": 27994,
     "tff_rank": 71,
@@ -3087,7 +3050,7 @@
     "position_rank": "WR72",
     "bye": "14",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11034.jpg",
-    "injury_status": "",
+    "injury_status": "Out",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -3488,34 +3451,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?",
-        "description": "Will J.J. McCarthy bring the Giants to the postseason? Are the Vikings headed for a bye? How bad do the 49ers need Mike Evans back? Let's overreact to Sunday's games.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals",
-        "timestamp": "2026-10-26T11:01:42Z",
-        "player_names": [
-          "Malachi Fields",
-          "Malik Willis",
-          "Nico Collins",
-          "Marvin Harrison Jr",
-          "Tank Dell",
-          "Tony Pollard",
-          "Ashton Jeanty"
-        ],
-        "player_name": "Malachi Fields",
-        "teams": [
-          "New York Giants",
-          "Cincinnati Bengals",
-          "San Francisco 49ers",
-          "Minnesota Vikings",
-          "Denver Broncos"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "9502",
     "fp_id": 25361,
     "tff_rank": 80,
