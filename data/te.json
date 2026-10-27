@@ -77,7 +77,7 @@
     "fp_id": 22936,
     "tff_rank": 1,
     "agg_rank": 1.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 2,
@@ -109,7 +109,7 @@
     "fp_id": 22955,
     "tff_rank": 2,
     "agg_rank": 2.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 3,
@@ -141,46 +141,14 @@
     "fp_id": 25298,
     "tff_rank": 6,
     "agg_rank": 4.5,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 4,
-    "name": "Colston Loveland",
-    "team": "CHI",
-    "position": "TE",
-    "position_rank": "TE4",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12517.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12517",
-    "fp_id": 26006,
-    "tff_rank": 3,
-    "agg_rank": 3.5,
-    "rank_change": 3
-  },
-  {
-    "rank": 5,
     "name": "Dallas Goedert",
     "team": "PHI",
     "position": "TE",
-    "position_rank": "TE5",
+    "position_rank": "TE4",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5022.jpg",
     "injury_status": "",
@@ -204,8 +172,40 @@
     "sleeper_id": "5022",
     "fp_id": 17270,
     "tff_rank": 14,
-    "agg_rank": 9.5,
-    "rank_change": 3
+    "agg_rank": 9.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 5,
+    "name": "Colston Loveland",
+    "team": "CHI",
+    "position": "TE",
+    "position_rank": "TE5",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12517.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12517",
+    "fp_id": 26006,
+    "tff_rank": 3,
+    "agg_rank": 4.0,
+    "rank_change": -1
   },
   {
     "rank": 6,
@@ -237,78 +237,14 @@
     "fp_id": 22978,
     "tff_rank": 8,
     "agg_rank": 7.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 7,
-    "name": "T.J. Hockenson",
-    "team": "MIN",
-    "position": "TE",
-    "position_rank": "TE7",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5844.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "5844",
-    "fp_id": 18290,
-    "tff_rank": 23,
-    "agg_rank": 15.0,
-    "rank_change": 3
-  },
-  {
-    "rank": 8,
-    "name": "Travis Kelce",
-    "team": "KC",
-    "position": "TE",
-    "position_rank": "TE8",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1466.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "1466",
-    "fp_id": 11594,
-    "tff_rank": 12,
-    "agg_rank": 10.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 9,
     "name": "Dalton Kincaid",
     "team": "BUF",
     "position": "TE",
-    "position_rank": "TE9",
+    "position_rank": "TE7",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10236.jpg",
     "injury_status": "Questionable",
@@ -332,8 +268,72 @@
     "sleeper_id": "10236",
     "fp_id": 25247,
     "tff_rank": 11,
-    "agg_rank": 10.0,
-    "rank_change": null
+    "agg_rank": 9.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 8,
+    "name": "T.J. Hockenson",
+    "team": "MIN",
+    "position": "TE",
+    "position_rank": "TE8",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5844.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5844",
+    "fp_id": 18290,
+    "tff_rank": 23,
+    "agg_rank": 15.5,
+    "rank_change": -1
+  },
+  {
+    "rank": 9,
+    "name": "Travis Kelce",
+    "team": "KC",
+    "position": "TE",
+    "position_rank": "TE9",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1466.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "1466",
+    "fp_id": 11594,
+    "tff_rank": 12,
+    "agg_rank": 10.5,
+    "rank_change": -1
   },
   {
     "rank": 10,
@@ -365,7 +365,7 @@
     "fp_id": 20164,
     "tff_rank": 9,
     "agg_rank": 9.5,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -397,78 +397,14 @@
     "fp_id": 27050,
     "tff_rank": 5,
     "agg_rank": 8.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 12,
-    "name": "Brenton Strange",
-    "team": "JAX",
-    "position": "TE",
-    "position_rank": "TE12",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9480.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "9480",
-    "fp_id": 25345,
-    "tff_rank": 13,
-    "agg_rank": 12.5,
-    "rank_change": null
-  },
-  {
-    "rank": 13,
-    "name": "Chig Okonkwo",
-    "team": "WAS",
-    "position": "TE",
-    "position_rank": "TE13",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8210.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "8210",
-    "fp_id": 23982,
-    "tff_rank": 20,
-    "agg_rank": 16.5,
-    "rank_change": null
-  },
-  {
-    "rank": 14,
     "name": "Hunter Henry",
     "team": "NE",
     "position": "TE",
-    "position_rank": "TE14",
+    "position_rank": "TE12",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3214.jpg",
     "injury_status": "",
@@ -489,6 +425,40 @@
       "sleeper": null
     },
     "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options",
+        "description": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8",
+        "timestamp": "2026-10-27T18:28:28Z",
+        "player_names": [
+          "Malik Willis",
+          "Jonah Coleman",
+          "Omar Cooper Jr",
+          "Hunter Henry",
+          "Baker Mayfield",
+          "Geno Smith",
+          "JJ McCarthy",
+          "Michael Penix Jr",
+          "Jacoby Brissett",
+          "Dylan Sampson",
+          "Kaelon Black",
+          "Bam Knight",
+          "Seth McGowan",
+          "KC Concepcion",
+          "Caleb Douglas",
+          "Keon Coleman",
+          "Jordyn Tyson",
+          "Brenton Strange",
+          "Michael Mayer",
+          "Mike Gesicki",
+          "Devin Singletary"
+        ],
+        "player_name": "Malik Willis",
+        "teams": [],
+        "type": "Story"
+      },
       {
         "source": "espn",
         "headline": "Rest-of-season rankings: Brock Purdy dips; Omar Cooper Jr., KC Concepcion rise",
@@ -554,15 +524,82 @@
     "sleeper_id": "3214",
     "fp_id": 15561,
     "tff_rank": 17,
-    "agg_rank": 15.5,
+    "agg_rank": 14.5,
     "rank_change": 2
   },
   {
-    "rank": 15,
+    "rank": 13,
+    "name": "Brenton Strange",
+    "team": "JAX",
+    "position": "TE",
+    "position_rank": "TE13",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9480.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options",
+        "description": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8",
+        "timestamp": "2026-10-27T18:28:28Z",
+        "player_names": [
+          "Malik Willis",
+          "Jonah Coleman",
+          "Omar Cooper Jr",
+          "Hunter Henry",
+          "Baker Mayfield",
+          "Geno Smith",
+          "JJ McCarthy",
+          "Michael Penix Jr",
+          "Jacoby Brissett",
+          "Dylan Sampson",
+          "Kaelon Black",
+          "Bam Knight",
+          "Seth McGowan",
+          "KC Concepcion",
+          "Caleb Douglas",
+          "Keon Coleman",
+          "Jordyn Tyson",
+          "Brenton Strange",
+          "Michael Mayer",
+          "Mike Gesicki",
+          "Devin Singletary"
+        ],
+        "player_name": "Malik Willis",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "9480",
+    "fp_id": 25345,
+    "tff_rank": 13,
+    "agg_rank": 13.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 14,
     "name": "Tyler Warren",
     "team": "IND",
     "position": "TE",
-    "position_rank": "TE15",
+    "position_rank": "TE14",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12518.jpg",
     "injury_status": "Out",
@@ -586,17 +623,17 @@
     "sleeper_id": "12518",
     "fp_id": 26434,
     "tff_rank": 4,
-    "agg_rank": 9.5,
-    "rank_change": null
+    "agg_rank": 9.0,
+    "rank_change": 1
   },
   {
-    "rank": 16,
-    "name": "Tyler Higbee",
-    "team": "LAR",
+    "rank": 15,
+    "name": "Chig Okonkwo",
+    "team": "WAS",
     "position": "TE",
-    "position_rank": "TE16",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3271.jpg",
+    "position_rank": "TE15",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8210.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -615,18 +652,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "3271",
-    "fp_id": 15623,
-    "tff_rank": null,
-    "agg_rank": 16.0,
-    "rank_change": -5
+    "sleeper_id": "8210",
+    "fp_id": 23982,
+    "tff_rank": 20,
+    "agg_rank": 17.5,
+    "rank_change": -2
   },
   {
-    "rank": 17,
+    "rank": 16,
     "name": "Pat Freiermuth",
     "team": "PIT",
     "position": "TE",
-    "position_rank": "TE17",
+    "position_rank": "TE16",
     "bye": "9",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7600.jpg",
     "injury_status": "",
@@ -650,8 +687,40 @@
     "sleeper_id": "7600",
     "fp_id": 20163,
     "tff_rank": 24,
-    "agg_rank": 20.5,
-    "rank_change": -2
+    "agg_rank": 20.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 17,
+    "name": "Tyler Higbee",
+    "team": "LAR",
+    "position": "TE",
+    "position_rank": "TE17",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3271.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "3271",
+    "fp_id": 15623,
+    "tff_rank": null,
+    "agg_rank": 17.0,
+    "rank_change": -1
   },
   {
     "rank": 18,
@@ -683,7 +752,7 @@
     "fp_id": 17269,
     "tff_rank": 19,
     "agg_rank": 18.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 19,
@@ -710,12 +779,47 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options",
+        "description": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8",
+        "timestamp": "2026-10-27T18:28:28Z",
+        "player_names": [
+          "Malik Willis",
+          "Jonah Coleman",
+          "Omar Cooper Jr",
+          "Hunter Henry",
+          "Baker Mayfield",
+          "Geno Smith",
+          "JJ McCarthy",
+          "Michael Penix Jr",
+          "Jacoby Brissett",
+          "Dylan Sampson",
+          "Kaelon Black",
+          "Bam Knight",
+          "Seth McGowan",
+          "KC Concepcion",
+          "Caleb Douglas",
+          "Keon Coleman",
+          "Jordyn Tyson",
+          "Brenton Strange",
+          "Michael Mayer",
+          "Mike Gesicki",
+          "Devin Singletary"
+        ],
+        "player_name": "Malik Willis",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "4993",
     "fp_id": 17272,
     "tff_rank": 31,
     "agg_rank": 25.0,
-    "rank_change": 7
+    "rank_change": 0
   },
   {
     "rank": 20,
@@ -747,14 +851,81 @@
     "fp_id": 26005,
     "tff_rank": 37,
     "agg_rank": 28.5,
-    "rank_change": 9
+    "rank_change": 0
   },
   {
     "rank": 21,
+    "name": "Michael Mayer",
+    "team": "LV",
+    "position": "TE",
+    "position_rank": "TE21",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9482.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football free agent pickups: Malik Willis, Jonah Coleman lead top options",
+        "description": "Eric Karabell lists who he thinks are the top available players worth adding for the week ahead.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50286135/fantasy-football-waivers-free-agent-pickups-nfl-week-8",
+        "timestamp": "2026-10-27T18:28:28Z",
+        "player_names": [
+          "Malik Willis",
+          "Jonah Coleman",
+          "Omar Cooper Jr",
+          "Hunter Henry",
+          "Baker Mayfield",
+          "Geno Smith",
+          "JJ McCarthy",
+          "Michael Penix Jr",
+          "Jacoby Brissett",
+          "Dylan Sampson",
+          "Kaelon Black",
+          "Bam Knight",
+          "Seth McGowan",
+          "KC Concepcion",
+          "Caleb Douglas",
+          "Keon Coleman",
+          "Jordyn Tyson",
+          "Brenton Strange",
+          "Michael Mayer",
+          "Mike Gesicki",
+          "Devin Singletary"
+        ],
+        "player_name": "Malik Willis",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "9482",
+    "fp_id": 23056,
+    "tff_rank": 38,
+    "agg_rank": 29.5,
+    "rank_change": 2
+  },
+  {
+    "rank": 22,
     "name": "Colby Parkinson",
     "team": "LAR",
     "position": "TE",
-    "position_rank": "TE21",
+    "position_rank": "TE22",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6865.jpg",
     "injury_status": "",
@@ -778,15 +949,15 @@
     "sleeper_id": "6865",
     "fp_id": 19372,
     "tff_rank": 30,
-    "agg_rank": 25.5,
-    "rank_change": 0
+    "agg_rank": 26.0,
+    "rank_change": -1
   },
   {
-    "rank": 22,
+    "rank": 23,
     "name": "Darren Waller",
     "team": "CAR",
     "position": "TE",
-    "position_rank": "TE22",
+    "position_rank": "TE23",
     "bye": "5",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2505.jpg",
     "injury_status": "",
@@ -810,40 +981,8 @@
     "sleeper_id": "2505",
     "fp_id": 14104,
     "tff_rank": 29,
-    "agg_rank": 25.5,
-    "rank_change": 1
-  },
-  {
-    "rank": 23,
-    "name": "Michael Mayer",
-    "team": "LV",
-    "position": "TE",
-    "position_rank": "TE23",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9482.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "9482",
-    "fp_id": 23056,
-    "tff_rank": 38,
-    "agg_rank": 30.5,
-    "rank_change": -5
+    "agg_rank": 26.0,
+    "rank_change": -1
   },
   {
     "rank": 24,
@@ -875,7 +1014,7 @@
     "fp_id": 26335,
     "tff_rank": 26,
     "agg_rank": 25.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 25,
@@ -907,16 +1046,16 @@
     "fp_id": 22718,
     "tff_rank": 18,
     "agg_rank": 21.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 26,
-    "name": "Kenyon Sadiq",
-    "team": "NYJ",
+    "name": "Darnell Washington",
+    "team": "PIT",
     "position": "TE",
     "position_rank": "TE26",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13330.jpg",
+    "bye": "9",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9479.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -935,11 +1074,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "13330",
-    "fp_id": 26055,
-    "tff_rank": 22,
-    "agg_rank": 24.0,
-    "rank_change": 1
+    "sleeper_id": "9479",
+    "fp_id": 22967,
+    "tff_rank": 46,
+    "agg_rank": 36.0,
+    "rank_change": 3
   },
   {
     "rank": 27,
@@ -971,7 +1110,7 @@
     "fp_id": 23153,
     "tff_rank": 21,
     "agg_rank": 24.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 28,
@@ -1003,16 +1142,16 @@
     "fp_id": 23181,
     "tff_rank": 25,
     "agg_rank": 26.5,
-    "rank_change": -8
+    "rank_change": 0
   },
   {
     "rank": 29,
-    "name": "Darnell Washington",
-    "team": "PIT",
+    "name": "Kenyon Sadiq",
+    "team": "NYJ",
     "position": "TE",
     "position_rank": "TE29",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9479.jpg",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13330.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -1031,11 +1170,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "9479",
-    "fp_id": 22967,
-    "tff_rank": 46,
-    "agg_rank": 37.5,
-    "rank_change": -4
+    "sleeper_id": "13330",
+    "fp_id": 26055,
+    "tff_rank": 22,
+    "agg_rank": 25.5,
+    "rank_change": -3
   },
   {
     "rank": 30,
@@ -1067,7 +1206,7 @@
     "fp_id": 28154,
     "tff_rank": null,
     "agg_rank": 30.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 31,
@@ -1099,7 +1238,7 @@
     "fp_id": 16411,
     "tff_rank": 33,
     "agg_rank": 32.0,
-    "rank_change": -3
+    "rank_change": 0
   },
   {
     "rank": 32,
@@ -1195,7 +1334,7 @@
     "fp_id": 25997,
     "tff_rank": 27,
     "agg_rank": 30.5,
-    "rank_change": null
+    "rank_change": 0
   },
   {
     "rank": 35,
@@ -1227,110 +1366,14 @@
     "fp_id": 23119,
     "tff_rank": null,
     "agg_rank": 35.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 36,
-    "name": "Austin Hooper",
-    "team": "ATL",
-    "position": "TE",
-    "position_rank": "TE36",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3202.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "3202",
-    "fp_id": 15581,
-    "tff_rank": null,
-    "agg_rank": 36.0,
-    "rank_change": 12
-  },
-  {
-    "rank": 37,
-    "name": "Dawson Knox",
-    "team": "BUF",
-    "position": "TE",
-    "position_rank": "TE37",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5906.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "5906",
-    "fp_id": 18631,
-    "tff_rank": 36,
-    "agg_rank": 36.5,
-    "rank_change": null
-  },
-  {
-    "rank": 38,
-    "name": "Daniel Bellinger",
-    "team": "TEN",
-    "position": "TE",
-    "position_rank": "TE38",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8225.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "8225",
-    "fp_id": 24238,
-    "tff_rank": null,
-    "agg_rank": 38.0,
-    "rank_change": 8
-  },
-  {
-    "rank": 39,
     "name": "Charlie Kolar",
     "team": "LAC",
     "position": "TE",
-    "position_rank": "TE39",
+    "position_rank": "TE36",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8127.jpg",
     "injury_status": "",
@@ -1354,15 +1397,15 @@
     "sleeper_id": "8127",
     "fp_id": 22756,
     "tff_rank": 39,
-    "agg_rank": 39.0,
-    "rank_change": null
+    "agg_rank": 37.5,
+    "rank_change": 3
   },
   {
-    "rank": 40,
+    "rank": 37,
     "name": "Noah Gray",
     "team": "KC",
     "position": "TE",
-    "position_rank": "TE40",
+    "position_rank": "TE37",
     "bye": "5",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7828.jpg",
     "injury_status": "",
@@ -1386,15 +1429,216 @@
     "sleeper_id": "7828",
     "fp_id": 19539,
     "tff_rank": 44,
-    "agg_rank": 42.0,
+    "agg_rank": 40.5,
+    "rank_change": 3
+  },
+  {
+    "rank": 38,
+    "name": "Dawson Knox",
+    "team": "BUF",
+    "position": "TE",
+    "position_rank": "TE38",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5906.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5906",
+    "fp_id": 18631,
+    "tff_rank": 36,
+    "agg_rank": 37.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 39,
+    "name": "Davis Allen",
+    "team": "LAR",
+    "position": "TE",
+    "position_rank": "TE39",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10214.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy football buzz: Philly no problem for Dak Prescott and Cowboys",
+        "description": "The Cowboys went on the road to Philadelphia on Monday night and found their lost offense.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-10-27T12:01:04Z",
+        "player_names": [
+          "Xavier Worthy",
+          "Jaxon Smith-Njigba",
+          "Ashton Jeanty",
+          "Mike Washington Jr",
+          "Davis Allen",
+          "Josh Jacobs",
+          "Michael Wilson",
+          "Jonah Coleman",
+          "Bam Knight",
+          "Cam Skattebo",
+          "Woody Marks",
+          "Chase Brown",
+          "Bryce Young",
+          "Bucky Irving",
+          "Omar Cooper Jr",
+          "Caleb Douglas",
+          "Jordan Mason",
+          "Harold Fannin Jr",
+          "KC Concepcion",
+          "Kaelon Black",
+          "Alvin Kamara",
+          "Juwan Johnson",
+          "Jaylen Warren",
+          "Germie Bernard"
+        ],
+        "player_name": "Xavier Worthy",
+        "teams": [
+          "Dallas Cowboys",
+          "Philadelphia Eagles"
+        ],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "10214",
+    "fp_id": 23761,
+    "tff_rank": null,
+    "agg_rank": 39.0,
+    "rank_change": null
+  },
+  {
+    "rank": 40,
+    "name": "Austin Hooper",
+    "team": "ATL",
+    "position": "TE",
+    "position_rank": "TE40",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3202.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "3202",
+    "fp_id": 15581,
+    "tff_rank": null,
+    "agg_rank": 40.0,
     "rank_change": -4
   },
   {
     "rank": 41,
+    "name": "Will Mallory",
+    "team": "IND",
+    "position": "TE",
+    "position_rank": "TE41",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10220.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "10220",
+    "fp_id": 23821,
+    "tff_rank": null,
+    "agg_rank": 41.0,
+    "rank_change": null
+  },
+  {
+    "rank": 42,
+    "name": "Daniel Bellinger",
+    "team": "TEN",
+    "position": "TE",
+    "position_rank": "TE42",
+    "bye": "9",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8225.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "8225",
+    "fp_id": 24238,
+    "tff_rank": null,
+    "agg_rank": 42.0,
+    "rank_change": -4
+  },
+  {
+    "rank": 43,
     "name": "Matt Hibner",
     "team": "BAL",
     "position": "TE",
-    "position_rank": "TE41",
+    "position_rank": "TE43",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13324.jpg",
     "injury_status": "",
@@ -1418,7 +1662,7 @@
     "sleeper_id": "13324",
     "fp_id": 28168,
     "tff_rank": null,
-    "agg_rank": 41.0,
-    "rank_change": 6
+    "agg_rank": 43.0,
+    "rank_change": -2
   }
 ]
