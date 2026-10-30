@@ -33,42 +33,10 @@
   },
   {
     "rank": 2,
-    "name": "Will Reichard",
-    "team": "MIN",
-    "position": "K",
-    "position_rank": "K2",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11792.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11792",
-    "fp_id": 26341,
-    "tff_rank": null,
-    "agg_rank": 2.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 3,
     "name": "Evan McPherson",
     "team": "CIN",
     "position": "K",
-    "position_rank": "K3",
+    "position_rank": "K2",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7839.jpg",
     "injury_status": "",
@@ -92,8 +60,40 @@
     "sleeper_id": "7839",
     "fp_id": 23297,
     "tff_rank": null,
+    "agg_rank": 2.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 3,
+    "name": "Will Reichard",
+    "team": "MIN",
+    "position": "K",
+    "position_rank": "K3",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11792.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11792",
+    "fp_id": 26341,
+    "tff_rank": null,
     "agg_rank": 3.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 4,
@@ -285,7 +285,7 @@
     "fp_id": 25354,
     "tff_rank": null,
     "agg_rank": 9.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 10,
@@ -317,7 +317,7 @@
     "fp_id": 14003,
     "tff_rank": null,
     "agg_rank": 10.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -349,7 +349,7 @@
     "fp_id": 13274,
     "tff_rank": null,
     "agg_rank": 11.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 12,
@@ -381,46 +381,14 @@
     "fp_id": 26763,
     "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 13,
-    "name": "Andy Borregales",
-    "team": "NE",
-    "position": "K",
-    "position_rank": "K13",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12713.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12713",
-    "fp_id": 27291,
-    "tff_rank": null,
-    "agg_rank": 13.0,
     "rank_change": 0
   },
   {
-    "rank": 14,
+    "rank": 13,
     "name": "Matt Gay",
     "team": "LV",
     "position": "K",
-    "position_rank": "K14",
+    "position_rank": "K13",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
     "injury_status": "",
@@ -444,8 +412,40 @@
     "sleeper_id": "6083",
     "fp_id": 18545,
     "tff_rank": null,
+    "agg_rank": 13.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 14,
+    "name": "Andy Borregales",
+    "team": "NE",
+    "position": "K",
+    "position_rank": "K14",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12713.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12713",
+    "fp_id": 27291,
+    "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 15,
@@ -600,29 +600,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Josh Jacobs scores twice as Packers dispatch Panthers",
-        "description": "Carolina made a game of it late, but Green Bay held on for the Thursday night win.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50322670/nfl-green-bay-packers-panthers-jordan-love-bryce-young",
-        "timestamp": "2026-10-30T04:30:36Z",
-        "player_names": [
-          "Jordan Love",
-          "Bryce Young",
-          "Tetairoa McMillan",
-          "Trey Smack",
-          "Ty'Ron Hopper"
-        ],
-        "player_name": "Jordan Love",
-        "teams": [
-          "Green Bay Packers",
-          "Carolina Panthers"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "13545",
     "fp_id": 28507,
     "tff_rank": null,

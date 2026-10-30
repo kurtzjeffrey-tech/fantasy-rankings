@@ -189,7 +189,7 @@
     "fp_id": 8310,
     "tff_rank": null,
     "agg_rank": 6.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 7,
@@ -221,7 +221,7 @@
     "fp_id": 8260,
     "tff_rank": null,
     "agg_rank": 7.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 8,
@@ -253,7 +253,7 @@
     "fp_id": 8090,
     "tff_rank": null,
     "agg_rank": 8.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 9,
@@ -733,46 +733,14 @@
     "fp_id": 8250,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 24,
-    "name": "Baltimore Ravens",
-    "team": "BAL",
-    "position": "DST",
-    "position_rank": "DST24",
-    "bye": "13",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8020,
-    "tff_rank": null,
-    "agg_rank": 24.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 25,
     "name": "Miami Dolphins",
     "team": "MIA",
     "position": "DST",
-    "position_rank": "DST25",
+    "position_rank": "DST24",
     "bye": "6",
     "headshot_url": "",
     "injury_status": "",
@@ -796,8 +764,40 @@
     "sleeper_id": null,
     "fp_id": 8160,
     "tff_rank": null,
+    "agg_rank": 24.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 25,
+    "name": "Baltimore Ravens",
+    "team": "BAL",
+    "position": "DST",
+    "position_rank": "DST25",
+    "bye": "13",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8020,
+    "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 26,

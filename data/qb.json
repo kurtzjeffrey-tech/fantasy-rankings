@@ -33,42 +33,10 @@
   },
   {
     "rank": 2,
-    "name": "Drake Maye",
-    "team": "NE",
-    "position": "QB",
-    "position_rank": "QB2",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11564.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11564",
-    "fp_id": 23046,
-    "tff_rank": 6,
-    "agg_rank": 4.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 3,
     "name": "Joe Burrow",
     "team": "CIN",
     "position": "QB",
-    "position_rank": "QB3",
+    "position_rank": "QB2",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6770.jpg",
     "injury_status": "",
@@ -92,8 +60,40 @@
     "sleeper_id": "6770",
     "fp_id": 19196,
     "tff_rank": 4,
-    "agg_rank": 3.5,
-    "rank_change": 0
+    "agg_rank": 3.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 3,
+    "name": "Drake Maye",
+    "team": "NE",
+    "position": "QB",
+    "position_rank": "QB3",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11564.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11564",
+    "fp_id": 23046,
+    "tff_rank": 6,
+    "agg_rank": 4.5,
+    "rank_change": -1
   },
   {
     "rank": 4,
@@ -171,7 +171,7 @@
     "position_rank": "QB5",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4881.jpg",
-    "injury_status": "Questionable",
+    "injury_status": "",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -188,7 +188,40 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Ravens coach Jesse Minter expects Lamar Jackson back this week",
+        "description": "Ravens coach Jesse Minter expects Lamar Jackson back this week",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50329589/ravens-coach-jesse-minter-expects-lamar-jackson-back-week",
+        "timestamp": "2026-10-30T18:59:12Z",
+        "player_names": [
+          "Lamar Jackson"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [
+          "Baltimore Ravens"
+        ],
+        "type": "Media"
+      },
+      {
+        "source": "espn",
+        "headline": "Ravens QB Jackson to return for Bills clash, calls ankle pain 'bearable'",
+        "description": "Ravens quarterback Lamar Jackson will return to play Sunday at Buffalo, saying the pain in his injured left ankle is \"bearable.\"",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50329330/ravens-qb-lamar-jackson-expected-return-vs-bills",
+        "timestamp": "2026-10-30T19:55:05Z",
+        "player_names": [
+          "Lamar Jackson"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [
+          "Baltimore Ravens"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "4881",
     "fp_id": 17233,
     "tff_rank": 2,
@@ -404,42 +437,6 @@
           "Green Bay Packers"
         ],
         "type": "Media"
-      },
-      {
-        "source": "espn",
-        "headline": "Week 8 TNF Panthers at Packers: Highlights, key plays",
-        "description": "Check out the biggest touchdowns and highlights from the Packers' win over the Panthers at Lambeau Field.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50322459/nfl-thursday-night-football-packers-panthers-jordan-love-bryce-young",
-        "timestamp": "2026-10-30T04:32:54Z",
-        "player_names": [
-          "Jordan Love",
-          "Bryce Young"
-        ],
-        "player_name": "Jordan Love",
-        "teams": [
-          "Green Bay Packers",
-          "Carolina Panthers"
-        ],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Jordan Love, Packers take down Panthers on TNF",
-        "description": "Jordan Love, Packers take down Panthers on TNF",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50324935/jordan-love-packers-take-panthers-tnf",
-        "timestamp": "2026-10-30T12:24:38Z",
-        "player_names": [
-          "Jordan Love",
-          "Josh Jacobs"
-        ],
-        "player_name": "Jordan Love",
-        "teams": [
-          "Carolina Panthers",
-          "Green Bay Packers"
-        ],
-        "type": "Media"
       }
     ],
     "sleeper_id": "6804",
@@ -612,22 +609,6 @@
         "player_name": "Caleb Williams",
         "teams": [],
         "type": "Media"
-      },
-      {
-        "source": "espn",
-        "headline": "Source: Bears quarterback Caleb Williams fined again for cleats",
-        "description": "The NFL fined Caleb Williams $23,882 for sporting Caddix cleats in Week 7, a source confirmed to ESPN on Thursday.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50323203/bears-quarterback-caleb-williams-fined-again-cleats",
-        "timestamp": "2026-10-30T01:53:54Z",
-        "player_names": [
-          "Caleb Williams"
-        ],
-        "player_name": "Caleb Williams",
-        "teams": [
-          "Chicago Bears"
-        ],
-        "type": "HeadlineNews"
       }
     ],
     "sleeper_id": "11560",
@@ -692,172 +673,10 @@
   },
   {
     "rank": 13,
-    "name": "Bryce Young",
-    "team": "CAR",
-    "position": "QB",
-    "position_rank": "QB13",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9228.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Is it time for fantasy managers to move on from Bryce Young?",
-        "description": "Is it time for fantasy managers to move on from Bryce Young?",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50328360/is-fantasy-managers-move-bryce-young",
-        "timestamp": "2026-10-30T15:10:49Z",
-        "player_names": [
-          "Bryce Young"
-        ],
-        "player_name": "Bryce Young",
-        "teams": [],
-        "type": "Media"
-      },
-      {
-        "source": "espn",
-        "headline": "Fantasy football buzz: Despite win, can you trust Packers' running game?",
-        "description": "Jordan Love and the Packers continue a one-dimensional attack. Will the running game ever get right?",
-        "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-10-30T14:35:59Z",
-        "player_names": [
-          "Xavier Worthy",
-          "Jaxon Smith-Njigba",
-          "Ashton Jeanty",
-          "Mike Washington Jr",
-          "Davis Allen",
-          "Josh Jacobs",
-          "Michael Wilson",
-          "Jonah Coleman",
-          "Bam Knight",
-          "Cam Skattebo",
-          "Woody Marks",
-          "Chase Brown",
-          "Bryce Young",
-          "Bucky Irving",
-          "Omar Cooper Jr",
-          "Caleb Douglas",
-          "Jordan Mason",
-          "Harold Fannin Jr",
-          "KC Concepcion",
-          "Kaelon Black",
-          "Alvin Kamara",
-          "Juwan Johnson",
-          "Jaylen Warren",
-          "Germie Bernard",
-          "Kyler Murray",
-          "Jacoby Brissett",
-          "Malik Willis",
-          "Geno Smith",
-          "Michael Penix Jr",
-          "Tanner McKee",
-          "Blake Corum",
-          "Rhamondre Stevenson",
-          "Rachaad White",
-          "Carnell Tate",
-          "Keenan Allen",
-          "Ja'Kobi Lane",
-          "Rashod Bateman",
-          "Chig Okonkwo",
-          "TJ Hockenson",
-          "JK Dobbins",
-          "Jordan Love",
-          "Chuba Hubbard"
-        ],
-        "player_name": "Xavier Worthy",
-        "teams": [
-          "Dallas Cowboys",
-          "Philadelphia Eagles",
-          "Jacksonville Jaguars",
-          "Minnesota Vikings"
-        ],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Panthers' Bryce Young says injured knee 'fine' after taking 6 sacks vs. Packers",
-        "description": "Panthers quarterback Bryce Young was pressured on nearly half his dropbacks and was sacked six times, but said his injured knee was \"fine\" after a 27-19 loss to the Packers.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50325742/panthers-bryce-young-says-knee-fine-loss-packers",
-        "timestamp": "2026-10-30T06:22:07Z",
-        "player_names": [
-          "Bryce Young"
-        ],
-        "player_name": "Bryce Young",
-        "teams": [
-          "Carolina Panthers"
-        ],
-        "type": "HeadlineNews"
-      },
-      {
-        "source": "espn",
-        "headline": "Week 8 TNF Panthers at Packers: Highlights, key plays",
-        "description": "Check out the biggest touchdowns and highlights from the Packers' win over the Panthers at Lambeau Field.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50322459/nfl-thursday-night-football-packers-panthers-jordan-love-bryce-young",
-        "timestamp": "2026-10-30T04:32:54Z",
-        "player_names": [
-          "Jordan Love",
-          "Bryce Young"
-        ],
-        "player_name": "Jordan Love",
-        "teams": [
-          "Green Bay Packers",
-          "Carolina Panthers"
-        ],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Josh Jacobs scores twice as Packers dispatch Panthers",
-        "description": "Carolina made a game of it late, but Green Bay held on for the Thursday night win.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50322670/nfl-green-bay-packers-panthers-jordan-love-bryce-young",
-        "timestamp": "2026-10-30T04:30:36Z",
-        "player_names": [
-          "Jordan Love",
-          "Bryce Young",
-          "Tetairoa McMillan",
-          "Trey Smack",
-          "Ty'Ron Hopper"
-        ],
-        "player_name": "Jordan Love",
-        "teams": [
-          "Green Bay Packers",
-          "Carolina Panthers"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "9228",
-    "fp_id": 22900,
-    "tff_rank": 26,
-    "agg_rank": 19.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 14,
     "name": "Kyler Murray",
     "team": "MIN",
     "position": "QB",
-    "position_rank": "QB14",
+    "position_rank": "QB13",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
     "injury_status": "",
@@ -969,8 +788,115 @@
     "sleeper_id": "5849",
     "fp_id": 18600,
     "tff_rank": 14,
-    "agg_rank": 14.0,
-    "rank_change": 0
+    "agg_rank": 13.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 14,
+    "name": "Bryce Young",
+    "team": "CAR",
+    "position": "QB",
+    "position_rank": "QB14",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9228.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Is it time for fantasy managers to move on from Bryce Young?",
+        "description": "Is it time for fantasy managers to move on from Bryce Young?",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50328360/is-fantasy-managers-move-bryce-young",
+        "timestamp": "2026-10-30T15:10:49Z",
+        "player_names": [
+          "Bryce Young"
+        ],
+        "player_name": "Bryce Young",
+        "teams": [],
+        "type": "Media"
+      },
+      {
+        "source": "espn",
+        "headline": "Fantasy football buzz: Despite win, can you trust Packers' running game?",
+        "description": "Jordan Love and the Packers continue a one-dimensional attack. Will the running game ever get right?",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-10-30T14:35:59Z",
+        "player_names": [
+          "Xavier Worthy",
+          "Jaxon Smith-Njigba",
+          "Ashton Jeanty",
+          "Mike Washington Jr",
+          "Davis Allen",
+          "Josh Jacobs",
+          "Michael Wilson",
+          "Jonah Coleman",
+          "Bam Knight",
+          "Cam Skattebo",
+          "Woody Marks",
+          "Chase Brown",
+          "Bryce Young",
+          "Bucky Irving",
+          "Omar Cooper Jr",
+          "Caleb Douglas",
+          "Jordan Mason",
+          "Harold Fannin Jr",
+          "KC Concepcion",
+          "Kaelon Black",
+          "Alvin Kamara",
+          "Juwan Johnson",
+          "Jaylen Warren",
+          "Germie Bernard",
+          "Kyler Murray",
+          "Jacoby Brissett",
+          "Malik Willis",
+          "Geno Smith",
+          "Michael Penix Jr",
+          "Tanner McKee",
+          "Blake Corum",
+          "Rhamondre Stevenson",
+          "Rachaad White",
+          "Carnell Tate",
+          "Keenan Allen",
+          "Ja'Kobi Lane",
+          "Rashod Bateman",
+          "Chig Okonkwo",
+          "TJ Hockenson",
+          "JK Dobbins",
+          "Jordan Love",
+          "Chuba Hubbard"
+        ],
+        "player_name": "Xavier Worthy",
+        "teams": [
+          "Dallas Cowboys",
+          "Philadelphia Eagles",
+          "Jacksonville Jaguars",
+          "Minnesota Vikings"
+        ],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "9228",
+    "fp_id": 22900,
+    "tff_rank": 26,
+    "agg_rank": 20.0,
+    "rank_change": -1
   },
   {
     "rank": 15,
@@ -1477,7 +1403,7 @@
     "fp_id": 23499,
     "tff_rank": 21,
     "agg_rank": 21.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 22,
@@ -1509,7 +1435,7 @@
     "fp_id": 22973,
     "tff_rank": 34,
     "agg_rank": 28.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -1851,7 +1777,7 @@
     "fp_id": 26060,
     "tff_rank": null,
     "agg_rank": 30.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 31,
@@ -1883,7 +1809,7 @@
     "fp_id": 25968,
     "tff_rank": 32,
     "agg_rank": 31.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 32,
@@ -1954,7 +1880,7 @@
     "fp_id": 28013,
     "tff_rank": 33,
     "agg_rank": 32.5,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 33,
@@ -1986,7 +1912,7 @@
     "fp_id": 15520,
     "tff_rank": null,
     "agg_rank": 33.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 34,
@@ -2018,7 +1944,7 @@
     "fp_id": 25321,
     "tff_rank": null,
     "agg_rank": 34.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 35,
@@ -2050,7 +1976,7 @@
     "fp_id": 18225,
     "tff_rank": null,
     "agg_rank": 35.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 36,
@@ -2146,7 +2072,7 @@
     "fp_id": 28098,
     "tff_rank": null,
     "agg_rank": 38.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 39,
@@ -2178,7 +2104,7 @@
     "fp_id": 22953,
     "tff_rank": 36,
     "agg_rank": 37.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 40,
@@ -2210,7 +2136,7 @@
     "fp_id": 24347,
     "tff_rank": null,
     "agg_rank": 40.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 41,
@@ -2306,7 +2232,7 @@
     "fp_id": 13890,
     "tff_rank": null,
     "agg_rank": 43.0,
-    "rank_change": 9
+    "rank_change": 0
   },
   {
     "rank": 44,
@@ -2338,7 +2264,7 @@
     "fp_id": 16417,
     "tff_rank": null,
     "agg_rank": 44.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 45,
@@ -2370,7 +2296,7 @@
     "fp_id": 25373,
     "tff_rank": null,
     "agg_rank": 45.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 46,
@@ -2402,7 +2328,7 @@
     "fp_id": 10007,
     "tff_rank": null,
     "agg_rank": 46.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 47,
@@ -2434,7 +2360,7 @@
     "fp_id": 25368,
     "tff_rank": null,
     "agg_rank": 47.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 48,
@@ -2466,7 +2392,7 @@
     "fp_id": 19198,
     "tff_rank": 30,
     "agg_rank": 39.0,
-    "rank_change": 6
+    "rank_change": 0
   },
   {
     "rank": 49,
@@ -2498,7 +2424,7 @@
     "fp_id": 23066,
     "tff_rank": null,
     "agg_rank": 49.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 50,
@@ -2530,7 +2456,7 @@
     "fp_id": 23045,
     "tff_rank": null,
     "agg_rank": 50.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 51,
@@ -2562,7 +2488,7 @@
     "fp_id": 16381,
     "tff_rank": null,
     "agg_rank": 51.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 52,
@@ -2594,7 +2520,7 @@
     "fp_id": 18562,
     "tff_rank": null,
     "agg_rank": 52.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 53,
@@ -2626,7 +2552,7 @@
     "fp_id": 17234,
     "tff_rank": null,
     "agg_rank": 53.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 54,
@@ -2658,7 +2584,7 @@
     "fp_id": 22722,
     "tff_rank": null,
     "agg_rank": 54.0,
-    "rank_change": null
+    "rank_change": 0
   },
   {
     "rank": 55,
@@ -2690,7 +2616,7 @@
     "fp_id": 28094,
     "tff_rank": null,
     "agg_rank": 55.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 56,
@@ -2722,7 +2648,7 @@
     "fp_id": 11425,
     "tff_rank": null,
     "agg_rank": 56.0,
-    "rank_change": null
+    "rank_change": 0
   },
   {
     "rank": 57,
@@ -2754,7 +2680,7 @@
     "fp_id": 25972,
     "tff_rank": null,
     "agg_rank": 57.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 58,
@@ -2786,7 +2712,7 @@
     "fp_id": 22884,
     "tff_rank": null,
     "agg_rank": 58.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 59,
@@ -2818,6 +2744,6 @@
     "fp_id": 22998,
     "tff_rank": null,
     "agg_rank": 59.0,
-    "rank_change": -2
+    "rank_change": 0
   }
 ]
