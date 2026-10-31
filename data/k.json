@@ -413,7 +413,7 @@
     "fp_id": 27291,
     "tff_rank": null,
     "agg_rank": 13.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 14,
@@ -445,7 +445,7 @@
     "fp_id": 18545,
     "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 15,
@@ -541,7 +541,7 @@
     "fp_id": 17533,
     "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 18,
@@ -573,7 +573,7 @@
     "fp_id": 27261,
     "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 19,
@@ -641,42 +641,10 @@
   },
   {
     "rank": 21,
-    "name": "Nick Folk",
-    "team": "ATL",
-    "position": "K",
-    "position_rank": "K21",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/650.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "650",
-    "fp_id": 9491,
-    "tff_rank": null,
-    "agg_rank": 21.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 22,
     "name": "Drew Stevens",
     "team": "WAS",
     "position": "K",
-    "position_rank": "K22",
+    "position_rank": "K21",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13968.jpg",
     "injury_status": "",
@@ -700,8 +668,40 @@
     "sleeper_id": "13968",
     "fp_id": 28175,
     "tff_rank": null,
+    "agg_rank": 21.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 22,
+    "name": "Nick Folk",
+    "team": "ATL",
+    "position": "K",
+    "position_rank": "K22",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/650.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "650",
+    "fp_id": 9491,
+    "tff_rank": null,
     "agg_rank": 22.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 23,
