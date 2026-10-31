@@ -449,42 +449,10 @@
   },
   {
     "rank": 15,
-    "name": "Chicago Bears",
-    "team": "CHI",
-    "position": "DST",
-    "position_rank": "DST15",
-    "bye": "10",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8050,
-    "tff_rank": null,
-    "agg_rank": 15.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 16,
     "name": "Atlanta Falcons",
     "team": "ATL",
     "position": "DST",
-    "position_rank": "DST16",
+    "position_rank": "DST15",
     "bye": "11",
     "headshot_url": "",
     "injury_status": "",
@@ -508,8 +476,40 @@
     "sleeper_id": null,
     "fp_id": 8010,
     "tff_rank": null,
+    "agg_rank": 15.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 16,
+    "name": "Chicago Bears",
+    "team": "CHI",
+    "position": "DST",
+    "position_rank": "DST16",
+    "bye": "10",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8050,
+    "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 17,
@@ -737,42 +737,10 @@
   },
   {
     "rank": 24,
-    "name": "Miami Dolphins",
-    "team": "MIA",
-    "position": "DST",
-    "position_rank": "DST24",
-    "bye": "6",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8160,
-    "tff_rank": null,
-    "agg_rank": 24.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 25,
     "name": "Baltimore Ravens",
     "team": "BAL",
     "position": "DST",
-    "position_rank": "DST25",
+    "position_rank": "DST24",
     "bye": "13",
     "headshot_url": "",
     "injury_status": "",
@@ -795,6 +763,38 @@
     "news": [],
     "sleeper_id": null,
     "fp_id": 8020,
+    "tff_rank": null,
+    "agg_rank": 24.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 25,
+    "name": "Miami Dolphins",
+    "team": "MIA",
+    "position": "DST",
+    "position_rank": "DST25",
+    "bye": "6",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8160,
     "tff_rank": null,
     "agg_rank": 25.0,
     "rank_change": -1
