@@ -161,42 +161,10 @@
   },
   {
     "rank": 6,
-    "name": "Chris Boswell",
-    "team": "PIT",
-    "position": "K",
-    "position_rank": "K6",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1945.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "1945",
-    "fp_id": 13029,
-    "tff_rank": null,
-    "agg_rank": 6.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 7,
     "name": "Tyler Bass",
     "team": "BUF",
     "position": "K",
-    "position_rank": "K7",
+    "position_rank": "K6",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7042.jpg",
     "injury_status": "",
@@ -220,8 +188,40 @@
     "sleeper_id": "7042",
     "fp_id": 19760,
     "tff_rank": null,
+    "agg_rank": 6.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 7,
+    "name": "Chris Boswell",
+    "team": "PIT",
+    "position": "K",
+    "position_rank": "K7",
+    "bye": "9",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1945.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "1945",
+    "fp_id": 13029,
+    "tff_rank": null,
     "agg_rank": 7.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 8,
@@ -353,106 +353,10 @@
   },
   {
     "rank": 12,
-    "name": "Spencer Shrader",
-    "team": "IND",
-    "position": "K",
-    "position_rank": "K12",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12185.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12185",
-    "fp_id": 26763,
-    "tff_rank": null,
-    "agg_rank": 12.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 13,
-    "name": "Andy Borregales",
-    "team": "NE",
-    "position": "K",
-    "position_rank": "K13",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12713.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12713",
-    "fp_id": 27291,
-    "tff_rank": null,
-    "agg_rank": 13.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 14,
-    "name": "Matt Gay",
-    "team": "LV",
-    "position": "K",
-    "position_rank": "K14",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6083",
-    "fp_id": 18545,
-    "tff_rank": null,
-    "agg_rank": 14.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 15,
     "name": "Jake Bates",
     "team": "DET",
     "position": "K",
-    "position_rank": "K15",
+    "position_rank": "K12",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11539.jpg",
     "injury_status": "",
@@ -476,8 +380,104 @@
     "sleeper_id": "11539",
     "fp_id": 26075,
     "tff_rank": null,
+    "agg_rank": 12.0,
+    "rank_change": 3
+  },
+  {
+    "rank": 13,
+    "name": "Matt Gay",
+    "team": "LV",
+    "position": "K",
+    "position_rank": "K13",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6083",
+    "fp_id": 18545,
+    "tff_rank": null,
+    "agg_rank": 13.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 14,
+    "name": "Andy Borregales",
+    "team": "NE",
+    "position": "K",
+    "position_rank": "K14",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12713.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12713",
+    "fp_id": 27291,
+    "tff_rank": null,
+    "agg_rank": 14.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 15,
+    "name": "Spencer Shrader",
+    "team": "IND",
+    "position": "K",
+    "position_rank": "K15",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12185.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12185",
+    "fp_id": 26763,
+    "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": 0
+    "rank_change": -3
   },
   {
     "rank": 16,
@@ -669,7 +669,7 @@
     "fp_id": 28175,
     "tff_rank": null,
     "agg_rank": 21.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 22,
@@ -701,7 +701,7 @@
     "fp_id": 9491,
     "tff_rank": null,
     "agg_rank": 22.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -897,10 +897,42 @@
   },
   {
     "rank": 29,
+    "name": "Joshua Karty",
+    "team": "LAR",
+    "position": "K",
+    "position_rank": "K29",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11789.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11789",
+    "fp_id": 26478,
+    "tff_rank": null,
+    "agg_rank": 29.0,
+    "rank_change": null
+  },
+  {
+    "rank": 30,
     "name": "Justin Tucker",
     "team": "KC",
     "position": "K",
-    "position_rank": "K29",
+    "position_rank": "K30",
     "bye": "5",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1264.jpg",
     "injury_status": "",
@@ -924,7 +956,7 @@
     "sleeper_id": "1264",
     "fp_id": 11465,
     "tff_rank": null,
-    "agg_rank": 29.0,
-    "rank_change": 0
+    "agg_rank": 30.0,
+    "rank_change": -1
   }
 ]
