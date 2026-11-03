@@ -1,10 +1,92 @@
 [
   {
     "rank": 1,
+    "name": "Joe Burrow",
+    "team": "CIN",
+    "position": "QB",
+    "position_rank": "QB1",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6770.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status",
+        "description": "Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+        "timestamp": "2026-11-03T16:36:40Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Tyler Huntley",
+          "Jalen Hurts",
+          "Jaxson Dart",
+          "Joe Burrow",
+          "Kirk Cousins",
+          "Bryce Young",
+          "Baker Mayfield",
+          "Gardner Minshew II",
+          "Joe Fagnano",
+          "Anthony Richardson Sr",
+          "Bucky Irving",
+          "Bhayshul Tuten",
+          "Chuba Hubbard",
+          "Javonte Williams",
+          "Ashton Jeanty",
+          "Blake Corum",
+          "Tony Pollard",
+          "Braelon Allen",
+          "Jonah Coleman",
+          "Mike Washington Jr",
+          "Tyler Allgeier",
+          "Emmett Johnson",
+          "Tee Higgins",
+          "Michael Wilson",
+          "Jameson Williams",
+          "Zay Flowers",
+          "AJ Brown",
+          "DeVonta Smith",
+          "Stefon Diggs",
+          "Ladd McConkey",
+          "Jordyn Tyson",
+          "Harold Fannin Jr",
+          "Tyler Warren",
+          "Hunter Henry",
+          "Mike Gesicki"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "6770",
+    "fp_id": 19196,
+    "tff_rank": 4,
+    "agg_rank": 2.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 2,
     "name": "Josh Allen",
     "team": "BUF",
     "position": "QB",
-    "position_rank": "QB1",
+    "position_rank": "QB2",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg",
     "injury_status": "",
@@ -28,17 +110,17 @@
     "sleeper_id": "4984",
     "fp_id": 17298,
     "tff_rank": 1,
-    "agg_rank": 1.0,
-    "rank_change": 0
+    "agg_rank": 1.5,
+    "rank_change": -1
   },
   {
-    "rank": 2,
-    "name": "Joe Burrow",
-    "team": "CIN",
+    "rank": 3,
+    "name": "Brock Purdy",
+    "team": "SF",
     "position": "QB",
-    "position_rank": "QB2",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6770.jpg",
+    "position_rank": "QB3",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8183.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -57,211 +139,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "6770",
-    "fp_id": 19196,
-    "tff_rank": 4,
-    "agg_rank": 3.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 3,
-    "name": "Dak Prescott",
-    "team": "DAL",
-    "position": "QB",
-    "position_rank": "QB3",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3294.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Stephen A.: 'Cowboys are trash'",
-        "description": "Stephen A.: 'Cowboys are trash' ",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50358738/cowboys-trash",
-        "timestamp": "2026-11-02T15:32:35Z",
-        "player_names": [
-          "Dak Prescott"
-        ],
-        "player_name": "Dak Prescott",
-        "teams": [
-          "Dallas Cowboys"
-        ],
-        "type": "Media"
-      },
-      {
-        "source": "espn",
-        "headline": "Cowboys trust their talent but failed again in 'unacceptable' loss",
-        "description": "Despite an embarrassing home loss to Arizona, the Cowboys remain in the NFC East hunt, but they're \"tired of learning this lesson.\"",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50357980/dallas-cowboys-loss-cardinals-nfc-east",
-        "timestamp": "2026-11-02T15:10:43Z",
-        "player_names": [
-          "Dak Prescott"
-        ],
-        "player_name": "Dak Prescott",
-        "teams": [
-          "Dallas Cowboys"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "3294",
-    "fp_id": 15600,
-    "tff_rank": 10,
-    "agg_rank": 6.5,
-    "rank_change": 0
+    "sleeper_id": "8183",
+    "fp_id": 19797,
+    "tff_rank": 13,
+    "agg_rank": 8.0,
+    "rank_change": null
   },
   {
     "rank": 4,
-    "name": "Lamar Jackson",
-    "team": "BAL",
-    "position": "QB",
-    "position_rank": "QB4",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4881.jpg",
-    "injury_status": "Out",
-    "player_status": "Inactive",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Fantasy buzz: Minshew takes over in AZ; Charbonnet, Price return; Jackson on IR",
-        "description": "A closer look at the impact of Gardner Minshew II taking over as the Cardinals starting quarterback.",
-        "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-11-02T22:32:24Z",
-        "player_names": [
-          "Zach Charbonnet",
-          "Jadarian Price",
-          "Lamar Jackson",
-          "Gardner Minshew II",
-          "Michael Wilson",
-          "Trey McBride"
-        ],
-        "player_name": "Zach Charbonnet",
-        "teams": [],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Record-setting deal? Trade? A look at Lamar Jackson's cloudy future with Ravens",
-        "description": "It's possible that Jackson's final snap with the Ravens ended with injury Sunday night.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50359850/look-lamar-jackson-cloudy-future-baltimore-ravens",
-        "timestamp": "2026-11-02T19:31:11Z",
-        "player_names": [
-          "Lamar Jackson"
-        ],
-        "player_name": "Lamar Jackson",
-        "teams": [
-          "Baltimore Ravens"
-        ],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Why Stephen A. doesn't think Lamar Jackson is done being a Raven",
-        "description": "Why Stephen A. doesn't think Lamar Jackson is done being a Raven ",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50358868/why-stephen-think-lamar-jackson-done-being-raven",
-        "timestamp": "2026-11-02T16:06:43Z",
-        "player_names": [
-          "Lamar Jackson"
-        ],
-        "player_name": "Lamar Jackson",
-        "teams": [
-          "Baltimore Ravens"
-        ],
-        "type": "Media"
-      },
-      {
-        "source": "espn",
-        "headline": "Sizing up wild NFL Week 8: Lamar Jackson's injury, Bucs' win, Cowboys' collapse",
-        "description": "Lamar Jackson's return lasted one snap, the Cardinals upset the Cowboys with their QB2 and RB2, and the Buccaneers won by 16 despite 0 passing yards.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50349483/week-8-barnwell-lamar-bengals-cowboys-buccaneers-chiefs",
-        "timestamp": "2026-11-02T16:44:37Z",
-        "player_names": [
-          "Lamar Jackson",
-          "Ashton Jeanty",
-          "Jonathan Taylor"
-        ],
-        "player_name": "Lamar Jackson",
-        "teams": [
-          "Baltimore Ravens",
-          "Cincinnati Bengals",
-          "Tennessee Titans",
-          "Arizona Cardinals",
-          "Dallas Cowboys",
-          "Tampa Bay Buccaneers",
-          "Kansas City Chiefs",
-          "Las Vegas Raiders",
-          "Indianapolis Colts"
-        ],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Domonique Foxworth wonders whether if Lamar Jackson ever plays for the Ravens again",
-        "description": "Domonique Foxworth wonders whether if Lamar Jackson ever plays for the Ravens again",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50358018/domonique-foxworth-wonders-whether-lamar-jackson-ever-plays-ravens-again",
-        "timestamp": "2026-11-02T13:41:49Z",
-        "player_names": [
-          "Lamar Jackson",
-          "Tyler Huntley",
-          "Domonique Foxworth"
-        ],
-        "player_name": "Lamar Jackson",
-        "teams": [
-          "Baltimore Ravens"
-        ],
-        "type": "Media"
-      }
-    ],
-    "sleeper_id": "4881",
-    "fp_id": 17233,
-    "tff_rank": 2,
-    "agg_rank": 3.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 5,
     "name": "Drake Maye",
     "team": "NE",
     "position": "QB",
-    "position_rank": "QB5",
+    "position_rank": "QB4",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11564.jpg",
     "injury_status": "",
@@ -281,12 +170,61 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Drake Maye digs the long ball: Patriots QB's success on deep passes keying surge",
+        "description": "After struggling on deep passes early, Maye has been one of the best in the league at producing chunk plays in the pass game over the past few weeks.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50358866/patriots-drake-maye-deep-passes-20-plus-yards-turnaround",
+        "timestamp": "2026-11-03T11:00:10Z",
+        "player_names": [
+          "Drake Maye"
+        ],
+        "player_name": "Drake Maye",
+        "teams": [
+          "New England Patriots"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "11564",
     "fp_id": 23046,
     "tff_rank": 6,
-    "agg_rank": 5.5,
-    "rank_change": 0
+    "agg_rank": 5.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 5,
+    "name": "Jared Goff",
+    "team": "DET",
+    "position": "QB",
+    "position_rank": "QB5",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3163.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "3163",
+    "fp_id": 15501,
+    "tff_rank": 18,
+    "agg_rank": 11.5,
+    "rank_change": 6
   },
   {
     "rank": 6,
@@ -322,62 +260,12 @@
   },
   {
     "rank": 7,
-    "name": "Jayden Daniels",
-    "team": "WAS",
+    "name": "Dak Prescott",
+    "team": "DAL",
     "position": "QB",
     "position_rank": "QB7",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11566.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Jayden Daniels, Commanders 'keep fighting through adversity,' improve to 2-4-1",
-        "description": "After falling behind 10-0 in the first half, quarterback Jayden Daniels led the Washington Commanders on a rousing rally, cruising to a 27-10 win over the Philadelphia Eagles at Northwest Stadium, an effort in which he threw for 217 yards and a touchdown.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50356260/daniels-fuels-commanders-comeback-27-10-win-eagles",
-        "timestamp": "2026-11-02T07:21:51Z",
-        "player_names": [
-          "Jayden Daniels"
-        ],
-        "player_name": "Jayden Daniels",
-        "teams": [
-          "Philadelphia Eagles",
-          "Washington Commanders"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "11566",
-    "fp_id": 22902,
-    "tff_rank": 3,
-    "agg_rank": 5.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 8,
-    "name": "Jordan Love",
-    "team": "GB",
-    "position": "QB",
-    "position_rank": "QB8",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6804.jpg",
+    "bye": "14",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3294.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -396,69 +284,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "6804",
-    "fp_id": 19246,
-    "tff_rank": 17,
-    "agg_rank": 12.5,
-    "rank_change": 0
+    "sleeper_id": "3294",
+    "fp_id": 15600,
+    "tff_rank": 10,
+    "agg_rank": 8.5,
+    "rank_change": -4
   },
   {
-    "rank": 9,
-    "name": "Jacoby Brissett",
-    "team": "ARI",
-    "position": "QB",
-    "position_rank": "QB9",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3257.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Cardinals name Gardner Minshew as starter, move Jacoby Brissett to QB3",
-        "description": "The Cardinals named Gardner Minshew as the team's new starting QB while moving Jacoby Brissett below rookie Carson Beck on the depth chart.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50361163/cardinals-move-forward-gardner-minshew-starting-qb",
-        "timestamp": "2026-11-02T23:48:09Z",
-        "player_names": [
-          "Gardner Minshew II",
-          "Carson Beck",
-          "Jacoby Brissett"
-        ],
-        "player_name": "Gardner Minshew II",
-        "teams": [
-          "Arizona Cardinals"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "3257",
-    "fp_id": 15642,
-    "tff_rank": 28,
-    "agg_rank": 18.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 10,
+    "rank": 8,
     "name": "Matthew Stafford",
     "team": "LAR",
     "position": "QB",
-    "position_rank": "QB10",
+    "position_rank": "QB8",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/421.jpg",
     "injury_status": "Questionable",
@@ -482,128 +319,15 @@
     "sleeper_id": "421",
     "fp_id": 9451,
     "tff_rank": 20,
-    "agg_rank": 15.0,
-    "rank_change": 0
+    "agg_rank": 14.0,
+    "rank_change": 2
   },
   {
-    "rank": 11,
-    "name": "Jared Goff",
-    "team": "DET",
-    "position": "QB",
-    "position_rank": "QB11",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3163.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "3163",
-    "fp_id": 15501,
-    "tff_rank": 18,
-    "agg_rank": 14.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 12,
-    "name": "Kyler Murray",
-    "team": "MIN",
-    "position": "QB",
-    "position_rank": "QB12",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Vikings uncertain of QB Kyler Murray's status vs. Bills due to sore hamstring",
-        "description": "Vikings QB Kyler Murray's status for the Week 9 game against the Bills is uncertain due to a sore hamstring.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50361004/vikings-uncertain-qb-kyler-murray-status-vs-bills",
-        "timestamp": "2026-11-02T21:49:48Z",
-        "player_names": [
-          "Kyler Murray"
-        ],
-        "player_name": "Kyler Murray",
-        "teams": [
-          "Minnesota Vikings"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "5849",
-    "fp_id": 18600,
-    "tff_rank": 14,
-    "agg_rank": 13.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 13,
-    "name": "Bryce Young",
-    "team": "CAR",
-    "position": "QB",
-    "position_rank": "QB13",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9228.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "9228",
-    "fp_id": 22900,
-    "tff_rank": 26,
-    "agg_rank": 19.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 14,
+    "rank": 9,
     "name": "Caleb Williams",
     "team": "CHI",
     "position": "QB",
-    "position_rank": "QB14",
+    "position_rank": "QB9",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11560.jpg",
     "injury_status": "",
@@ -626,30 +350,70 @@
     "news": [
       {
         "source": "espn",
-        "headline": "How to bet Bears-Seahawks: Game pick and four props to play",
-        "description": "Odds and analysis to help you bet the Chicago Bears-Seattle Seahawks game on Monday night.",
+        "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
+        "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
         "story": "",
-        "url": "https://www.espn.com/espn/betting/story/_/id/50298047/nfl-week-8-odds-betting-tips-bears-seahawks-preview",
-        "timestamp": "2026-11-02T23:20:29Z",
+        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
+        "timestamp": "2026-11-03T17:14:21Z",
         "player_names": [
+          "Patrick Mahomes",
+          "Jahmyr Gibbs",
           "Jaxon Smith-Njigba",
-          "Kalif Raymond",
-          "Caleb Williams"
+          "Caleb Williams",
+          "Jeffery Simmons",
+          "Will Anderson Jr",
+          "Justin Herbert"
         ],
-        "player_name": "Jaxon Smith-Njigba",
-        "teams": [
-          "Chicago Bears",
-          "Seattle Seahawks"
-        ],
+        "player_name": "Patrick Mahomes",
+        "teams": [],
         "type": "Story"
       },
       {
         "source": "espn",
-        "headline": "A child playcaller? The Bears' Ben Johnson was born for this",
-        "description": "Johnson was in middle school when he first started diagramming plays, and we have one of the originals.",
+        "headline": "Is Caleb Williams a lineup lock for fantasy managers?",
+        "description": "Is Caleb Williams a lineup lock for fantasy managers?",
         "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50341080/bears-ben-johnson-playcalling-caleb-williams",
-        "timestamp": "2026-11-02T17:17:56Z",
+        "url": "https://www.espn.com/video/clip/_/id/50369192/is-caleb-williams-lineup-lock-fantasy-managers",
+        "timestamp": "2026-11-03T15:52:59Z",
+        "player_names": [
+          "Caleb Williams"
+        ],
+        "player_name": "Caleb Williams",
+        "teams": [],
+        "type": "Media"
+      },
+      {
+        "source": "espn",
+        "headline": "Fantasy buzz: No stopping Bears, Seahawks ease Charbonnet back, Minshew impact",
+        "description": "The Bears' offense is full of must-start players, Seahawks backfield still in flux as Charbonnet, Price return",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-11-03T14:39:09Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Gardner Minshew II",
+          "Michael Wilson",
+          "Trey McBride",
+          "D'Andre Swift",
+          "Luther Burden III",
+          "Caleb Williams",
+          "Rome Odunze",
+          "Jadarian Price",
+          "Zach Charbonnet",
+          "Jaxon Smith-Njigba",
+          "Colston Loveland"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Cleats, controversy and the choice of Bears QB Caleb Williams",
+        "description": "Williams wore Caddix cleats Monday night in Seattle, but the logo was not visible as he tries to 'calm things down.'",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50320658/caddix-shoes-bears-caleb-williams-fines",
+        "timestamp": "2026-11-03T12:19:30Z",
         "player_names": [
           "Caleb Williams"
         ],
@@ -658,13 +422,275 @@
           "Chicago Bears"
         ],
         "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Bears' Caleb Williams dims cleat controversy with all-black custom pair",
+        "description": "Caleb Williams wore all-black Caddix cleats after being fined by the NFL for wearing cleats with an \"unauthorized logo\" in weeks 6 and 7.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50367609/chicago-bears-williams-dims-controversy-surrounding-cleats-all-black-custom-pair",
+        "timestamp": "2026-11-03T14:06:14Z",
+        "player_names": [
+          "Caleb Williams"
+        ],
+        "player_name": "Caleb Williams",
+        "teams": [
+          "Chicago Bears"
+        ],
+        "type": "HeadlineNews"
       }
     ],
     "sleeper_id": "11560",
     "fp_id": 23084,
     "tff_rank": 8,
-    "agg_rank": 11.0,
-    "rank_change": 0
+    "agg_rank": 8.5,
+    "rank_change": 5
+  },
+  {
+    "rank": 10,
+    "name": "Jayden Daniels",
+    "team": "WAS",
+    "position": "QB",
+    "position_rank": "QB10",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11566.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11566",
+    "fp_id": 22902,
+    "tff_rank": 3,
+    "agg_rank": 6.5,
+    "rank_change": -3
+  },
+  {
+    "rank": 11,
+    "name": "Jordan Love",
+    "team": "GB",
+    "position": "QB",
+    "position_rank": "QB11",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6804.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6804",
+    "fp_id": 19246,
+    "tff_rank": 17,
+    "agg_rank": 14.0,
+    "rank_change": -3
+  },
+  {
+    "rank": 12,
+    "name": "Patrick Mahomes II",
+    "team": "KC",
+    "position": "QB",
+    "position_rank": "QB12",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4046.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
+        "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+        "story": "",
+        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
+        "timestamp": "2026-11-03T17:14:21Z",
+        "player_names": [
+          "Patrick Mahomes",
+          "Jahmyr Gibbs",
+          "Jaxon Smith-Njigba",
+          "Caleb Williams",
+          "Jeffery Simmons",
+          "Will Anderson Jr",
+          "Justin Herbert"
+        ],
+        "player_name": "Patrick Mahomes",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "4046",
+    "fp_id": 16413,
+    "tff_rank": 15,
+    "agg_rank": 13.5,
+    "rank_change": 5
+  },
+  {
+    "rank": 13,
+    "name": "Malik Willis",
+    "team": "MIA",
+    "position": "QB",
+    "position_rank": "QB13",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8161.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Clay: Malik Willis is the best streaming QB in Week 9",
+        "description": "Clay: Malik Willis is the best streaming QB in Week 9",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50369282/malik-willis-best-streaming-qb-week-9",
+        "timestamp": "2026-11-03T15:56:04Z",
+        "player_names": [
+          "Malik Willis"
+        ],
+        "player_name": "Malik Willis",
+        "teams": [],
+        "type": "Media"
+      }
+    ],
+    "sleeper_id": "8161",
+    "fp_id": 23499,
+    "tff_rank": 21,
+    "agg_rank": 17.0,
+    "rank_change": 8
+  },
+  {
+    "rank": 14,
+    "name": "Kirk Cousins",
+    "team": "LV",
+    "position": "QB",
+    "position_rank": "QB14",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1166.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status",
+        "description": "Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+        "timestamp": "2026-11-03T16:36:40Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Tyler Huntley",
+          "Jalen Hurts",
+          "Jaxson Dart",
+          "Joe Burrow",
+          "Kirk Cousins",
+          "Bryce Young",
+          "Baker Mayfield",
+          "Gardner Minshew II",
+          "Joe Fagnano",
+          "Anthony Richardson Sr",
+          "Bucky Irving",
+          "Bhayshul Tuten",
+          "Chuba Hubbard",
+          "Javonte Williams",
+          "Ashton Jeanty",
+          "Blake Corum",
+          "Tony Pollard",
+          "Braelon Allen",
+          "Jonah Coleman",
+          "Mike Washington Jr",
+          "Tyler Allgeier",
+          "Emmett Johnson",
+          "Tee Higgins",
+          "Michael Wilson",
+          "Jameson Williams",
+          "Zay Flowers",
+          "AJ Brown",
+          "DeVonta Smith",
+          "Stefon Diggs",
+          "Ladd McConkey",
+          "Jordyn Tyson",
+          "Harold Fannin Jr",
+          "Tyler Warren",
+          "Hunter Henry",
+          "Mike Gesicki"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "1166",
+    "fp_id": 11177,
+    "tff_rank": 35,
+    "agg_rank": 24.5,
+    "rank_change": 4
   },
   {
     "rank": 15,
@@ -691,7 +717,26 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Jeffery Simmons, Bears' defense handle Seahawks",
+        "description": "Caleb Williams and Jeffery Simmons had the Bears controlling both sides of the ball on MNF.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50364209/chicago-bears-seattle-seahawks-mnf-jeffery-simmons-sam-darnold",
+        "timestamp": "2026-11-03T05:40:17Z",
+        "player_names": [
+          "Jeffery Simmons",
+          "Sam Darnold"
+        ],
+        "player_name": "Jeffery Simmons",
+        "teams": [
+          "Chicago Bears",
+          "Seattle Seahawks"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "4943",
     "fp_id": 17236,
     "tff_rank": 24,
@@ -700,12 +745,12 @@
   },
   {
     "rank": 16,
-    "name": "Geno Smith",
-    "team": "NYJ",
+    "name": "Tyler Shough",
+    "team": "NO",
     "position": "QB",
     "position_rank": "QB16",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1373.jpg",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12545.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -726,154 +771,40 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options",
-        "description": "The top available players worth adding to your roster or streaming in standard or deeper leagues",
+        "headline": "Five things Saints must fix entering Week 9 vs. Browns",
+        "description": "Protecting QB Tyler Shough, getting the run game going and igniting slow starts are among areas coach Kellen Moore is fixated on repairing.",
         "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9",
-        "timestamp": "2026-11-02T17:39:03Z",
+        "url": "https://www.espn.com/nfl/story/_/id/50362526/5-things-new-orleans-saints-fix-entering-week-9-browns",
+        "timestamp": "2026-11-03T11:00:03Z",
         "player_names": [
-          "Geno Smith",
-          "Mike Washington Jr",
-          "Jordyn Tyson",
-          "Mike Gesicki",
-          "Tyler Huntley",
-          "JJ McCarthy",
-          "Malik Willis",
-          "Anthony Richardson Sr",
-          "Carson Beck",
-          "Tyler Allgeier",
-          "Emmett Johnson",
-          "Dylan Sampson",
-          "Kaelon Black",
-          "Devin Singletary",
-          "Seth McGowan",
-          "Adonai Mitchell",
-          "Ryan Flournoy",
-          "Malik Washington",
-          "Michael Mayer",
-          "Eli Raridon"
+          "Tyler Shough",
+          "David Edwards",
+          "Kendre Miller",
+          "Daniel Carlson",
+          "Kelvin Banks Jr",
+          "Kaden Elliss"
         ],
-        "player_name": "Geno Smith",
-        "teams": [],
+        "player_name": "Tyler Shough",
+        "teams": [
+          "New Orleans Saints"
+        ],
         "type": "Story"
       }
     ],
-    "sleeper_id": "1373",
-    "fp_id": 11687,
-    "tff_rank": 29,
-    "agg_rank": 22.5,
-    "rank_change": 0
+    "sleeper_id": "12545",
+    "fp_id": 23096,
+    "tff_rank": 16,
+    "agg_rank": 16.0,
+    "rank_change": null
   },
   {
     "rank": 17,
-    "name": "Patrick Mahomes II",
-    "team": "KC",
+    "name": "C.J. Stroud",
+    "team": "HOU",
     "position": "QB",
     "position_rank": "QB17",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4046.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Kansas City Chiefs' late collapse vs. Denver Broncos opens up AFC West race",
-        "description": "Prior to Sunday's game, the Chiefs were 80-2 when leading by 10 or more in the fourth quarter under Patrick Mahomes.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50359521/chiefs-fourth-quarter-collapse-broncos-afc-west-standings",
-        "timestamp": "2026-11-02T21:59:07Z",
-        "player_names": [
-          "Patrick Mahomes"
-        ],
-        "player_name": "Patrick Mahomes",
-        "teams": [
-          "Kansas City Chiefs",
-          "Denver Broncos"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "4046",
-    "fp_id": 16413,
-    "tff_rank": 15,
-    "agg_rank": 16.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 18,
-    "name": "Kirk Cousins",
-    "team": "LV",
-    "position": "QB",
-    "position_rank": "QB18",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1166.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Schefter to McAfee: I don't see Kirk Cousins as a trade option",
-        "description": "Schefter to McAfee: I don't see Kirk Cousins as a trade option",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50359898/see-kirk-cousins-trade-option",
-        "timestamp": "2026-11-02T18:57:47Z",
-        "player_names": [
-          "Kirk Cousins",
-          "Pat McAfee",
-          "Fernando Mendoza"
-        ],
-        "player_name": "Kirk Cousins",
-        "teams": [
-          "Las Vegas Raiders",
-          "Indianapolis Colts"
-        ],
-        "type": "Media"
-      }
-    ],
-    "sleeper_id": "1166",
-    "fp_id": 11177,
-    "tff_rank": 35,
-    "agg_rank": 26.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 19,
-    "name": "Baker Mayfield",
-    "team": "TB",
-    "position": "QB",
-    "position_rank": "QB19",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4892.jpg",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9758.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -892,20 +823,84 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "4892",
-    "fp_id": 17237,
-    "tff_rank": 19,
-    "agg_rank": 19.0,
-    "rank_change": 0
+    "sleeper_id": "9758",
+    "fp_id": 23071,
+    "tff_rank": 23,
+    "agg_rank": 20.0,
+    "rank_change": null
+  },
+  {
+    "rank": 18,
+    "name": "Kyler Murray",
+    "team": "MIN",
+    "position": "QB",
+    "position_rank": "QB18",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5849",
+    "fp_id": 18600,
+    "tff_rank": 14,
+    "agg_rank": 16.0,
+    "rank_change": -6
+  },
+  {
+    "rank": 19,
+    "name": "Michael Penix Jr.",
+    "team": "ATL",
+    "position": "QB",
+    "position_rank": "QB19",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11559.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11559",
+    "fp_id": 22973,
+    "tff_rank": 34,
+    "agg_rank": 26.5,
+    "rank_change": 5
   },
   {
     "rank": 20,
-    "name": "Aaron Rodgers",
-    "team": "PIT",
+    "name": "Bo Nix",
+    "team": "DEN",
     "position": "QB",
     "position_rank": "QB20",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/96.jpg",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11563.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -923,43 +918,21 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Stephen A. proposes a Steelers reunion with George Pickens",
-        "description": "Stephen A. proposes a Steelers reunion with George Pickens",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50359323/stephen-proposes-steelers-reunion-george-pickens",
-        "timestamp": "2026-11-02T17:09:06Z",
-        "player_names": [
-          "Darnell Washington",
-          "Rico Dowdle",
-          "Jaylen Warren",
-          "Aaron Rodgers",
-          "DK Metcalf",
-          "George Pickens"
-        ],
-        "player_name": "Darnell Washington",
-        "teams": [
-          "Pittsburgh Steelers"
-        ],
-        "type": "Media"
-      }
-    ],
-    "sleeper_id": "96",
-    "fp_id": 9001,
-    "tff_rank": 27,
-    "agg_rank": 23.5,
-    "rank_change": 0
+    "news": [],
+    "sleeper_id": "11563",
+    "fp_id": 22910,
+    "tff_rank": 11,
+    "agg_rank": 15.5,
+    "rank_change": 5
   },
   {
     "rank": 21,
-    "name": "Malik Willis",
-    "team": "MIA",
+    "name": "Bryce Young",
+    "team": "CAR",
     "position": "QB",
     "position_rank": "QB21",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8161.jpg",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9228.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -980,62 +953,59 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Dolphins' blown lead another lesson in a season full of them",
-        "description": "The Dolphins are hoping to learn another lesson from the Patiots: It takes from kickoff until the final whistle.",
+        "headline": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status",
+        "description": "Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
         "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50360735/miami-dolphins-blow-lead-vs-patriots-improving",
-        "timestamp": "2026-11-02T21:47:45Z",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+        "timestamp": "2026-11-03T16:36:40Z",
         "player_names": [
-          "Malik Willis",
-          "Dante Trader Jr",
-          "Jordyn Brooks",
-          "Jacob Rodriguez"
-        ],
-        "player_name": "Malik Willis",
-        "teams": [
-          "Miami Dolphins"
-        ],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options",
-        "description": "The top available players worth adding to your roster or streaming in standard or deeper leagues",
-        "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9",
-        "timestamp": "2026-11-02T17:39:03Z",
-        "player_names": [
-          "Geno Smith",
-          "Mike Washington Jr",
-          "Jordyn Tyson",
-          "Mike Gesicki",
+          "Lamar Jackson",
           "Tyler Huntley",
-          "JJ McCarthy",
-          "Malik Willis",
+          "Jalen Hurts",
+          "Jaxson Dart",
+          "Joe Burrow",
+          "Kirk Cousins",
+          "Bryce Young",
+          "Baker Mayfield",
+          "Gardner Minshew II",
+          "Joe Fagnano",
           "Anthony Richardson Sr",
-          "Carson Beck",
+          "Bucky Irving",
+          "Bhayshul Tuten",
+          "Chuba Hubbard",
+          "Javonte Williams",
+          "Ashton Jeanty",
+          "Blake Corum",
+          "Tony Pollard",
+          "Braelon Allen",
+          "Jonah Coleman",
+          "Mike Washington Jr",
           "Tyler Allgeier",
           "Emmett Johnson",
-          "Dylan Sampson",
-          "Kaelon Black",
-          "Devin Singletary",
-          "Seth McGowan",
-          "Adonai Mitchell",
-          "Ryan Flournoy",
-          "Malik Washington",
-          "Michael Mayer",
-          "Eli Raridon"
+          "Tee Higgins",
+          "Michael Wilson",
+          "Jameson Williams",
+          "Zay Flowers",
+          "AJ Brown",
+          "DeVonta Smith",
+          "Stefon Diggs",
+          "Ladd McConkey",
+          "Jordyn Tyson",
+          "Harold Fannin Jr",
+          "Tyler Warren",
+          "Hunter Henry",
+          "Mike Gesicki"
         ],
-        "player_name": "Geno Smith",
+        "player_name": "Lamar Jackson",
         "teams": [],
         "type": "Story"
       }
     ],
-    "sleeper_id": "8161",
-    "fp_id": 23499,
-    "tff_rank": 21,
-    "agg_rank": 21.0,
-    "rank_change": 0
+    "sleeper_id": "9228",
+    "fp_id": 22900,
+    "tff_rank": 26,
+    "agg_rank": 23.5,
+    "rank_change": -8
   },
   {
     "rank": 22,
@@ -1071,76 +1041,12 @@
   },
   {
     "rank": 23,
-    "name": "Justin Herbert",
-    "team": "LAC",
+    "name": "Baker Mayfield",
+    "team": "TB",
     "position": "QB",
     "position_rank": "QB23",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6797.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6797",
-    "fp_id": 18635,
-    "tff_rank": 12,
-    "agg_rank": 17.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 24,
-    "name": "Michael Penix Jr.",
-    "team": "ATL",
-    "position": "QB",
-    "position_rank": "QB24",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11559.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11559",
-    "fp_id": 22973,
-    "tff_rank": 34,
-    "agg_rank": 29.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 25,
-    "name": "Bo Nix",
-    "team": "DEN",
-    "position": "QB",
-    "position_rank": "QB25",
     "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11563.jpg",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4892.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -1161,26 +1067,123 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Stephen A.: Broncos proved they are a team to be reckoned with",
-        "description": "Stephen A.: Broncos proved they are a team to be reckoned with ",
+        "headline": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status",
+        "description": "Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
         "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50359063/broncos-proved-team-reckoned-with",
-        "timestamp": "2026-11-02T16:24:52Z",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+        "timestamp": "2026-11-03T16:36:40Z",
         "player_names": [
-          "Bo Nix"
+          "Lamar Jackson",
+          "Tyler Huntley",
+          "Jalen Hurts",
+          "Jaxson Dart",
+          "Joe Burrow",
+          "Kirk Cousins",
+          "Bryce Young",
+          "Baker Mayfield",
+          "Gardner Minshew II",
+          "Joe Fagnano",
+          "Anthony Richardson Sr",
+          "Bucky Irving",
+          "Bhayshul Tuten",
+          "Chuba Hubbard",
+          "Javonte Williams",
+          "Ashton Jeanty",
+          "Blake Corum",
+          "Tony Pollard",
+          "Braelon Allen",
+          "Jonah Coleman",
+          "Mike Washington Jr",
+          "Tyler Allgeier",
+          "Emmett Johnson",
+          "Tee Higgins",
+          "Michael Wilson",
+          "Jameson Williams",
+          "Zay Flowers",
+          "AJ Brown",
+          "DeVonta Smith",
+          "Stefon Diggs",
+          "Ladd McConkey",
+          "Jordyn Tyson",
+          "Harold Fannin Jr",
+          "Tyler Warren",
+          "Hunter Henry",
+          "Mike Gesicki"
         ],
-        "player_name": "Bo Nix",
-        "teams": [
-          "Denver Broncos"
-        ],
-        "type": "Media"
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
       }
     ],
-    "sleeper_id": "11563",
-    "fp_id": 22910,
-    "tff_rank": 11,
-    "agg_rank": 18.0,
-    "rank_change": 0
+    "sleeper_id": "4892",
+    "fp_id": 17237,
+    "tff_rank": 19,
+    "agg_rank": 21.0,
+    "rank_change": -4
+  },
+  {
+    "rank": 24,
+    "name": "J.J. McCarthy",
+    "team": "NYG",
+    "position": "QB",
+    "position_rank": "QB24",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11565.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11565",
+    "fp_id": 23018,
+    "tff_rank": null,
+    "agg_rank": 24.0,
+    "rank_change": null
+  },
+  {
+    "rank": 25,
+    "name": "Geno Smith",
+    "team": "NYJ",
+    "position": "QB",
+    "position_rank": "QB25",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1373.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "1373",
+    "fp_id": 11687,
+    "tff_rank": 29,
+    "agg_rank": 27.0,
+    "rank_change": -9
   },
   {
     "rank": 26,
@@ -1207,24 +1210,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Nick Sirianni not making changes at OC or QB despite Eagles' losing streak",
-        "description": "Eagles coach Nick Sirianni said Monday that he is not making a change at offensive coordinator or quarterback amid his team's six-game losing streak.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50361174/sirianni-no-changes-oc-qb-eagles-six-game-skid",
-        "timestamp": "2026-11-03T00:15:03Z",
-        "player_names": [
-          "Tanner McKee"
-        ],
-        "player_name": "Tanner McKee",
-        "teams": [
-          "Philadelphia Eagles"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
+    "news": [],
     "sleeper_id": "9230",
     "fp_id": 24740,
     "tff_rank": null,
@@ -1256,25 +1242,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Shane Steichen sticking with Daniel Jones as Colts' QB1 for Week 9 vs. Cowboys",
-        "description": "Daniel Jones will remain the Colts' starting quarterback for Sunday's game against the Cowboys.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50360220/colts-sticking-daniel-jones-qb1-week-9",
-        "timestamp": "2026-11-02T21:34:31Z",
-        "player_names": [
-          "Daniel Jones"
-        ],
-        "player_name": "Daniel Jones",
-        "teams": [
-          "Indianapolis Colts",
-          "Dallas Cowboys"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
+    "news": [],
     "sleeper_id": "5870",
     "fp_id": 18232,
     "tff_rank": 25,
@@ -1283,44 +1251,12 @@
   },
   {
     "rank": 28,
-    "name": "Cam Ward",
-    "team": "TEN",
+    "name": "Justin Herbert",
+    "team": "LAC",
     "position": "QB",
     "position_rank": "QB28",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12522.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12522",
-    "fp_id": 24755,
-    "tff_rank": 22,
-    "agg_rank": 25.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 29,
-    "name": "Fernando Mendoza",
-    "team": "LV",
-    "position": "QB",
-    "position_rank": "QB29",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13269.jpg",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6797.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -1341,36 +1277,272 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Schefter to McAfee: I don't see Kirk Cousins as a trade option",
-        "description": "Schefter to McAfee: I don't see Kirk Cousins as a trade option",
+        "headline": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
+        "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
         "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50359898/see-kirk-cousins-trade-option",
-        "timestamp": "2026-11-02T18:57:47Z",
+        "url": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
+        "timestamp": "2026-11-03T17:14:21Z",
         "player_names": [
-          "Kirk Cousins",
-          "Pat McAfee",
-          "Fernando Mendoza"
+          "Patrick Mahomes",
+          "Jahmyr Gibbs",
+          "Jaxon Smith-Njigba",
+          "Caleb Williams",
+          "Jeffery Simmons",
+          "Will Anderson Jr",
+          "Justin Herbert"
         ],
-        "player_name": "Kirk Cousins",
+        "player_name": "Patrick Mahomes",
+        "teams": [],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Seven things Solak thinks for NFL Week 9: Bucs atop NFC South? RB trades coming?",
+        "description": "Get ready for Week 9 with takes on the Bucs' division chances, why RBs could dominate the trade deadline and which teams should at least ask about Justin Herbert.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50355612/week-9-seven-things-solak-thinks-trades-standings",
+        "timestamp": "2026-11-03T17:03:18Z",
+        "player_names": [
+          "Justin Herbert",
+          "Bucky Irving",
+          "George Pickens"
+        ],
+        "player_name": "Justin Herbert",
         "teams": [
-          "Las Vegas Raiders",
+          "Pittsburgh Steelers",
+          "Cincinnati Bengals",
+          "Dallas Cowboys",
+          "Cleveland Browns",
+          "Tampa Bay Buccaneers",
+          "Jacksonville Jaguars",
+          "New York Jets",
+          "Minnesota Vikings",
+          "Seattle Seahawks",
+          "Chicago Bears",
+          "Tennessee Titans",
           "Indianapolis Colts"
         ],
-        "type": "Media"
+        "type": "Story"
       }
     ],
-    "sleeper_id": "13269",
-    "fp_id": 28013,
-    "tff_rank": 33,
-    "agg_rank": 31.0,
-    "rank_change": 0
+    "sleeper_id": "6797",
+    "fp_id": 18635,
+    "tff_rank": 12,
+    "agg_rank": 20.0,
+    "rank_change": -5
+  },
+  {
+    "rank": 29,
+    "name": "Gardner Minshew II",
+    "team": "ARI",
+    "position": "QB",
+    "position_rank": "QB29",
+    "bye": "14",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6011.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status",
+        "description": "Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+        "timestamp": "2026-11-03T16:36:40Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Tyler Huntley",
+          "Jalen Hurts",
+          "Jaxson Dart",
+          "Joe Burrow",
+          "Kirk Cousins",
+          "Bryce Young",
+          "Baker Mayfield",
+          "Gardner Minshew II",
+          "Joe Fagnano",
+          "Anthony Richardson Sr",
+          "Bucky Irving",
+          "Bhayshul Tuten",
+          "Chuba Hubbard",
+          "Javonte Williams",
+          "Ashton Jeanty",
+          "Blake Corum",
+          "Tony Pollard",
+          "Braelon Allen",
+          "Jonah Coleman",
+          "Mike Washington Jr",
+          "Tyler Allgeier",
+          "Emmett Johnson",
+          "Tee Higgins",
+          "Michael Wilson",
+          "Jameson Williams",
+          "Zay Flowers",
+          "AJ Brown",
+          "DeVonta Smith",
+          "Stefon Diggs",
+          "Ladd McConkey",
+          "Jordyn Tyson",
+          "Harold Fannin Jr",
+          "Tyler Warren",
+          "Hunter Henry",
+          "Mike Gesicki"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Fantasy buzz: No stopping Bears, Seahawks ease Charbonnet back, Minshew impact",
+        "description": "The Bears' offense is full of must-start players, Seahawks backfield still in flux as Charbonnet, Price return",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-11-03T14:39:09Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Gardner Minshew II",
+          "Michael Wilson",
+          "Trey McBride",
+          "D'Andre Swift",
+          "Luther Burden III",
+          "Caleb Williams",
+          "Rome Odunze",
+          "Jadarian Price",
+          "Zach Charbonnet",
+          "Jaxon Smith-Njigba",
+          "Colston Loveland"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "6011",
+    "fp_id": 18562,
+    "tff_rank": null,
+    "agg_rank": 29.0,
+    "rank_change": 16
   },
   {
     "rank": 30,
-    "name": "Tyler Huntley",
+    "name": "Joe Fagnano",
     "team": "BAL",
     "position": "QB",
     "position_rank": "QB30",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13350.jpg",
+    "injury_status": "Out",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status",
+        "description": "Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+        "timestamp": "2026-11-03T16:36:40Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Tyler Huntley",
+          "Jalen Hurts",
+          "Jaxson Dart",
+          "Joe Burrow",
+          "Kirk Cousins",
+          "Bryce Young",
+          "Baker Mayfield",
+          "Gardner Minshew II",
+          "Joe Fagnano",
+          "Anthony Richardson Sr",
+          "Bucky Irving",
+          "Bhayshul Tuten",
+          "Chuba Hubbard",
+          "Javonte Williams",
+          "Ashton Jeanty",
+          "Blake Corum",
+          "Tony Pollard",
+          "Braelon Allen",
+          "Jonah Coleman",
+          "Mike Washington Jr",
+          "Tyler Allgeier",
+          "Emmett Johnson",
+          "Tee Higgins",
+          "Michael Wilson",
+          "Jameson Williams",
+          "Zay Flowers",
+          "AJ Brown",
+          "DeVonta Smith",
+          "Stefon Diggs",
+          "Ladd McConkey",
+          "Jordyn Tyson",
+          "Harold Fannin Jr",
+          "Tyler Warren",
+          "Hunter Henry",
+          "Mike Gesicki"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Ravens QB Joe Fagnano (ankle) has chance to play Thursday, per Jesse Minter",
+        "description": "Ravens quarterback Joe Fagnano is dealing with an ankle injury but has \"a chance\" to play Thursday night, coach Jesse Minter said.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50362530/ravens-qb-joe-fagnano-ankle-chance-play-thursday",
+        "timestamp": "2026-11-03T01:22:16Z",
+        "player_names": [
+          "Joe Fagnano",
+          "Tyler Loop"
+        ],
+        "player_name": "Joe Fagnano",
+        "teams": [
+          "Baltimore Ravens"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
+    "sleeper_id": "13350",
+    "fp_id": 28400,
+    "tff_rank": null,
+    "agg_rank": 30.0,
+    "rank_change": null
+  },
+  {
+    "rank": 31,
+    "name": "Tyler Huntley",
+    "team": "BAL",
+    "position": "QB",
+    "position_rank": "QB31",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7083.jpg",
     "injury_status": "Out",
@@ -1393,132 +1565,66 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Fantasy football free agent pickups: Geno Smith, Mike Washington Jr. top options",
-        "description": "The top available players worth adding to your roster or streaming in standard or deeper leagues",
+        "headline": "Rest-of-season rankings: Irving, Tuten and Hubbard achieve RB1 status",
+        "description": "Need a quick free agent pickup -- or roster overhaul -- after Week 8? These rankings are designed to help.",
         "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50358651/fantasy-football-waivers-free-agent-pickups-nfl-week-9",
-        "timestamp": "2026-11-02T17:39:03Z",
-        "player_names": [
-          "Geno Smith",
-          "Mike Washington Jr",
-          "Jordyn Tyson",
-          "Mike Gesicki",
-          "Tyler Huntley",
-          "JJ McCarthy",
-          "Malik Willis",
-          "Anthony Richardson Sr",
-          "Carson Beck",
-          "Tyler Allgeier",
-          "Emmett Johnson",
-          "Dylan Sampson",
-          "Kaelon Black",
-          "Devin Singletary",
-          "Seth McGowan",
-          "Adonai Mitchell",
-          "Ryan Flournoy",
-          "Malik Washington",
-          "Michael Mayer",
-          "Eli Raridon"
-        ],
-        "player_name": "Geno Smith",
-        "teams": [],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Domonique Foxworth wonders whether if Lamar Jackson ever plays for the Ravens again",
-        "description": "Domonique Foxworth wonders whether if Lamar Jackson ever plays for the Ravens again",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50358018/domonique-foxworth-wonders-whether-lamar-jackson-ever-plays-ravens-again",
-        "timestamp": "2026-11-02T13:41:49Z",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/49949224/fantasy-football-2026-updated-rest-season-rankings",
+        "timestamp": "2026-11-03T16:36:40Z",
         "player_names": [
           "Lamar Jackson",
           "Tyler Huntley",
-          "Domonique Foxworth"
+          "Jalen Hurts",
+          "Jaxson Dart",
+          "Joe Burrow",
+          "Kirk Cousins",
+          "Bryce Young",
+          "Baker Mayfield",
+          "Gardner Minshew II",
+          "Joe Fagnano",
+          "Anthony Richardson Sr",
+          "Bucky Irving",
+          "Bhayshul Tuten",
+          "Chuba Hubbard",
+          "Javonte Williams",
+          "Ashton Jeanty",
+          "Blake Corum",
+          "Tony Pollard",
+          "Braelon Allen",
+          "Jonah Coleman",
+          "Mike Washington Jr",
+          "Tyler Allgeier",
+          "Emmett Johnson",
+          "Tee Higgins",
+          "Michael Wilson",
+          "Jameson Williams",
+          "Zay Flowers",
+          "AJ Brown",
+          "DeVonta Smith",
+          "Stefon Diggs",
+          "Ladd McConkey",
+          "Jordyn Tyson",
+          "Harold Fannin Jr",
+          "Tyler Warren",
+          "Hunter Henry",
+          "Mike Gesicki"
         ],
         "player_name": "Lamar Jackson",
-        "teams": [
-          "Baltimore Ravens"
-        ],
-        "type": "Media"
+        "teams": [],
+        "type": "Story"
       }
     ],
     "sleeper_id": "7083",
     "fp_id": 19297,
     "tff_rank": null,
-    "agg_rank": 30.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 31,
-    "name": "Jalon Daniels",
-    "team": "TB",
-    "position": "QB",
-    "position_rank": "QB31",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13425.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13425",
-    "fp_id": 26060,
-    "tff_rank": null,
     "agg_rank": 31.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 32,
-    "name": "Shedeur Sanders",
-    "team": "CLE",
-    "position": "QB",
-    "position_rank": "QB32",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12524.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12524",
-    "fp_id": 25968,
-    "tff_rank": 32,
-    "agg_rank": 32.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 33,
     "name": "Carson Wentz",
     "team": "MIN",
     "position": "QB",
-    "position_rank": "QB33",
+    "position_rank": "QB32",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3161.jpg",
     "injury_status": "",
@@ -1542,439 +1648,17 @@
     "sleeper_id": "3161",
     "fp_id": 15520,
     "tff_rank": null,
-    "agg_rank": 33.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 34,
-    "name": "Tyson Bagent",
-    "team": "CHI",
-    "position": "QB",
-    "position_rank": "QB34",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11256.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11256",
-    "fp_id": 25321,
-    "tff_rank": null,
-    "agg_rank": 34.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 35,
-    "name": "Joe Milton III",
-    "team": "PHI",
-    "position": "QB",
-    "position_rank": "QB35",
-    "bye": "10",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 25967,
-    "tff_rank": null,
-    "agg_rank": 35.0,
+    "agg_rank": 32.0,
     "rank_change": 1
   },
   {
-    "rank": 36,
-    "name": "Cole Payton",
-    "team": "PHI",
-    "position": "QB",
-    "position_rank": "QB36",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13335.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13335",
-    "fp_id": 28302,
-    "tff_rank": null,
-    "agg_rank": 36.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 37,
-    "name": "Anthony Richardson Sr.",
-    "team": "IND",
-    "position": "QB",
-    "position_rank": "QB37",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9229.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "9229",
-    "fp_id": 24347,
-    "tff_rank": null,
-    "agg_rank": 37.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 38,
-    "name": "Marcus Mariota",
-    "team": "WAS",
-    "position": "QB",
-    "position_rank": "QB38",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2307.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "2307",
-    "fp_id": 13890,
-    "tff_rank": null,
-    "agg_rank": 38.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 39,
-    "name": "Tua Tagovailoa",
-    "team": "ATL",
-    "position": "QB",
-    "position_rank": "QB39",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6768.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6768",
-    "fp_id": 19198,
-    "tff_rank": 30,
-    "agg_rank": 34.5,
-    "rank_change": 1
-  },
-  {
-    "rank": 40,
-    "name": "Cade Klubnik",
-    "team": "NYJ",
-    "position": "QB",
-    "position_rank": "QB40",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13303.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13303",
-    "fp_id": 24361,
-    "tff_rank": null,
-    "agg_rank": 40.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 41,
-    "name": "Jarrett Stidham",
-    "team": "DEN",
-    "position": "QB",
-    "position_rank": "QB41",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6136.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6136",
-    "fp_id": 18604,
-    "tff_rank": null,
-    "agg_rank": 41.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 42,
-    "name": "Kyle McCord",
-    "team": "MIA",
-    "position": "QB",
-    "position_rank": "QB42",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12494.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12494",
-    "fp_id": 23066,
-    "tff_rank": null,
-    "agg_rank": 42.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 43,
-    "name": "Tyrod Taylor",
-    "team": "GB",
-    "position": "QB",
-    "position_rank": "QB43",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/827.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "827",
-    "fp_id": 10007,
-    "tff_rank": null,
-    "agg_rank": 43.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 44,
-    "name": "Joshua Dobbs",
-    "team": "DET",
-    "position": "QB",
-    "position_rank": "QB44",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4179.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4179",
-    "fp_id": 16417,
-    "tff_rank": null,
-    "agg_rank": 44.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 45,
-    "name": "Gardner Minshew II",
+    "rank": 33,
+    "name": "Jacoby Brissett",
     "team": "ARI",
     "position": "QB",
-    "position_rank": "QB45",
+    "position_rank": "QB33",
     "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6011.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Fantasy buzz: Minshew takes over in AZ; Charbonnet, Price return; Jackson on IR",
-        "description": "A closer look at the impact of Gardner Minshew II taking over as the Cardinals starting quarterback.",
-        "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-11-02T22:32:24Z",
-        "player_names": [
-          "Zach Charbonnet",
-          "Jadarian Price",
-          "Lamar Jackson",
-          "Gardner Minshew II",
-          "Michael Wilson",
-          "Trey McBride"
-        ],
-        "player_name": "Zach Charbonnet",
-        "teams": [],
-        "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Cardinals name Gardner Minshew as starter, move Jacoby Brissett to QB3",
-        "description": "The Cardinals named Gardner Minshew as the team's new starting QB while moving Jacoby Brissett below rookie Carson Beck on the depth chart.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50361163/cardinals-move-forward-gardner-minshew-starting-qb",
-        "timestamp": "2026-11-02T23:48:09Z",
-        "player_names": [
-          "Gardner Minshew II",
-          "Carson Beck",
-          "Jacoby Brissett"
-        ],
-        "player_name": "Gardner Minshew II",
-        "teams": [
-          "Arizona Cardinals"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "6011",
-    "fp_id": 18562,
-    "tff_rank": null,
-    "agg_rank": 45.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 46,
-    "name": "Sam Howell",
-    "team": "DAL",
-    "position": "QB",
-    "position_rank": "QB46",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8162.jpg",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3257.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -1993,138 +1677,10 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "8162",
-    "fp_id": 23045,
-    "tff_rank": null,
-    "agg_rank": 46.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 47,
-    "name": "Mason Rudolph",
-    "team": "PIT",
-    "position": "QB",
-    "position_rank": "QB47",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4972.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4972",
-    "fp_id": 17234,
-    "tff_rank": null,
-    "agg_rank": 47.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 48,
-    "name": "Mitchell Trubisky",
-    "team": "TEN",
-    "position": "QB",
-    "position_rank": "QB48",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3976.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "3976",
-    "fp_id": 16381,
-    "tff_rank": null,
-    "agg_rank": 48.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 49,
-    "name": "Kenny Pickett",
-    "team": "CAR",
-    "position": "QB",
-    "position_rank": "QB49",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8160.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "8160",
-    "fp_id": 22722,
-    "tff_rank": null,
-    "agg_rank": 49.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 50,
-    "name": "Jalen Milroe",
-    "team": "SEA",
-    "position": "QB",
-    "position_rank": "QB50",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12510.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12510",
-    "fp_id": 22884,
-    "tff_rank": null,
-    "agg_rank": 50.0,
-    "rank_change": 2
+    "sleeper_id": "3257",
+    "fp_id": 15642,
+    "tff_rank": 28,
+    "agg_rank": 30.5,
+    "rank_change": -24
   }
 ]
