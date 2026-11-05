@@ -88,7 +88,24 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Bijan Robinson says win in Madrid could swing Falcons' season",
+        "description": "Falcons running back Bijan Robinson framed it, Sunday's game against the Bengals at Madrid's historic Santiago Bernabeu Stadium could be a catalyst for an Atlanta team trying to reshape its season.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50390044/bijan-robinson-says-win-madrid-wing-falcons-season",
+        "timestamp": "2026-11-05T17:18:21Z",
+        "player_names": [
+          "Bijan Robinson"
+        ],
+        "player_name": "Bijan Robinson",
+        "teams": [
+          "Atlanta Falcons"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "9509",
     "fp_id": 23133,
     "tff_rank": 2,
@@ -225,42 +242,10 @@
   },
   {
     "rank": 8,
-    "name": "Bucky Irving",
-    "team": "TB",
-    "position": "RB",
-    "position_rank": "RB8",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11584.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11584",
-    "fp_id": 25981,
-    "tff_rank": 19,
-    "agg_rank": 13.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 9,
     "name": "James Cook III",
     "team": "BUF",
     "position": "RB",
-    "position_rank": "RB9",
+    "position_rank": "RB8",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8138.jpg",
     "injury_status": "",
@@ -284,8 +269,40 @@
     "sleeper_id": "8138",
     "fp_id": 22958,
     "tff_rank": 4,
-    "agg_rank": 6.5,
-    "rank_change": 0
+    "agg_rank": 6.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 9,
+    "name": "Bucky Irving",
+    "team": "TB",
+    "position": "RB",
+    "position_rank": "RB9",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11584.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11584",
+    "fp_id": 25981,
+    "tff_rank": 19,
+    "agg_rank": 14.0,
+    "rank_change": -1
   },
   {
     "rank": 10,
@@ -315,11 +332,11 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Fantasy buzz: Wilson in protocol, Tuten GTD for TNF, four teams make QB changes",
-        "description": "How do the potential absences of Deshaun Watson and Garrett Wilson impact the players around them?",
+        "headline": "Fantasy buzz: Sit Henry? Start Dulcich? Matchup tips for TNF and Week 9",
+        "description": "With Baltimore's offense in disarray, should you bench Derrick Henry against Jacksonville on Thursday night?",
         "story": "",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-11-04T22:34:28Z",
+        "timestamp": "2026-11-05T16:23:13Z",
         "player_names": [
           "Lamar Jackson",
           "Gardner Minshew II",
@@ -336,7 +353,13 @@
           "Deshaun Watson",
           "Garrett Wilson",
           "Bhayshul Tuten",
-          "Chris Rodriguez Jr"
+          "Chris Rodriguez Jr",
+          "Shedeur Sanders",
+          "Sam Darnold",
+          "Drew Lock",
+          "Joe Milton",
+          "Jacoby Brissett",
+          "Derrick Henry"
         ],
         "player_name": "Lamar Jackson",
         "teams": [],
@@ -347,17 +370,17 @@
     "fp_id": 19210,
     "tff_rank": 14,
     "agg_rank": 12.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 11,
-    "name": "Bhayshul Tuten",
-    "team": "JAX",
+    "name": "Chase Brown",
+    "team": "CIN",
     "position": "RB",
     "position_rank": "RB11",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12490.jpg",
-    "injury_status": "Questionable",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9224.jpg",
+    "injury_status": "",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -377,39 +400,31 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Fantasy buzz: Wilson in protocol, Tuten GTD for TNF, four teams make QB changes",
-        "description": "How do the potential absences of Deshaun Watson and Garrett Wilson impact the players around them?",
+        "headline": "Fantasy football matchup rankings: Upgrade Brown, fade Jacobs, Moore",
+        "description": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
         "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-11-04T22:34:28Z",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50371800/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+        "timestamp": "2026-11-05T15:04:02Z",
         "player_names": [
-          "Lamar Jackson",
-          "Gardner Minshew II",
-          "Michael Wilson",
-          "Trey McBride",
-          "D'Andre Swift",
-          "Luther Burden III",
+          "Malik Willis",
           "Caleb Williams",
-          "Rome Odunze",
-          "Jadarian Price",
-          "Zach Charbonnet",
-          "Jaxon Smith-Njigba",
-          "Colston Loveland",
-          "Deshaun Watson",
-          "Garrett Wilson",
-          "Bhayshul Tuten",
-          "Chris Rodriguez Jr"
+          "Chase Brown",
+          "Josh Jacobs",
+          "Keenan Allen",
+          "DJ Moore",
+          "Greg Dulcich",
+          "Dallas Goedert"
         ],
-        "player_name": "Lamar Jackson",
+        "player_name": "Malik Willis",
         "teams": [],
         "type": "Story"
       }
     ],
-    "sleeper_id": "12490",
-    "fp_id": 27297,
-    "tff_rank": 21,
-    "agg_rank": 16.0,
-    "rank_change": 0
+    "sleeper_id": "9224",
+    "fp_id": 25324,
+    "tff_rank": 8,
+    "agg_rank": 9.5,
+    "rank_change": 2
   },
   {
     "rank": 12,
@@ -439,11 +454,32 @@
     "news": [
       {
         "source": "espn",
+        "headline": "Fantasy football matchup rankings: Upgrade Brown, fade Jacobs, Moore",
+        "description": "The most and least favorable matchups in the NFL for this week's games at the four key fantasy positions.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50371800/fantasy-football-rankings-best-worst-matchup-qb-rb-wr-te",
+        "timestamp": "2026-11-05T15:04:02Z",
+        "player_names": [
+          "Malik Willis",
+          "Caleb Williams",
+          "Chase Brown",
+          "Josh Jacobs",
+          "Keenan Allen",
+          "DJ Moore",
+          "Greg Dulcich",
+          "Dallas Goedert"
+        ],
+        "player_name": "Malik Willis",
+        "teams": [],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
         "headline": "RB Josh Jacobs not anticipating missing more time despite additional allegations",
-        "description": "Packers running back Josh Jacobs said he's operating under the assumption that he won't have to sit out any more games than the six he already missed while on the NFL commissioner's exempt list, despite the release of additional allegations against him.",
+        "description": "Packers running back Josh Jacobs said he's operating under the assumption that he won't have to sit out any more games than the six he already missed while on the NFL commissioner's exempt list despite the release of additional allegations against him.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/50383288/packers-josh-jacobs-not-worried-missing-more-games-additional-allegations",
-        "timestamp": "2026-11-04T23:58:43Z",
+        "timestamp": "2026-11-05T01:10:46Z",
         "player_names": [
           "Josh Jacobs"
         ],
@@ -458,16 +494,16 @@
     "fp_id": 18269,
     "tff_rank": 55,
     "agg_rank": 33.5,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 13,
-    "name": "Chase Brown",
-    "team": "CIN",
+    "name": "Jonathan Taylor",
+    "team": "IND",
     "position": "RB",
     "position_rank": "RB13",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9224.jpg",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6813.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -485,12 +521,48 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
-    "sleeper_id": "9224",
-    "fp_id": 25324,
-    "tff_rank": 8,
-    "agg_rank": 10.5,
-    "rank_change": -1
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Which team needs Jonathan Taylor the most?",
+        "description": "Which team needs Jonathan Taylor the most?",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50388269/which-team-needs-jonathan-taylor-most",
+        "timestamp": "2026-11-05T13:42:52Z",
+        "player_names": [
+          "Jonathan Taylor"
+        ],
+        "player_name": "Jonathan Taylor",
+        "teams": [
+          "Indianapolis Colts",
+          "New York Giants",
+          "Cincinnati Bengals",
+          "Minnesota Vikings"
+        ],
+        "type": "Media"
+      },
+      {
+        "source": "espn",
+        "headline": "Colts' Shane Steichen defends Jonathan Taylor usage, says RB will keep role",
+        "description": "Jonathan Taylor will continue to play his usual role with the Colts despite being at the center of trade talks with multiple teams, Shane Steichen said.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50381853/shane-steichen-defends-colts-jonathan-taylor-usage-trade",
+        "timestamp": "2026-11-04T21:16:35Z",
+        "player_names": [
+          "Jonathan Taylor"
+        ],
+        "player_name": "Jonathan Taylor",
+        "teams": [
+          "Indianapolis Colts"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
+    "sleeper_id": "6813",
+    "fp_id": 19217,
+    "tff_rank": 5,
+    "agg_rank": 9.0,
+    "rank_change": 2
   },
   {
     "rank": 14,
@@ -517,23 +589,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Quinshon Judkins vs. Rhamondre Stevenson: Clay and Yates debate the RBs",
-        "description": "Quinshon Judkins vs. Rhamondre Stevenson: Clay and Yates debate the RBs",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50379398/clay-yates-debate-rbs",
-        "timestamp": "2026-11-04T16:07:36Z",
-        "player_names": [
-          "Quinshon Judkins",
-          "Rhamondre Stevenson"
-        ],
-        "player_name": "Quinshon Judkins",
-        "teams": [],
-        "type": "Media"
-      }
-    ],
+    "news": [],
     "sleeper_id": "7611",
     "fp_id": 22726,
     "tff_rank": 26,
@@ -542,59 +598,10 @@
   },
   {
     "rank": 15,
-    "name": "Jonathan Taylor",
-    "team": "IND",
-    "position": "RB",
-    "position_rank": "RB15",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6813.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Colts' Shane Steichen defends Jonathan Taylor usage, says RB will keep role",
-        "description": "Jonathan Taylor will continue to play his usual role with the Colts despite being at the center of trade talks with multiple teams, Shane Steichen said.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50381853/shane-steichen-defends-colts-jonathan-taylor-usage-trade",
-        "timestamp": "2026-11-04T21:16:35Z",
-        "player_names": [
-          "Jonathan Taylor"
-        ],
-        "player_name": "Jonathan Taylor",
-        "teams": [
-          "Indianapolis Colts"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "6813",
-    "fp_id": 19217,
-    "tff_rank": 5,
-    "agg_rank": 10.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 16,
     "name": "Jonah Coleman",
     "team": "DEN",
     "position": "RB",
-    "position_rank": "RB16",
+    "position_rank": "RB15",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13345.jpg",
     "injury_status": "",
@@ -614,19 +621,43 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Bowen: Six players you can now trust in lineups, four that you cannot any longer",
+        "description": "Matt Bowen on players who have emerged as trustworthy options and those who have lost his trust recently.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50379503/fantasy-football-trade-value-breakout-bust",
+        "timestamp": "2026-11-05T15:11:19Z",
+        "player_names": [
+          "Jameson Williams",
+          "Jonah Coleman",
+          "Ryan Flournoy",
+          "Braelon Allen",
+          "Malik Washington",
+          "Antonio Williams",
+          "Matthew Stafford",
+          "DK Metcalf",
+          "Dalton Kincaid",
+          "Bryce Young"
+        ],
+        "player_name": "Jameson Williams",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "13345",
     "fp_id": 27320,
     "tff_rank": 50,
-    "agg_rank": 33.0,
-    "rank_change": -1
+    "agg_rank": 32.5,
+    "rank_change": 1
   },
   {
-    "rank": 17,
+    "rank": 16,
     "name": "Saquon Barkley",
     "team": "PHI",
     "position": "RB",
-    "position_rank": "RB17",
+    "position_rank": "RB16",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4866.jpg",
     "injury_status": "Questionable",
@@ -650,8 +681,40 @@
     "sleeper_id": "4866",
     "fp_id": 17240,
     "tff_rank": 11,
-    "agg_rank": 14.0,
-    "rank_change": 0
+    "agg_rank": 13.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 17,
+    "name": "Ollie Gordon II",
+    "team": "MIA",
+    "position": "RB",
+    "position_rank": "RB17",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12495.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12495",
+    "fp_id": 25984,
+    "tff_rank": 89,
+    "agg_rank": 53.0,
+    "rank_change": 3
   },
   {
     "rank": 18,
@@ -678,7 +741,62 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "How to bet Jaguars-Ravens: Tips, analysis and our top prop plays",
+        "description": "Odds, analysis and picks to help you bet Thursday's Jacksonville Jaguars-Baltimore Ravens game.",
+        "story": "",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50371531/nfl-week-9-odds-betting-picks-jaguars-ravens-preview",
+        "timestamp": "2026-11-05T16:34:28Z",
+        "player_names": [
+          "Derrick Henry",
+          "Zay Flowers",
+          "Trevor Lawrence"
+        ],
+        "player_name": "Derrick Henry",
+        "teams": [
+          "Jacksonville Jaguars",
+          "Baltimore Ravens"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Fantasy buzz: Sit Henry? Start Dulcich? Matchup tips for TNF and Week 9",
+        "description": "With Baltimore's offense in disarray, should you bench Derrick Henry against Jacksonville on Thursday night?",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-11-05T16:23:13Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Gardner Minshew II",
+          "Michael Wilson",
+          "Trey McBride",
+          "D'Andre Swift",
+          "Luther Burden III",
+          "Caleb Williams",
+          "Rome Odunze",
+          "Jadarian Price",
+          "Zach Charbonnet",
+          "Jaxon Smith-Njigba",
+          "Colston Loveland",
+          "Deshaun Watson",
+          "Garrett Wilson",
+          "Bhayshul Tuten",
+          "Chris Rodriguez Jr",
+          "Shedeur Sanders",
+          "Sam Darnold",
+          "Drew Lock",
+          "Joe Milton",
+          "Jacoby Brissett",
+          "Derrick Henry"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "3198",
     "fp_id": 15514,
     "tff_rank": 9,
@@ -710,23 +828,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Quinshon Judkins vs. Rhamondre Stevenson: Clay and Yates debate the RBs",
-        "description": "Quinshon Judkins vs. Rhamondre Stevenson: Clay and Yates debate the RBs",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50379398/clay-yates-debate-rbs",
-        "timestamp": "2026-11-04T16:07:36Z",
-        "player_names": [
-          "Quinshon Judkins",
-          "Rhamondre Stevenson"
-        ],
-        "player_name": "Quinshon Judkins",
-        "teams": [],
-        "type": "Media"
-      }
-    ],
+    "news": [],
     "sleeper_id": "12512",
     "fp_id": 25391,
     "tff_rank": 22,
@@ -735,13 +837,13 @@
   },
   {
     "rank": 20,
-    "name": "Ollie Gordon II",
-    "team": "MIA",
+    "name": "Bhayshul Tuten",
+    "team": "JAX",
     "position": "RB",
     "position_rank": "RB20",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12495.jpg",
-    "injury_status": "",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12490.jpg",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -758,12 +860,48 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
-    "sleeper_id": "12495",
-    "fp_id": 25984,
-    "tff_rank": 89,
-    "agg_rank": 54.5,
-    "rank_change": 2
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy buzz: Sit Henry? Start Dulcich? Matchup tips for TNF and Week 9",
+        "description": "With Baltimore's offense in disarray, should you bench Derrick Henry against Jacksonville on Thursday night?",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-11-05T16:23:13Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Gardner Minshew II",
+          "Michael Wilson",
+          "Trey McBride",
+          "D'Andre Swift",
+          "Luther Burden III",
+          "Caleb Williams",
+          "Rome Odunze",
+          "Jadarian Price",
+          "Zach Charbonnet",
+          "Jaxon Smith-Njigba",
+          "Colston Loveland",
+          "Deshaun Watson",
+          "Garrett Wilson",
+          "Bhayshul Tuten",
+          "Chris Rodriguez Jr",
+          "Shedeur Sanders",
+          "Sam Darnold",
+          "Drew Lock",
+          "Joe Milton",
+          "Jacoby Brissett",
+          "Derrick Henry"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "12490",
+    "fp_id": 27297,
+    "tff_rank": 21,
+    "agg_rank": 20.5,
+    "rank_change": -9
   },
   {
     "rank": 21,
@@ -827,7 +965,7 @@
     "fp_id": 25989,
     "tff_rank": 12,
     "agg_rank": 17.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -859,17 +997,17 @@
     "fp_id": 24172,
     "tff_rank": 47,
     "agg_rank": 35.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 24,
-    "name": "Breece Hall",
-    "team": "NYJ",
+    "name": "Woody Marks",
+    "team": "HOU",
     "position": "RB",
     "position_rank": "RB24",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8155.jpg",
-    "injury_status": "Questionable",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12474.jpg",
+    "injury_status": "",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -886,29 +1024,11 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Jets' Garrett Wilson in concussion protocol, Breece Hall trending toward return",
-        "description": "Jets wide receiver Garrett Wilson is in the concussion protocol, but running back Breece Hall is \"trending in the right direction\" toward returning.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50380113/jets-wr-wilson-protocol-rb-hall-trending-return",
-        "timestamp": "2026-11-04T18:42:51Z",
-        "player_names": [
-          "Garrett Wilson",
-          "Breece Hall"
-        ],
-        "player_name": "Garrett Wilson",
-        "teams": [
-          "New York Jets"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "8155",
-    "fp_id": 22982,
-    "tff_rank": 15,
-    "agg_rank": 19.5,
+    "news": [],
+    "sleeper_id": "12474",
+    "fp_id": 27520,
+    "tff_rank": 43,
+    "agg_rank": 33.5,
     "rank_change": 2
   },
   {
@@ -941,17 +1061,17 @@
     "fp_id": 23891,
     "tff_rank": 40,
     "agg_rank": 32.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 26,
-    "name": "Woody Marks",
-    "team": "HOU",
+    "name": "Breece Hall",
+    "team": "NYJ",
     "position": "RB",
     "position_rank": "RB26",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12474.jpg",
-    "injury_status": "",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8155.jpg",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -969,11 +1089,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "12474",
-    "fp_id": 27520,
-    "tff_rank": 43,
-    "agg_rank": 34.5,
-    "rank_change": 2
+    "sleeper_id": "8155",
+    "fp_id": 22982,
+    "tff_rank": 15,
+    "agg_rank": 20.5,
+    "rank_change": -2
   },
   {
     "rank": 27,
@@ -1032,12 +1152,36 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Bowen: Six players you can now trust in lineups, four that you cannot any longer",
+        "description": "Matt Bowen on players who have emerged as trustworthy options and those who have lost his trust recently.",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/50379503/fantasy-football-trade-value-breakout-bust",
+        "timestamp": "2026-11-05T15:11:19Z",
+        "player_names": [
+          "Jameson Williams",
+          "Jonah Coleman",
+          "Ryan Flournoy",
+          "Braelon Allen",
+          "Malik Washington",
+          "Antonio Williams",
+          "Matthew Stafford",
+          "DK Metcalf",
+          "Dalton Kincaid",
+          "Bryce Young"
+        ],
+        "player_name": "Jameson Williams",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "11576",
     "fp_id": 24346,
     "tff_rank": 66,
     "agg_rank": 47.0,
-    "rank_change": -5
+    "rank_change": 0
   },
   {
     "rank": 29,
@@ -1067,11 +1211,11 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Fantasy buzz: Wilson in protocol, Tuten GTD for TNF, four teams make QB changes",
-        "description": "How do the potential absences of Deshaun Watson and Garrett Wilson impact the players around them?",
+        "headline": "Fantasy buzz: Sit Henry? Start Dulcich? Matchup tips for TNF and Week 9",
+        "description": "With Baltimore's offense in disarray, should you bench Derrick Henry against Jacksonville on Thursday night?",
         "story": "",
         "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-11-04T22:34:28Z",
+        "timestamp": "2026-11-05T16:23:13Z",
         "player_names": [
           "Lamar Jackson",
           "Gardner Minshew II",
@@ -1088,7 +1232,13 @@
           "Deshaun Watson",
           "Garrett Wilson",
           "Bhayshul Tuten",
-          "Chris Rodriguez Jr"
+          "Chris Rodriguez Jr",
+          "Shedeur Sanders",
+          "Sam Darnold",
+          "Drew Lock",
+          "Joe Milton",
+          "Jacoby Brissett",
+          "Derrick Henry"
         ],
         "player_name": "Lamar Jackson",
         "teams": [],
@@ -1099,7 +1249,7 @@
     "fp_id": 23152,
     "tff_rank": 45,
     "agg_rank": 37.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 30,
@@ -1131,14 +1281,82 @@
     "fp_id": 16421,
     "tff_rank": 54,
     "agg_rank": 42.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 31,
+    "name": "Jadarian Price",
+    "team": "SEA",
+    "position": "RB",
+    "position_rank": "RB31",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13286.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Fantasy buzz: Sit Henry? Start Dulcich? Matchup tips for TNF and Week 9",
+        "description": "With Baltimore's offense in disarray, should you bench Derrick Henry against Jacksonville on Thursday night?",
+        "story": "",
+        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+        "timestamp": "2026-11-05T16:23:13Z",
+        "player_names": [
+          "Lamar Jackson",
+          "Gardner Minshew II",
+          "Michael Wilson",
+          "Trey McBride",
+          "D'Andre Swift",
+          "Luther Burden III",
+          "Caleb Williams",
+          "Rome Odunze",
+          "Jadarian Price",
+          "Zach Charbonnet",
+          "Jaxon Smith-Njigba",
+          "Colston Loveland",
+          "Deshaun Watson",
+          "Garrett Wilson",
+          "Bhayshul Tuten",
+          "Chris Rodriguez Jr",
+          "Shedeur Sanders",
+          "Sam Darnold",
+          "Drew Lock",
+          "Joe Milton",
+          "Jacoby Brissett",
+          "Derrick Henry"
+        ],
+        "player_name": "Lamar Jackson",
+        "teams": [],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "13286",
+    "fp_id": 27329,
+    "tff_rank": 23,
+    "agg_rank": 27.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 32,
     "name": "Aaron Jones Sr.",
     "team": "MIN",
     "position": "RB",
-    "position_rank": "RB31",
+    "position_rank": "RB32",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4199.jpg",
     "injury_status": "",
@@ -1162,15 +1380,15 @@
     "sleeper_id": "4199",
     "fp_id": 16673,
     "tff_rank": 41,
-    "agg_rank": 36.0,
+    "agg_rank": 36.5,
     "rank_change": -1
   },
   {
-    "rank": 32,
+    "rank": 33,
     "name": "Jordan Mason",
     "team": "MIN",
     "position": "RB",
-    "position_rank": "RB32",
+    "position_rank": "RB33",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8408.jpg",
     "injury_status": "",
@@ -1194,70 +1412,8 @@
     "sleeper_id": "8408",
     "fp_id": 22969,
     "tff_rank": 36,
-    "agg_rank": 34.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 33,
-    "name": "Jadarian Price",
-    "team": "SEA",
-    "position": "RB",
-    "position_rank": "RB33",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13286.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Fantasy buzz: Wilson in protocol, Tuten GTD for TNF, four teams make QB changes",
-        "description": "How do the potential absences of Deshaun Watson and Garrett Wilson impact the players around them?",
-        "story": "",
-        "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-        "timestamp": "2026-11-04T22:34:28Z",
-        "player_names": [
-          "Lamar Jackson",
-          "Gardner Minshew II",
-          "Michael Wilson",
-          "Trey McBride",
-          "D'Andre Swift",
-          "Luther Burden III",
-          "Caleb Williams",
-          "Rome Odunze",
-          "Jadarian Price",
-          "Zach Charbonnet",
-          "Jaxon Smith-Njigba",
-          "Colston Loveland",
-          "Deshaun Watson",
-          "Garrett Wilson",
-          "Bhayshul Tuten",
-          "Chris Rodriguez Jr"
-        ],
-        "player_name": "Lamar Jackson",
-        "teams": [],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "13286",
-    "fp_id": 27329,
-    "tff_rank": 23,
-    "agg_rank": 28.0,
-    "rank_change": 3
+    "agg_rank": 34.5,
+    "rank_change": -1
   },
   {
     "rank": 34,
@@ -1321,7 +1477,7 @@
     "fp_id": 27102,
     "tff_rank": 49,
     "agg_rank": 42.0,
-    "rank_change": -3
+    "rank_change": 0
   },
   {
     "rank": 36,
@@ -1353,7 +1509,7 @@
     "fp_id": 18280,
     "tff_rank": 82,
     "agg_rank": 59.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 37,
@@ -1385,7 +1541,7 @@
     "fp_id": 25395,
     "tff_rank": 10,
     "agg_rank": 23.5,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 38,
@@ -1395,7 +1551,7 @@
     "position_rank": "RB38",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7567.jpg",
-    "injury_status": "",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -1412,98 +1568,19 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Can fantasy managers trust Kenny Gainwell in Week 9?",
-        "description": "Can fantasy managers trust Kenny Gainwell in Week 9?",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50379797/can-fantasy-managers-trust-kenny-gainwell-week-9",
-        "timestamp": "2026-11-04T16:57:32Z",
-        "player_names": [
-          "Kenny Gainwell"
-        ],
-        "player_name": "Kenny Gainwell",
-        "teams": [],
-        "type": "Media"
-      }
-    ],
+    "news": [],
     "sleeper_id": "7567",
     "fp_id": 23310,
     "tff_rank": 31,
     "agg_rank": 34.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 39,
-    "name": "J.K. Dobbins",
-    "team": "DEN",
-    "position": "RB",
-    "position_rank": "RB39",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6806.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6806",
-    "fp_id": 19245,
-    "tff_rank": 30,
-    "agg_rank": 34.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 40,
-    "name": "Kaelon Black",
-    "team": "SF",
-    "position": "RB",
-    "position_rank": "RB40",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13414.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13414",
-    "fp_id": 28401,
-    "tff_rank": 71,
-    "agg_rank": 55.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 41,
     "name": "Chris Rodriguez Jr.",
     "team": "JAX",
     "position": "RB",
-    "position_rank": "RB41",
+    "position_rank": "RB39",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10219.jpg",
     "injury_status": "",
@@ -1527,17 +1604,17 @@
     "sleeper_id": "10219",
     "fp_id": 22986,
     "tff_rank": 44,
-    "agg_rank": 42.5,
-    "rank_change": 0
+    "agg_rank": 41.5,
+    "rank_change": 2
   },
   {
-    "rank": 42,
-    "name": "Emmett Johnson",
-    "team": "KC",
+    "rank": 40,
+    "name": "J.K. Dobbins",
+    "team": "DEN",
     "position": "RB",
-    "position_rank": "RB42",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13337.jpg",
+    "position_rank": "RB40",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6806.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -1556,18 +1633,50 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "13337",
-    "fp_id": 28107,
-    "tff_rank": 61,
-    "agg_rank": 51.5,
-    "rank_change": 0
+    "sleeper_id": "6806",
+    "fp_id": 19245,
+    "tff_rank": 30,
+    "agg_rank": 35.0,
+    "rank_change": -1
   },
   {
-    "rank": 43,
+    "rank": 41,
+    "name": "Kaelon Black",
+    "team": "SF",
+    "position": "RB",
+    "position_rank": "RB41",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13414.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13414",
+    "fp_id": 28401,
+    "tff_rank": 71,
+    "agg_rank": 56.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 42,
     "name": "Kendre Miller",
     "team": "NO",
     "position": "RB",
-    "position_rank": "RB43",
+    "position_rank": "RB42",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9757.jpg",
     "injury_status": "",
@@ -1591,8 +1700,40 @@
     "sleeper_id": "9757",
     "fp_id": 24360,
     "tff_rank": null,
-    "agg_rank": 43.0,
-    "rank_change": 2
+    "agg_rank": 42.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 43,
+    "name": "Emmett Johnson",
+    "team": "KC",
+    "position": "RB",
+    "position_rank": "RB43",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13337.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13337",
+    "fp_id": 28107,
+    "tff_rank": 61,
+    "agg_rank": 52.0,
+    "rank_change": -1
   },
   {
     "rank": 44,
@@ -1624,7 +1765,7 @@
     "fp_id": 16423,
     "tff_rank": 63,
     "agg_rank": 53.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 45,
@@ -1656,7 +1797,7 @@
     "fp_id": 22813,
     "tff_rank": null,
     "agg_rank": 45.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 46,
@@ -1688,16 +1829,16 @@
     "fp_id": 23079,
     "tff_rank": 83,
     "agg_rank": 64.5,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 47,
-    "name": "Kimani Vidal",
-    "team": "LAC",
+    "name": "Austin Ekeler",
+    "team": "WAS",
     "position": "RB",
     "position_rank": "RB47",
     "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11647.jpg",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4663.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -1716,11 +1857,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "11647",
-    "fp_id": 26355,
-    "tff_rank": 60,
-    "agg_rank": 53.5,
-    "rank_change": -1
+    "sleeper_id": "4663",
+    "fp_id": 16483,
+    "tff_rank": null,
+    "agg_rank": 47.0,
+    "rank_change": 2
   },
   {
     "rank": 48,
@@ -1756,12 +1897,12 @@
   },
   {
     "rank": 49,
-    "name": "Austin Ekeler",
-    "team": "WAS",
+    "name": "Kimani Vidal",
+    "team": "LAC",
     "position": "RB",
     "position_rank": "RB49",
     "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4663.jpg",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11647.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -1779,12 +1920,33 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
-    "sleeper_id": "4663",
-    "fp_id": 16483,
-    "tff_rank": null,
-    "agg_rank": 49.0,
-    "rank_change": 0
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Could the Panthers make a trade deadline move? 5 potential targets",
+        "description": "Let's dive into which players could make sense for a trade for the NFC South-leading team with limited cap space.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50379105/carolina-panthers-trade-deadline-five-potential-options",
+        "timestamp": "2026-11-05T11:00:04Z",
+        "player_names": [
+          "Jackson Powers-Johnson",
+          "Will McDonald IV",
+          "Kimani Vidal",
+          "Robert Hunt",
+          "Ja'Tavion Sanders"
+        ],
+        "player_name": "Jackson Powers-Johnson",
+        "teams": [
+          "Carolina Panthers"
+        ],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "11647",
+    "fp_id": 26355,
+    "tff_rank": 60,
+    "agg_rank": 54.5,
+    "rank_change": -2
   },
   {
     "rank": 50,
@@ -1820,42 +1982,10 @@
   },
   {
     "rank": 51,
-    "name": "TreVeyon Henderson",
-    "team": "NE",
-    "position": "RB",
-    "position_rank": "RB51",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12529.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12529",
-    "fp_id": 23065,
-    "tff_rank": 24,
-    "agg_rank": 37.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 52,
     "name": "Corey Kiner",
     "team": "NE",
     "position": "RB",
-    "position_rank": "RB52",
+    "position_rank": "RB51",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12491.jpg",
     "injury_status": "",
@@ -1879,17 +2009,17 @@
     "sleeper_id": "12491",
     "fp_id": 22997,
     "tff_rank": null,
-    "agg_rank": 52.0,
-    "rank_change": 2
+    "agg_rank": 51.0,
+    "rank_change": 1
   },
   {
-    "rank": 53,
-    "name": "Kyle Monangai",
-    "team": "CHI",
+    "rank": 52,
+    "name": "TreVeyon Henderson",
+    "team": "NE",
     "position": "RB",
-    "position_rank": "RB53",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12534.jpg",
+    "position_rank": "RB52",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12529.jpg",
     "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
@@ -1908,18 +2038,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "12534",
-    "fp_id": 27131,
-    "tff_rank": 37,
-    "agg_rank": 45.0,
+    "sleeper_id": "12529",
+    "fp_id": 23065,
+    "tff_rank": 24,
+    "agg_rank": 38.0,
     "rank_change": -1
   },
   {
-    "rank": 54,
+    "rank": 53,
     "name": "MarShawn Lloyd",
     "team": "GB",
     "position": "RB",
-    "position_rank": "RB54",
+    "position_rank": "RB53",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11581.jpg",
     "injury_status": "",
@@ -1943,15 +2073,15 @@
     "sleeper_id": "11581",
     "fp_id": 23118,
     "tff_rank": 34,
-    "agg_rank": 44.0,
+    "agg_rank": 43.5,
     "rank_change": 1
   },
   {
-    "rank": 55,
+    "rank": 54,
     "name": "Roschon Johnson",
     "team": "CHI",
     "position": "RB",
-    "position_rank": "RB55",
+    "position_rank": "RB54",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10235.jpg",
     "injury_status": "",
@@ -1975,143 +2105,15 @@
     "sleeper_id": "10235",
     "fp_id": 25322,
     "tff_rank": null,
-    "agg_rank": 55.0,
+    "agg_rank": 54.0,
     "rank_change": 1
   },
   {
-    "rank": 56,
-    "name": "Ty Johnson",
-    "team": "BUF",
-    "position": "RB",
-    "position_rank": "RB56",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6039.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6039",
-    "fp_id": 18406,
-    "tff_rank": 65,
-    "agg_rank": 60.5,
-    "rank_change": 1
-  },
-  {
-    "rank": 57,
-    "name": "Sione Vaki",
-    "team": "DET",
-    "position": "RB",
-    "position_rank": "RB57",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11729.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11729",
-    "fp_id": 26309,
-    "tff_rank": null,
-    "agg_rank": 57.0,
-    "rank_change": 7
-  },
-  {
-    "rank": 58,
-    "name": "Brian Robinson Jr.",
-    "team": "ATL",
-    "position": "RB",
-    "position_rank": "RB58",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8154.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "8154",
-    "fp_id": 20094,
-    "tff_rank": 53,
-    "agg_rank": 55.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 59,
-    "name": "George Holani",
-    "team": "SEA",
-    "position": "RB",
-    "position_rank": "RB59",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12048.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12048",
-    "fp_id": 22915,
-    "tff_rank": 74,
-    "agg_rank": 66.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 60,
+    "rank": 55,
     "name": "Tyler Goodson",
     "team": "DAL",
     "position": "RB",
-    "position_rank": "RB60",
+    "position_rank": "RB55",
     "bye": "14",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8207.jpg",
     "injury_status": "",
@@ -2135,18 +2137,18 @@
     "sleeper_id": "8207",
     "fp_id": 22976,
     "tff_rank": null,
-    "agg_rank": 60.0,
-    "rank_change": 3
+    "agg_rank": 55.0,
+    "rank_change": 5
   },
   {
-    "rank": 61,
-    "name": "David Montgomery",
-    "team": "HOU",
+    "rank": 56,
+    "name": "Kyle Monangai",
+    "team": "CHI",
     "position": "RB",
-    "position_rank": "RB61",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5892.jpg",
-    "injury_status": "Out",
+    "position_rank": "RB56",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12534.jpg",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -2164,18 +2166,114 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "5892",
-    "fp_id": 18239,
-    "tff_rank": 25,
-    "agg_rank": 43.0,
-    "rank_change": -8
+    "sleeper_id": "12534",
+    "fp_id": 27131,
+    "tff_rank": 37,
+    "agg_rank": 46.5,
+    "rank_change": -3
   },
   {
-    "rank": 62,
+    "rank": 57,
+    "name": "Ty Johnson",
+    "team": "BUF",
+    "position": "RB",
+    "position_rank": "RB57",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6039.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6039",
+    "fp_id": 18406,
+    "tff_rank": 65,
+    "agg_rank": 61.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 58,
+    "name": "Sione Vaki",
+    "team": "DET",
+    "position": "RB",
+    "position_rank": "RB58",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11729.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11729",
+    "fp_id": 26309,
+    "tff_rank": null,
+    "agg_rank": 58.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 59,
+    "name": "Brian Robinson Jr.",
+    "team": "ATL",
+    "position": "RB",
+    "position_rank": "RB59",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8154.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "8154",
+    "fp_id": 20094,
+    "tff_rank": 53,
+    "agg_rank": 56.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 60,
     "name": "Kyle Juszczyk",
     "team": "SF",
     "position": "RB",
-    "position_rank": "RB62",
+    "position_rank": "RB60",
     "bye": "8",
     "headshot_url": "",
     "injury_status": "",
@@ -2199,79 +2297,15 @@
     "sleeper_id": null,
     "fp_id": 11798,
     "tff_rank": null,
-    "agg_rank": 62.0,
-    "rank_change": -2
+    "agg_rank": 60.0,
+    "rank_change": 2
   },
   {
-    "rank": 63,
-    "name": "Emanuel Wilson",
-    "team": "SEA",
-    "position": "RB",
-    "position_rank": "RB63",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11435.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11435",
-    "fp_id": 25885,
-    "tff_rank": 76,
-    "agg_rank": 69.5,
-    "rank_change": -2
-  },
-  {
-    "rank": 64,
-    "name": "Bam Knight",
-    "team": "ARI",
-    "position": "RB",
-    "position_rank": "RB64",
-    "bye": "14",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 24901,
-    "tff_rank": null,
-    "agg_rank": 64.0,
-    "rank_change": -2
-  },
-  {
-    "rank": 65,
+    "rank": 61,
     "name": "Jaylen Wright",
     "team": "MIA",
     "position": "RB",
-    "position_rank": "RB65",
+    "position_rank": "RB61",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11643.jpg",
     "injury_status": "Questionable",
@@ -2295,15 +2329,47 @@
     "sleeper_id": "11643",
     "fp_id": 25987,
     "tff_rank": 79,
-    "agg_rank": 72.0,
-    "rank_change": 1
+    "agg_rank": 70.0,
+    "rank_change": 4
   },
   {
-    "rank": 66,
+    "rank": 62,
+    "name": "George Holani",
+    "team": "SEA",
+    "position": "RB",
+    "position_rank": "RB62",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12048.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12048",
+    "fp_id": 22915,
+    "tff_rank": 74,
+    "agg_rank": 68.0,
+    "rank_change": -3
+  },
+  {
+    "rank": 63,
     "name": "Sean Tucker",
     "team": "TB",
     "position": "RB",
-    "position_rank": "RB66",
+    "position_rank": "RB63",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9506.jpg",
     "injury_status": "",
@@ -2327,15 +2393,15 @@
     "sleeper_id": "9506",
     "fp_id": 23679,
     "tff_rank": 85,
-    "agg_rank": 75.5,
-    "rank_change": -1
+    "agg_rank": 74.0,
+    "rank_change": 3
   },
   {
-    "rank": 67,
+    "rank": 64,
     "name": "Ray Davis",
     "team": "BUF",
     "position": "RB",
-    "position_rank": "RB67",
+    "position_rank": "RB64",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11575.jpg",
     "injury_status": "",
@@ -2359,8 +2425,104 @@
     "sleeper_id": "11575",
     "fp_id": 26191,
     "tff_rank": 72,
-    "agg_rank": 69.5,
-    "rank_change": 0
+    "agg_rank": 68.0,
+    "rank_change": 3
+  },
+  {
+    "rank": 65,
+    "name": "David Montgomery",
+    "team": "HOU",
+    "position": "RB",
+    "position_rank": "RB65",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5892.jpg",
+    "injury_status": "Out",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5892",
+    "fp_id": 18239,
+    "tff_rank": 25,
+    "agg_rank": 45.0,
+    "rank_change": -4
+  },
+  {
+    "rank": 66,
+    "name": "Emanuel Wilson",
+    "team": "SEA",
+    "position": "RB",
+    "position_rank": "RB66",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11435.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11435",
+    "fp_id": 25885,
+    "tff_rank": 76,
+    "agg_rank": 71.0,
+    "rank_change": -3
+  },
+  {
+    "rank": 67,
+    "name": "Bam Knight",
+    "team": "ARI",
+    "position": "RB",
+    "position_rank": "RB67",
+    "bye": "14",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 24901,
+    "tff_rank": null,
+    "agg_rank": 67.0,
+    "rank_change": -3
   },
   {
     "rank": 68,
@@ -2424,7 +2586,7 @@
     "fp_id": 25396,
     "tff_rank": null,
     "agg_rank": 69.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 70,
@@ -2456,7 +2618,7 @@
     "fp_id": 25393,
     "tff_rank": 87,
     "agg_rank": 78.5,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 71,
@@ -2488,7 +2650,7 @@
     "fp_id": 24344,
     "tff_rank": 94,
     "agg_rank": 82.5,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 72,
@@ -2524,74 +2686,10 @@
   },
   {
     "rank": 73,
-    "name": "Jaleel McLaughlin",
-    "team": "CLE",
-    "position": "RB",
-    "position_rank": "RB73",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11439.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11439",
-    "fp_id": 25876,
-    "tff_rank": null,
-    "agg_rank": 73.0,
-    "rank_change": 4
-  },
-  {
-    "rank": 74,
-    "name": "Dylan Laube",
-    "team": "LV",
-    "position": "RB",
-    "position_rank": "RB74",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11574.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11574",
-    "fp_id": 26194,
-    "tff_rank": null,
-    "agg_rank": 74.0,
-    "rank_change": 6
-  },
-  {
-    "rank": 75,
     "name": "LeQuint Allen Jr.",
     "team": "JAX",
     "position": "RB",
-    "position_rank": "RB75",
+    "position_rank": "RB73",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12544.jpg",
     "injury_status": "",
@@ -2615,8 +2713,72 @@
     "sleeper_id": "12544",
     "fp_id": 27285,
     "tff_rank": 67,
-    "agg_rank": 71.0,
-    "rank_change": 4
+    "agg_rank": 70.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 74,
+    "name": "DJ Giddens",
+    "team": "IND",
+    "position": "RB",
+    "position_rank": "RB74",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12471.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12471",
+    "fp_id": 27097,
+    "tff_rank": 86,
+    "agg_rank": 80.0,
+    "rank_change": 3
+  },
+  {
+    "rank": 75,
+    "name": "Jaleel McLaughlin",
+    "team": "CLE",
+    "position": "RB",
+    "position_rank": "RB75",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11439.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11439",
+    "fp_id": 25876,
+    "tff_rank": null,
+    "agg_rank": 75.0,
+    "rank_change": -2
   },
   {
     "rank": 76,
@@ -2648,46 +2810,14 @@
     "fp_id": 24173,
     "tff_rank": null,
     "agg_rank": 76.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 77,
-    "name": "DJ Giddens",
-    "team": "IND",
-    "position": "RB",
-    "position_rank": "RB77",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12471.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12471",
-    "fp_id": 27097,
-    "tff_rank": 86,
-    "agg_rank": 81.5,
-    "rank_change": -6
-  },
-  {
-    "rank": 78,
     "name": "Hunter Luepke",
     "team": "DAL",
     "position": "RB",
-    "position_rank": "RB78",
+    "position_rank": "RB77",
     "bye": "14",
     "headshot_url": "",
     "injury_status": "",
@@ -2711,8 +2841,40 @@
     "sleeper_id": null,
     "fp_id": 25941,
     "tff_rank": null,
+    "agg_rank": 77.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 78,
+    "name": "Dylan Laube",
+    "team": "LV",
+    "position": "RB",
+    "position_rank": "RB78",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11574.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11574",
+    "fp_id": 26194,
+    "tff_rank": null,
     "agg_rank": 78.0,
-    "rank_change": -3
+    "rank_change": -4
   },
   {
     "rank": 79,
@@ -2744,7 +2906,7 @@
     "fp_id": 23451,
     "tff_rank": null,
     "agg_rank": 79.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 80,
@@ -2776,46 +2938,14 @@
     "fp_id": 13924,
     "tff_rank": null,
     "agg_rank": 80.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 81,
-    "name": "Dare Ogunbowale",
-    "team": "HOU",
-    "position": "RB",
-    "position_rank": "RB81",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4718.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4718",
-    "fp_id": 16879,
-    "tff_rank": null,
-    "agg_rank": 81.0,
-    "rank_change": -5
-  },
-  {
-    "rank": 82,
     "name": "DeeJay Dallas",
     "team": "MIN",
     "position": "RB",
-    "position_rank": "RB82",
+    "position_rank": "RB81",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6931.jpg",
     "injury_status": "",
@@ -2839,17 +2969,17 @@
     "sleeper_id": "6931",
     "fp_id": 19521,
     "tff_rank": null,
-    "agg_rank": 82.0,
-    "rank_change": 5
+    "agg_rank": 81.0,
+    "rank_change": 1
   },
   {
-    "rank": 83,
-    "name": "AJ Dillon",
-    "team": "CAR",
+    "rank": 82,
+    "name": "Dare Ogunbowale",
+    "team": "HOU",
     "position": "RB",
-    "position_rank": "RB83",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6828.jpg",
+    "position_rank": "RB82",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4718.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -2868,18 +2998,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "6828",
-    "fp_id": 19358,
-    "tff_rank": 91,
-    "agg_rank": 87.0,
-    "rank_change": 0
+    "sleeper_id": "4718",
+    "fp_id": 16879,
+    "tff_rank": null,
+    "agg_rank": 82.0,
+    "rank_change": -1
   },
   {
-    "rank": 84,
+    "rank": 83,
     "name": "Evan Hull",
     "team": "ARI",
     "position": "RB",
-    "position_rank": "RB84",
+    "position_rank": "RB83",
     "bye": "14",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9220.jpg",
     "injury_status": "",
@@ -2903,15 +3033,15 @@
     "sleeper_id": "9220",
     "fp_id": 25325,
     "tff_rank": null,
-    "agg_rank": 84.0,
-    "rank_change": null
+    "agg_rank": 83.0,
+    "rank_change": 1
   },
   {
-    "rank": 85,
+    "rank": 84,
     "name": "Tahj Brooks",
     "team": "CIN",
     "position": "RB",
-    "position_rank": "RB85",
+    "position_rank": "RB84",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12543.jpg",
     "injury_status": "",
@@ -2935,8 +3065,40 @@
     "sleeper_id": "12543",
     "fp_id": 26212,
     "tff_rank": 93,
-    "agg_rank": 89.0,
-    "rank_change": -3
+    "agg_rank": 88.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 85,
+    "name": "Travis Etienne Jr.",
+    "team": "NO",
+    "position": "RB",
+    "position_rank": "RB85",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7543.jpg",
+    "injury_status": "IR",
+    "player_status": "Inactive",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "7543",
+    "fp_id": 19231,
+    "tff_rank": 18,
+    "agg_rank": 51.5,
+    "rank_change": 3
   },
   {
     "rank": 86,
@@ -2968,78 +3130,14 @@
     "fp_id": 27700,
     "tff_rank": null,
     "agg_rank": 86.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 87,
-    "name": "Demond Claiborne",
-    "team": "MIN",
-    "position": "RB",
-    "position_rank": "RB87",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13347.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13347",
-    "fp_id": 28084,
-    "tff_rank": 84,
-    "agg_rank": 85.5,
-    "rank_change": -2
-  },
-  {
-    "rank": 88,
-    "name": "Travis Etienne Jr.",
-    "team": "NO",
-    "position": "RB",
-    "position_rank": "RB88",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7543.jpg",
-    "injury_status": "IR",
-    "player_status": "Inactive",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "7543",
-    "fp_id": 19231,
-    "tff_rank": 18,
-    "agg_rank": 53.0,
-    "rank_change": null
-  },
-  {
-    "rank": 89,
     "name": "Patrick Ricard",
     "team": "NYG",
     "position": "RB",
-    "position_rank": "RB89",
+    "position_rank": "RB87",
     "bye": "8",
     "headshot_url": "",
     "injury_status": "",
@@ -3063,18 +3161,18 @@
     "sleeper_id": null,
     "fp_id": 17145,
     "tff_rank": null,
-    "agg_rank": 89.0,
-    "rank_change": null
+    "agg_rank": 87.0,
+    "rank_change": 2
   },
   {
-    "rank": 90,
-    "name": "Kaytron Allen",
-    "team": "MIA",
+    "rank": 88,
+    "name": "AJ Dillon",
+    "team": "CAR",
     "position": "RB",
-    "position_rank": "RB90",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13405.jpg",
-    "injury_status": "Questionable",
+    "position_rank": "RB88",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6828.jpg",
+    "injury_status": "",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -3092,50 +3190,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "13405",
-    "fp_id": 24362,
-    "tff_rank": 78,
-    "agg_rank": 84.0,
-    "rank_change": -4
+    "sleeper_id": "6828",
+    "fp_id": 19358,
+    "tff_rank": 91,
+    "agg_rank": 89.5,
+    "rank_change": -5
   },
   {
-    "rank": 91,
-    "name": "Michael Burton",
-    "team": "CLE",
-    "position": "RB",
-    "position_rank": "RB91",
-    "bye": "11",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 14191,
-    "tff_rank": null,
-    "agg_rank": 91.0,
-    "rank_change": null
-  },
-  {
-    "rank": 92,
+    "rank": 89,
     "name": "Andrew Beck",
     "team": "NYJ",
     "position": "RB",
-    "position_rank": "RB92",
+    "position_rank": "RB89",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6323.jpg",
     "injury_status": "",
@@ -3159,15 +3225,47 @@
     "sleeper_id": "6323",
     "fp_id": 18748,
     "tff_rank": null,
-    "agg_rank": 92.0,
-    "rank_change": null
+    "agg_rank": 89.0,
+    "rank_change": 3
   },
   {
-    "rank": 93,
+    "rank": 90,
+    "name": "Michael Burton",
+    "team": "CLE",
+    "position": "RB",
+    "position_rank": "RB90",
+    "bye": "11",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 14191,
+    "tff_rank": null,
+    "agg_rank": 90.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 91,
     "name": "Rasheen Ali",
     "team": "BAL",
     "position": "RB",
-    "position_rank": "RB93",
+    "position_rank": "RB91",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11570.jpg",
     "injury_status": "",
@@ -3191,19 +3289,19 @@
     "sleeper_id": "11570",
     "fp_id": 25983,
     "tff_rank": null,
-    "agg_rank": 93.0,
-    "rank_change": null
+    "agg_rank": 91.0,
+    "rank_change": 2
   },
   {
-    "rank": 94,
-    "name": "Adam Randall",
-    "team": "BAL",
+    "rank": 92,
+    "name": "Demond Claiborne",
+    "team": "MIN",
     "position": "RB",
-    "position_rank": "RB94",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13302.jpg",
-    "injury_status": "IR",
-    "player_status": "Inactive",
+    "position_rank": "RB92",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13347.jpg",
+    "injury_status": "",
+    "player_status": "Active",
     "ecr": {
       "avg": null,
       "best": null,
@@ -3220,18 +3318,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "13302",
-    "fp_id": 24367,
-    "tff_rank": 92,
-    "agg_rank": 93.0,
+    "sleeper_id": "13347",
+    "fp_id": 28084,
+    "tff_rank": 84,
+    "agg_rank": 88.0,
     "rank_change": -5
   },
   {
-    "rank": 95,
+    "rank": 93,
     "name": "Cody Schrader",
     "team": "DEN",
     "position": "RB",
-    "position_rank": "RB95",
+    "position_rank": "RB93",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11644.jpg",
     "injury_status": "",
@@ -3255,17 +3353,17 @@
     "sleeper_id": "11644",
     "fp_id": 26216,
     "tff_rank": null,
-    "agg_rank": 95.0,
-    "rank_change": null
+    "agg_rank": 93.0,
+    "rank_change": 2
   },
   {
-    "rank": 96,
-    "name": "Kaleb Johnson",
-    "team": "GB",
+    "rank": 94,
+    "name": "Emari Demercado",
+    "team": "HOU",
     "position": "RB",
-    "position_rank": "RB96",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12504.jpg",
+    "position_rank": "RB94",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11199.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -3284,18 +3382,50 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "12504",
-    "fp_id": 27165,
-    "tff_rank": 75,
-    "agg_rank": 85.5,
-    "rank_change": -8
+    "sleeper_id": "11199",
+    "fp_id": 25654,
+    "tff_rank": 81,
+    "agg_rank": 87.5,
+    "rank_change": 8
   },
   {
-    "rank": 97,
+    "rank": 95,
+    "name": "Kaytron Allen",
+    "team": "MIA",
+    "position": "RB",
+    "position_rank": "RB95",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13405.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13405",
+    "fp_id": 24362,
+    "tff_rank": 78,
+    "agg_rank": 86.5,
+    "rank_change": -5
+  },
+  {
+    "rank": 96,
     "name": "Jordan James",
     "team": "SF",
     "position": "RB",
-    "position_rank": "RB97",
+    "position_rank": "RB96",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12467.jpg",
     "injury_status": "",
@@ -3319,15 +3449,15 @@
     "sleeper_id": "12467",
     "fp_id": 27310,
     "tff_rank": 59,
-    "agg_rank": 78.0,
-    "rank_change": -7
+    "agg_rank": 77.5,
+    "rank_change": 1
   },
   {
-    "rank": 98,
+    "rank": 97,
     "name": "James Conner",
     "team": "ARI",
     "position": "RB",
-    "position_rank": "RB98",
+    "position_rank": "RB97",
     "bye": "14",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4137.jpg",
     "injury_status": "IR",
@@ -3351,15 +3481,15 @@
     "sleeper_id": "4137",
     "fp_id": 16447,
     "tff_rank": 68,
-    "agg_rank": 83.0,
-    "rank_change": null
+    "agg_rank": 82.5,
+    "rank_change": 1
   },
   {
-    "rank": 99,
+    "rank": 98,
     "name": "Max Bredeson",
     "team": "MIN",
     "position": "RB",
-    "position_rank": "RB99",
+    "position_rank": "RB98",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13516.jpg",
     "injury_status": "",
@@ -3383,17 +3513,17 @@
     "sleeper_id": "13516",
     "fp_id": 28434,
     "tff_rank": null,
-    "agg_rank": 99.0,
-    "rank_change": null
+    "agg_rank": 98.0,
+    "rank_change": 1
   },
   {
-    "rank": 100,
-    "name": "Brashard Smith",
-    "team": "KC",
+    "rank": 99,
+    "name": "Adam Randall",
+    "team": "BAL",
     "position": "RB",
-    "position_rank": "RB100",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12455.jpg",
+    "position_rank": "RB99",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13302.jpg",
     "injury_status": "IR",
     "player_status": "Inactive",
     "ecr": {
@@ -3412,11 +3542,43 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "12455",
-    "fp_id": 27259,
-    "tff_rank": 77,
-    "agg_rank": 88.5,
-    "rank_change": null
+    "sleeper_id": "13302",
+    "fp_id": 24367,
+    "tff_rank": 92,
+    "agg_rank": 95.5,
+    "rank_change": -5
+  },
+  {
+    "rank": 100,
+    "name": "Kaleb Johnson",
+    "team": "GB",
+    "position": "RB",
+    "position_rank": "RB100",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12504.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12504",
+    "fp_id": 27165,
+    "tff_rank": 75,
+    "agg_rank": 87.5,
+    "rank_change": -4
   },
   {
     "rank": 101,
@@ -3448,16 +3610,80 @@
     "fp_id": 25387,
     "tff_rank": null,
     "agg_rank": 101.0,
-    "rank_change": null
+    "rank_change": 0
   },
   {
     "rank": 102,
-    "name": "Emari Demercado",
-    "team": "HOU",
+    "name": "Brashard Smith",
+    "team": "KC",
     "position": "RB",
     "position_rank": "RB102",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11199.jpg",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12455.jpg",
+    "injury_status": "IR",
+    "player_status": "Inactive",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12455",
+    "fp_id": 27259,
+    "tff_rank": 77,
+    "agg_rank": 89.5,
+    "rank_change": -2
+  },
+  {
+    "rank": 103,
+    "name": "Zavier Scott",
+    "team": "CHI",
+    "position": "RB",
+    "position_rank": "RB103",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11299.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11299",
+    "fp_id": 25748,
+    "tff_rank": null,
+    "agg_rank": 103.0,
+    "rank_change": 4
+  },
+  {
+    "rank": 104,
+    "name": "Jaydn Ott",
+    "team": "KC",
+    "position": "RB",
+    "position_rank": "RB104",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13419.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -3476,75 +3702,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "11199",
-    "fp_id": 25654,
-    "tff_rank": 81,
-    "agg_rank": 91.5,
-    "rank_change": null
-  },
-  {
-    "rank": 103,
-    "name": "Jonathon Brooks",
-    "team": "CAR",
-    "position": "RB",
-    "position_rank": "RB103",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11583.jpg",
-    "injury_status": "IR",
-    "player_status": "Inactive",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11583",
-    "fp_id": 26148,
-    "tff_rank": 35,
-    "agg_rank": 69.0,
-    "rank_change": null
-  },
-  {
-    "rank": 104,
-    "name": "Tank Bigsby",
-    "team": "PHI",
-    "position": "RB",
-    "position_rank": "RB104",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9225.jpg",
-    "injury_status": "IR",
-    "player_status": "Inactive",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "9225",
-    "fp_id": 22908,
-    "tff_rank": 51,
-    "agg_rank": 77.5,
-    "rank_change": null
+    "sleeper_id": "13419",
+    "fp_id": 25394,
+    "tff_rank": null,
+    "agg_rank": 104.0,
+    "rank_change": 2
   },
   {
     "rank": 105,
@@ -3576,18 +3738,18 @@
     "fp_id": 25693,
     "tff_rank": 90,
     "agg_rank": 97.5,
-    "rank_change": null
+    "rank_change": 0
   },
   {
     "rank": 106,
-    "name": "Jaydn Ott",
-    "team": "KC",
+    "name": "Jonathon Brooks",
+    "team": "CAR",
     "position": "RB",
     "position_rank": "RB106",
     "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13419.jpg",
-    "injury_status": "",
-    "player_status": "Active",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11583.jpg",
+    "injury_status": "IR",
+    "player_status": "Inactive",
     "ecr": {
       "avg": null,
       "best": null,
@@ -3604,22 +3766,22 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "13419",
-    "fp_id": 25394,
-    "tff_rank": null,
-    "agg_rank": 106.0,
-    "rank_change": null
+    "sleeper_id": "11583",
+    "fp_id": 26148,
+    "tff_rank": 35,
+    "agg_rank": 70.5,
+    "rank_change": -3
   },
   {
     "rank": 107,
-    "name": "Zavier Scott",
-    "team": "CHI",
+    "name": "Tank Bigsby",
+    "team": "PHI",
     "position": "RB",
     "position_rank": "RB107",
     "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11299.jpg",
-    "injury_status": "",
-    "player_status": "Active",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9225.jpg",
+    "injury_status": "IR",
+    "player_status": "Inactive",
     "ecr": {
       "avg": null,
       "best": null,
@@ -3636,11 +3798,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "11299",
-    "fp_id": 25748,
-    "tff_rank": null,
-    "agg_rank": 107.0,
-    "rank_change": null
+    "sleeper_id": "9225",
+    "fp_id": 22908,
+    "tff_rank": 51,
+    "agg_rank": 79.0,
+    "rank_change": -3
   },
   {
     "rank": 108,
@@ -3672,7 +3834,7 @@
     "fp_id": 23249,
     "tff_rank": null,
     "agg_rank": 108.0,
-    "rank_change": null
+    "rank_change": 0
   },
   {
     "rank": 109,
@@ -3704,6 +3866,6 @@
     "fp_id": 27498,
     "tff_rank": null,
     "agg_rank": 109.0,
-    "rank_change": null
+    "rank_change": 0
   }
 ]
