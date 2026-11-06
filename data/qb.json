@@ -24,7 +24,25 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Joe Burrow makes time for art in Madrid ahead of Bengals-Falcons",
+        "description": "While in Spain, the Bengals quarterback is finding time for one of his off-field interests: art.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50400935/joe-burrow-madrid-art-museum-bengals-falcons",
+        "timestamp": "2026-11-06T19:05:40Z",
+        "player_names": [
+          "Joe Burrow"
+        ],
+        "player_name": "Joe Burrow",
+        "teams": [
+          "Cincinnati Bengals",
+          "Real Madrid"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "6770",
     "fp_id": 19196,
     "tff_rank": 4,
@@ -88,7 +106,36 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
+        "description": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
+        "story": "",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
+        "timestamp": "2026-11-06T17:50:08Z",
+        "player_names": [
+          "Jahmyr Gibbs",
+          "Bryce Young",
+          "Blake Corum",
+          "Malachi Fields",
+          "Brock Purdy",
+          "Alvin Kamara",
+          "Christian Watson",
+          "Joe Milton",
+          "Tyler Shough",
+          "Demarcus Robinson"
+        ],
+        "player_name": "Jahmyr Gibbs",
+        "teams": [
+          "Green Bay Packers",
+          "Denver Broncos",
+          "Atlanta Falcons",
+          "Las Vegas Raiders"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "8183",
     "fp_id": 19797,
     "tff_rank": 13,
@@ -97,10 +144,42 @@
   },
   {
     "rank": 4,
+    "name": "Dak Prescott",
+    "team": "DAL",
+    "position": "QB",
+    "position_rank": "QB4",
+    "bye": "14",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3294.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "3294",
+    "fp_id": 15600,
+    "tff_rank": 10,
+    "agg_rank": 7.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 5,
     "name": "Drake Maye",
     "team": "NE",
     "position": "QB",
-    "position_rank": "QB4",
+    "position_rank": "QB5",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11564.jpg",
     "injury_status": "",
@@ -124,58 +203,8 @@
     "sleeper_id": "11564",
     "fp_id": 23046,
     "tff_rank": 6,
-    "agg_rank": 5.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 5,
-    "name": "Dak Prescott",
-    "team": "DAL",
-    "position": "QB",
-    "position_rank": "QB5",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3294.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Forget about Cowboys' D, what happened to the GOTI offense?",
-        "description": "This summer, they talked about having the Greatest Offense There Is, but it's been worse than 2025.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50393120/dallas-cowboys-goti-offense-dak-prescott",
-        "timestamp": "2026-11-06T16:18:26Z",
-        "player_names": [
-          "Dak Prescott",
-          "George Pickens"
-        ],
-        "player_name": "Dak Prescott",
-        "teams": [
-          "Dallas Cowboys"
-        ],
-        "type": "Story"
-      }
-    ],
-    "sleeper_id": "3294",
-    "fp_id": 15600,
-    "tff_rank": 10,
-    "agg_rank": 7.5,
-    "rank_change": 0
+    "agg_rank": 5.5,
+    "rank_change": -1
   },
   {
     "rank": 6,
@@ -316,66 +345,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Jaguars dominant again in blowout of Ravens, believe they can be 'way better'",
-        "description": "The Jaguars racked up their fourth win by 23 or more points this season in Thursday night's 33-10 rout of the Ravens and believe there's room to be even better.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50397312/jaguars-stay-hot-rout-ravens-feel-way-better",
-        "timestamp": "2026-11-06T06:55:56Z",
-        "player_names": [
-          "Trevor Lawrence",
-          "Parker Washington"
-        ],
-        "player_name": "Trevor Lawrence",
-        "teams": [
-          "Jacksonville Jaguars"
-        ],
-        "type": "HeadlineNews"
-      },
-      {
-        "source": "espn",
-        "headline": "Jaguars dominate Ravens in the rain on TNF",
-        "description": "Jaguars dominate Ravens in the rain on TNF",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50396514/jaguars-dominate-ravens-rain-tnf",
-        "timestamp": "2026-11-06T04:23:38Z",
-        "player_names": [
-          "Chris Rodriguez Jr",
-          "Trevor Lawrence",
-          "Justice Hill",
-          "Montaric Brown",
-          "Bhayshul Tuten"
-        ],
-        "player_name": "Chris Rodriguez Jr",
-        "teams": [
-          "Jacksonville Jaguars",
-          "Baltimore Ravens"
-        ],
-        "type": "Media"
-      },
-      {
-        "source": "espn",
-        "headline": "Trevor Lawrence, Jags pull away from Joe Fagnano, Ravens on TNF",
-        "description": "The Jaguars never trailed in a comfortable win over the short-handed Ravens in Baltimore.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50395188/jaguars-ravens-thursday-night-football-joe-fagnano",
-        "timestamp": "2026-11-06T05:01:47Z",
-        "player_names": [
-          "Joe Fagnano",
-          "Trevor Lawrence",
-          "Lamar Jackson",
-          "Parker Washington"
-        ],
-        "player_name": "Joe Fagnano",
-        "teams": [
-          "Jacksonville Jaguars",
-          "Baltimore Ravens"
-        ],
-        "type": "Story"
-      }
-    ],
+    "news": [],
     "sleeper_id": "7523",
     "fp_id": 19780,
     "tff_rank": 9,
@@ -412,7 +382,7 @@
     "fp_id": 22902,
     "tff_rank": 3,
     "agg_rank": 6.5,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -444,7 +414,7 @@
     "fp_id": 9451,
     "tff_rank": 20,
     "agg_rank": 15.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 12,
@@ -504,6 +474,34 @@
       "sleeper": null
     },
     "news": [
+      {
+        "source": "espn",
+        "headline": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
+        "description": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
+        "story": "",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
+        "timestamp": "2026-11-06T17:50:08Z",
+        "player_names": [
+          "Jahmyr Gibbs",
+          "Bryce Young",
+          "Blake Corum",
+          "Malachi Fields",
+          "Brock Purdy",
+          "Alvin Kamara",
+          "Christian Watson",
+          "Joe Milton",
+          "Tyler Shough",
+          "Demarcus Robinson"
+        ],
+        "player_name": "Jahmyr Gibbs",
+        "teams": [
+          "Green Bay Packers",
+          "Denver Broncos",
+          "Atlanta Falcons",
+          "Las Vegas Raiders"
+        ],
+        "type": "Story"
+      },
       {
         "source": "espn",
         "headline": "What to know for Week 9: Breaking down quarterbacks to pick up or leave behind",
@@ -793,7 +791,36 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Week 9 betting preview: Analysis, best bets, TD predictions for Sunday",
+        "description": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
+        "story": "",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
+        "timestamp": "2026-11-06T17:50:08Z",
+        "player_names": [
+          "Jahmyr Gibbs",
+          "Bryce Young",
+          "Blake Corum",
+          "Malachi Fields",
+          "Brock Purdy",
+          "Alvin Kamara",
+          "Christian Watson",
+          "Joe Milton",
+          "Tyler Shough",
+          "Demarcus Robinson"
+        ],
+        "player_name": "Jahmyr Gibbs",
+        "teams": [
+          "Green Bay Packers",
+          "Denver Broncos",
+          "Atlanta Falcons",
+          "Las Vegas Raiders"
+        ],
+        "type": "Story"
+      }
+    ],
     "sleeper_id": "9228",
     "fp_id": 22900,
     "tff_rank": 26,
@@ -840,7 +867,7 @@
     "position_rank": "QB21",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5854.jpg",
-    "injury_status": "Questionable",
+    "injury_status": "",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -882,7 +909,7 @@
     "fp_id": 18225,
     "tff_rank": null,
     "agg_rank": 21.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 22,
@@ -914,7 +941,7 @@
     "fp_id": 17237,
     "tff_rank": 19,
     "agg_rank": 20.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -946,7 +973,7 @@
     "fp_id": 15520,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": 4
+    "rank_change": 0
   },
   {
     "rank": 24,
@@ -978,7 +1005,7 @@
     "fp_id": 18232,
     "tff_rank": 25,
     "agg_rank": 24.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 25,
@@ -1030,7 +1057,7 @@
     "fp_id": 11687,
     "tff_rank": 29,
     "agg_rank": 27.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 26,
@@ -1062,7 +1089,7 @@
     "fp_id": 18635,
     "tff_rank": 12,
     "agg_rank": 19.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 27,
@@ -1092,6 +1119,39 @@
     "news": [
       {
         "source": "espn",
+        "headline": "3 ways Browns QB Shedeur Sanders can show growth vs. Saints",
+        "description": "The opportunity is a big one as the second-year quarterback's first start of the season comes at a critical time.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50399074/cleveland-browns-qb-shedeur-sanders-start-growth-saints",
+        "timestamp": "2026-11-06T19:07:34Z",
+        "player_names": [
+          "Shedeur Sanders"
+        ],
+        "player_name": "Shedeur Sanders",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
+        "headline": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
+        "description": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50400928/browns-start-shedeur-sanders-qb-vs-saints",
+        "timestamp": "2026-11-06T18:56:40Z",
+        "player_names": [
+          "Shedeur Sanders",
+          "Deshaun Watson"
+        ],
+        "player_name": "Shedeur Sanders",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "HeadlineNews"
+      },
+      {
+        "source": "espn",
         "headline": "Stephen A.: Shedeur Sanders' Week 9 start is a big opportunity",
         "description": "Stephen A.: Shedeur Sanders' Week 9 start is a big opportunity",
         "story": "",
@@ -1111,7 +1171,7 @@
     "fp_id": 25968,
     "tff_rank": 32,
     "agg_rank": 29.5,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 28,
@@ -1143,7 +1203,7 @@
     "fp_id": 25967,
     "tff_rank": null,
     "agg_rank": 28.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 29,
@@ -1175,7 +1235,7 @@
     "fp_id": 18562,
     "tff_rank": null,
     "agg_rank": 29.0,
-    "rank_change": -3
+    "rank_change": 0
   },
   {
     "rank": 30,
@@ -1209,7 +1269,7 @@
         "description": "The Ravens will acquire quarterback Jacoby Brissett and a 2027 fifth-round pick for a fourth-round pick in 2027 and seventh-round pick in 2028, sources told ESPN and NFL Network.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/50400123/ravens-complete-trade-cardinals-qb-jacoby-brissett",
-        "timestamp": "2026-11-06T17:03:21Z",
+        "timestamp": "2026-11-06T21:06:00Z",
         "player_names": [
           "Jacoby Brissett",
           "Lamar Jackson",
@@ -1222,33 +1282,13 @@
           "Arizona Cardinals"
         ],
         "type": "HeadlineNews"
-      },
-      {
-        "source": "espn",
-        "headline": "Trevor Lawrence, Jags pull away from Joe Fagnano, Ravens on TNF",
-        "description": "The Jaguars never trailed in a comfortable win over the short-handed Ravens in Baltimore.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50395188/jaguars-ravens-thursday-night-football-joe-fagnano",
-        "timestamp": "2026-11-06T05:01:47Z",
-        "player_names": [
-          "Joe Fagnano",
-          "Trevor Lawrence",
-          "Lamar Jackson",
-          "Parker Washington"
-        ],
-        "player_name": "Joe Fagnano",
-        "teams": [
-          "Jacksonville Jaguars",
-          "Baltimore Ravens"
-        ],
-        "type": "Story"
       }
     ],
     "sleeper_id": "13350",
     "fp_id": 28400,
     "tff_rank": null,
     "agg_rank": 30.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 31,
@@ -1275,12 +1315,30 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
+        "description": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50400928/browns-start-shedeur-sanders-qb-vs-saints",
+        "timestamp": "2026-11-06T18:56:40Z",
+        "player_names": [
+          "Shedeur Sanders",
+          "Deshaun Watson"
+        ],
+        "player_name": "Shedeur Sanders",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "4017",
     "fp_id": 16398,
     "tff_rank": 31,
     "agg_rank": 31.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 32,
@@ -1312,7 +1370,7 @@
     "fp_id": 18600,
     "tff_rank": 14,
     "agg_rank": 23.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 33,
@@ -1344,7 +1402,7 @@
     "fp_id": 28013,
     "tff_rank": 33,
     "agg_rank": 33.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 34,
@@ -1376,7 +1434,7 @@
     "fp_id": 13891,
     "tff_rank": null,
     "agg_rank": 34.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 35,
@@ -1408,7 +1466,7 @@
     "fp_id": 24740,
     "tff_rank": null,
     "agg_rank": 35.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 36,
@@ -1440,7 +1498,7 @@
     "fp_id": 24347,
     "tff_rank": null,
     "agg_rank": 36.0,
-    "rank_change": 4
+    "rank_change": 0
   },
   {
     "rank": 37,
@@ -1472,7 +1530,7 @@
     "fp_id": 25373,
     "tff_rank": null,
     "agg_rank": 37.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 38,
@@ -1504,7 +1562,7 @@
     "fp_id": 25321,
     "tff_rank": null,
     "agg_rank": 38.0,
-    "rank_change": 5
+    "rank_change": 0
   },
   {
     "rank": 39,
@@ -1536,15 +1594,15 @@
     "fp_id": 22953,
     "tff_rank": 36,
     "agg_rank": 37.5,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 40,
     "name": "Jacoby Brissett",
-    "team": "ARI",
+    "team": "BAL",
     "position": "QB",
     "position_rank": "QB40",
-    "bye": "14",
+    "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3257.jpg",
     "injury_status": "",
     "player_status": "Active",
@@ -1566,11 +1624,46 @@
     "news": [
       {
         "source": "espn",
+        "headline": "NFL trade deadline grades: Deals for Jacoby Brissett, Jeffery Simmons, more",
+        "description": "Wise move for the Ravens to add Jacoby Brissett? Did the Bears give up too much to go all-in with Jeffery Simmons? Let's evaluate eight trades before the deadline.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+        "timestamp": "2026-11-06T18:25:11Z",
+        "player_names": [
+          "JJ McCarthy",
+          "Joey Porter Jr",
+          "Cam Jurgens",
+          "Marvin Harrison Jr",
+          "Quenton Nelson",
+          "DeForest Buckner",
+          "Jeffery Simmons",
+          "Jacoby Brissett"
+        ],
+        "player_name": "JJ McCarthy",
+        "teams": [
+          "Minnesota Vikings",
+          "New York Giants",
+          "Dallas Cowboys",
+          "Pittsburgh Steelers",
+          "Baltimore Ravens",
+          "Philadelphia Eagles",
+          "Houston Texans",
+          "Arizona Cardinals",
+          "Seattle Seahawks",
+          "Indianapolis Colts",
+          "San Francisco 49ers",
+          "Tennessee Titans",
+          "Chicago Bears"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
         "headline": "Sources: Ravens trade 4th-, 7th-rounders to get Jacoby Brissett, 5th-round pick",
         "description": "The Ravens will acquire quarterback Jacoby Brissett and a 2027 fifth-round pick for a fourth-round pick in 2027 and seventh-round pick in 2028, sources told ESPN and NFL Network.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/50400123/ravens-complete-trade-cardinals-qb-jacoby-brissett",
-        "timestamp": "2026-11-06T17:03:21Z",
+        "timestamp": "2026-11-06T21:06:00Z",
         "player_names": [
           "Jacoby Brissett",
           "Lamar Jackson",
@@ -1589,7 +1682,7 @@
     "fp_id": 15642,
     "tff_rank": 28,
     "agg_rank": 34.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 41,
@@ -1621,7 +1714,7 @@
     "fp_id": 26060,
     "tff_rank": null,
     "agg_rank": 41.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 42,
@@ -1653,7 +1746,7 @@
     "fp_id": 20156,
     "tff_rank": null,
     "agg_rank": 42.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 43,
@@ -1685,7 +1778,7 @@
     "fp_id": 25368,
     "tff_rank": null,
     "agg_rank": 43.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 44,
@@ -1813,7 +1906,7 @@
     "fp_id": 22884,
     "tff_rank": null,
     "agg_rank": 47.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 48,
@@ -1845,7 +1938,7 @@
     "fp_id": 23066,
     "tff_rank": null,
     "agg_rank": 48.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 49,
@@ -1877,7 +1970,7 @@
     "fp_id": 16417,
     "tff_rank": null,
     "agg_rank": 49.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 50,
@@ -1909,7 +2002,7 @@
     "fp_id": 28098,
     "tff_rank": null,
     "agg_rank": 50.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 51,
@@ -1941,7 +2034,7 @@
     "fp_id": 19198,
     "tff_rank": 30,
     "agg_rank": 40.5,
-    "rank_change": 4
+    "rank_change": 0
   },
   {
     "rank": 52,
@@ -1973,7 +2066,7 @@
     "fp_id": 11425,
     "tff_rank": null,
     "agg_rank": 52.0,
-    "rank_change": 6
+    "rank_change": 0
   },
   {
     "rank": 53,
@@ -2005,7 +2098,7 @@
     "fp_id": 16726,
     "tff_rank": null,
     "agg_rank": 53.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 54,
@@ -2037,7 +2130,7 @@
     "fp_id": 13890,
     "tff_rank": null,
     "agg_rank": 54.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 55,
@@ -2069,7 +2162,7 @@
     "fp_id": 18604,
     "tff_rank": null,
     "agg_rank": 55.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 56,
@@ -2101,7 +2194,7 @@
     "fp_id": 9907,
     "tff_rank": null,
     "agg_rank": 56.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 57,
@@ -2133,7 +2226,7 @@
     "fp_id": 22722,
     "tff_rank": null,
     "agg_rank": 57.0,
-    "rank_change": null
+    "rank_change": 0
   },
   {
     "rank": 58,
@@ -2165,7 +2258,7 @@
     "fp_id": 28094,
     "tff_rank": null,
     "agg_rank": 58.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 59,
@@ -2197,7 +2290,7 @@
     "fp_id": 10007,
     "tff_rank": null,
     "agg_rank": 59.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 60,
@@ -2229,7 +2322,7 @@
     "fp_id": 23680,
     "tff_rank": null,
     "agg_rank": 60.0,
-    "rank_change": null
+    "rank_change": 0
   },
   {
     "rank": 61,
@@ -2261,7 +2354,7 @@
     "fp_id": 22679,
     "tff_rank": null,
     "agg_rank": 61.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 62,
@@ -2325,7 +2418,7 @@
     "fp_id": 22799,
     "tff_rank": null,
     "agg_rank": 63.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 64,
@@ -2357,7 +2450,7 @@
     "fp_id": 23416,
     "tff_rank": null,
     "agg_rank": 64.0,
-    "rank_change": -5
+    "rank_change": 0
   },
   {
     "rank": 65,
@@ -2421,7 +2514,7 @@
     "fp_id": 22998,
     "tff_rank": null,
     "agg_rank": 66.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 67,
@@ -2485,7 +2578,7 @@
     "fp_id": 24575,
     "tff_rank": null,
     "agg_rank": 68.0,
-    "rank_change": -7
+    "rank_change": 0
   },
   {
     "rank": 69,
@@ -2581,7 +2674,7 @@
     "fp_id": 24728,
     "tff_rank": null,
     "agg_rank": 71.0,
-    "rank_change": -5
+    "rank_change": 0
   },
   {
     "rank": 72,
@@ -2613,7 +2706,7 @@
     "fp_id": 12208,
     "tff_rank": null,
     "agg_rank": 72.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 73,
@@ -2645,7 +2738,7 @@
     "fp_id": 24330,
     "tff_rank": null,
     "agg_rank": 73.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 74,
@@ -2677,7 +2770,7 @@
     "fp_id": 23146,
     "tff_rank": null,
     "agg_rank": 74.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 75,
@@ -2709,7 +2802,7 @@
     "fp_id": 11686,
     "tff_rank": null,
     "agg_rank": 75.0,
-    "rank_change": -4
+    "rank_change": 0
   },
   {
     "rank": 76,
@@ -2741,7 +2834,7 @@
     "fp_id": 23028,
     "tff_rank": null,
     "agg_rank": 76.0,
-    "rank_change": -4
+    "rank_change": 0
   },
   {
     "rank": 77,
@@ -2773,7 +2866,7 @@
     "fp_id": 20080,
     "tff_rank": null,
     "agg_rank": 77.0,
-    "rank_change": -4
+    "rank_change": 0
   },
   {
     "rank": 78,
@@ -2805,7 +2898,7 @@
     "fp_id": 25371,
     "tff_rank": null,
     "agg_rank": 78.0,
-    "rank_change": -4
+    "rank_change": 0
   },
   {
     "rank": 79,
@@ -2837,6 +2930,6 @@
     "fp_id": 15745,
     "tff_rank": null,
     "agg_rank": 79.0,
-    "rank_change": -1
+    "rank_change": 0
   }
 ]
