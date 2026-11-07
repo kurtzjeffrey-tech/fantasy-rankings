@@ -247,30 +247,13 @@
           "Chicago Bears"
         ],
         "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "How the Bucs' defense could create problems for Caleb Williams",
-        "description": "How the Bucs' defense could create problems for Caleb Williams",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50399574/how-bucs-defense-create-problems-caleb-williams",
-        "timestamp": "2026-11-06T15:20:18Z",
-        "player_names": [
-          "Caleb Williams"
-        ],
-        "player_name": "Caleb Williams",
-        "teams": [
-          "Chicago Bears",
-          "Tampa Bay Buccaneers"
-        ],
-        "type": "Media"
       }
     ],
     "sleeper_id": "11560",
     "fp_id": 23084,
     "tff_rank": 8,
     "agg_rank": 7.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 7,
@@ -302,7 +285,7 @@
     "fp_id": 15501,
     "tff_rank": 18,
     "agg_rank": 12.5,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 8,
@@ -555,7 +538,7 @@
     "fp_id": 23071,
     "tff_rank": 23,
     "agg_rank": 18.5,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 15,
@@ -612,7 +595,7 @@
     "fp_id": 23499,
     "tff_rank": 21,
     "agg_rank": 18.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 16,
@@ -727,10 +710,65 @@
   },
   {
     "rank": 19,
+    "name": "Drew Lock",
+    "team": "SEA",
+    "position": "QB",
+    "position_rank": "QB19",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5854.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out",
+        "description": "New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
+        "timestamp": "2026-11-07T03:11:40Z",
+        "player_names": [
+          "Quenton Nelson",
+          "Sam Darnold",
+          "Leonard Williams",
+          "Charles Cross",
+          "Drew Lock",
+          "Uchenna Nwosu",
+          "Rashid Shaheed"
+        ],
+        "player_name": "Quenton Nelson",
+        "teams": [
+          "Seattle Seahawks"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
+    "sleeper_id": "5854",
+    "fp_id": 18225,
+    "tff_rank": null,
+    "agg_rank": 19.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 20,
     "name": "Bryce Young",
     "team": "CAR",
     "position": "QB",
-    "position_rank": "QB19",
+    "position_rank": "QB20",
     "bye": "5",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9228.jpg",
     "injury_status": "",
@@ -783,63 +821,8 @@
     "sleeper_id": "9228",
     "fp_id": 22900,
     "tff_rank": 26,
-    "agg_rank": 22.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 20,
-    "name": "Drew Lock",
-    "team": "SEA",
-    "position": "QB",
-    "position_rank": "QB20",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5854.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out",
-        "description": "New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
-        "timestamp": "2026-11-07T03:11:40Z",
-        "player_names": [
-          "Quenton Nelson",
-          "Sam Darnold",
-          "Leonard Williams",
-          "Charles Cross",
-          "Drew Lock",
-          "Uchenna Nwosu",
-          "Rashid Shaheed"
-        ],
-        "player_name": "Quenton Nelson",
-        "teams": [
-          "Seattle Seahawks"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "5854",
-    "fp_id": 18225,
-    "tff_rank": null,
-    "agg_rank": 20.0,
-    "rank_change": 1
+    "agg_rank": 23.0,
+    "rank_change": -1
   },
   {
     "rank": 21,
@@ -871,46 +854,14 @@
     "fp_id": 23018,
     "tff_rank": null,
     "agg_rank": 21.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 22,
-    "name": "Baker Mayfield",
-    "team": "TB",
-    "position": "QB",
-    "position_rank": "QB22",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4892.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4892",
-    "fp_id": 17237,
-    "tff_rank": 19,
-    "agg_rank": 20.5,
     "rank_change": 0
   },
   {
-    "rank": 23,
+    "rank": 22,
     "name": "Carson Wentz",
     "team": "MIN",
     "position": "QB",
-    "position_rank": "QB23",
+    "position_rank": "QB22",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3161.jpg",
     "injury_status": "",
@@ -934,8 +885,40 @@
     "sleeper_id": "3161",
     "fp_id": 15520,
     "tff_rank": null,
-    "agg_rank": 23.0,
-    "rank_change": 0
+    "agg_rank": 22.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 23,
+    "name": "Baker Mayfield",
+    "team": "TB",
+    "position": "QB",
+    "position_rank": "QB23",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4892.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "4892",
+    "fp_id": 17237,
+    "tff_rank": 19,
+    "agg_rank": 21.0,
+    "rank_change": -1
   },
   {
     "rank": 24,
@@ -1076,6 +1059,25 @@
       "sleeper": null
     },
     "news": [
+      {
+        "source": "espn",
+        "headline": "Browns QB Deshaun Watson out of concussion protocol",
+        "description": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
+        "timestamp": "2026-11-07T19:18:22Z",
+        "player_names": [
+          "Deshaun Watson",
+          "Shedeur Sanders",
+          "Dillon Gabriel",
+          "Taylen Green"
+        ],
+        "player_name": "Deshaun Watson",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "HeadlineNews"
+      },
       {
         "source": "espn",
         "headline": "3 ways Browns QB Shedeur Sanders can show growth vs. Saints",
@@ -1277,6 +1279,25 @@
     "news": [
       {
         "source": "espn",
+        "headline": "Browns QB Deshaun Watson out of concussion protocol",
+        "description": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
+        "timestamp": "2026-11-07T19:18:22Z",
+        "player_names": [
+          "Deshaun Watson",
+          "Shedeur Sanders",
+          "Dillon Gabriel",
+          "Taylen Green"
+        ],
+        "player_name": "Deshaun Watson",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "HeadlineNews"
+      },
+      {
+        "source": "espn",
         "headline": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
         "description": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
         "story": "",
@@ -1307,7 +1328,7 @@
     "position_rank": "QB32",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -1425,7 +1446,7 @@
     "fp_id": 24347,
     "tff_rank": null,
     "agg_rank": 35.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 36,
@@ -1457,7 +1478,7 @@
     "fp_id": 25373,
     "tff_rank": null,
     "agg_rank": 36.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 37,
@@ -1489,7 +1510,7 @@
     "fp_id": 22953,
     "tff_rank": 36,
     "agg_rank": 36.5,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 38,
@@ -1525,42 +1546,10 @@
   },
   {
     "rank": 39,
-    "name": "Tanner McKee",
-    "team": "PHI",
-    "position": "QB",
-    "position_rank": "QB39",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9230.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "9230",
-    "fp_id": 24740,
-    "tff_rank": null,
-    "agg_rank": 39.0,
-    "rank_change": -4
-  },
-  {
-    "rank": 40,
     "name": "Jacoby Brissett",
     "team": "BAL",
     "position": "QB",
-    "position_rank": "QB40",
+    "position_rank": "QB39",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3257.jpg",
     "injury_status": "",
@@ -1656,15 +1645,15 @@
     "sleeper_id": "3257",
     "fp_id": 15642,
     "tff_rank": 28,
-    "agg_rank": 34.0,
-    "rank_change": 0
+    "agg_rank": 33.5,
+    "rank_change": 1
   },
   {
-    "rank": 41,
+    "rank": 40,
     "name": "Jalon Daniels",
     "team": "TB",
     "position": "QB",
-    "position_rank": "QB41",
+    "position_rank": "QB40",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13425.jpg",
     "injury_status": "",
@@ -1688,15 +1677,15 @@
     "sleeper_id": "13425",
     "fp_id": 26060,
     "tff_rank": null,
-    "agg_rank": 41.0,
-    "rank_change": 0
+    "agg_rank": 40.0,
+    "rank_change": 1
   },
   {
-    "rank": 42,
+    "rank": 41,
     "name": "Mac Jones",
     "team": "SF",
     "position": "QB",
-    "position_rank": "QB42",
+    "position_rank": "QB41",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7527.jpg",
     "injury_status": "",
@@ -1720,8 +1709,40 @@
     "sleeper_id": "7527",
     "fp_id": 20156,
     "tff_rank": null,
+    "agg_rank": 41.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 42,
+    "name": "Tanner McKee",
+    "team": "PHI",
+    "position": "QB",
+    "position_rank": "QB42",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9230.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "9230",
+    "fp_id": 24740,
+    "tff_rank": null,
     "agg_rank": 42.0,
-    "rank_change": 0
+    "rank_change": -3
   },
   {
     "rank": 43,
@@ -2228,7 +2249,27 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Browns QB Deshaun Watson out of concussion protocol",
+        "description": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
+        "timestamp": "2026-11-07T19:18:22Z",
+        "player_names": [
+          "Deshaun Watson",
+          "Shedeur Sanders",
+          "Dillon Gabriel",
+          "Taylen Green"
+        ],
+        "player_name": "Deshaun Watson",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "13306",
     "fp_id": 28094,
     "tff_rank": null,
@@ -2397,42 +2438,10 @@
   },
   {
     "rank": 64,
-    "name": "Collin Hill",
-    "team": "FA",
-    "position": "QB",
-    "position_rank": "QB64",
-    "bye": null,
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7983.jpg",
-    "injury_status": "",
-    "player_status": "Inactive",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "7983",
-    "fp_id": 23416,
-    "tff_rank": null,
-    "agg_rank": 64.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 65,
     "name": "Max Brosmer",
     "team": "MIN",
     "position": "QB",
-    "position_rank": "QB65",
+    "position_rank": "QB64",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12775.jpg",
     "injury_status": "",
@@ -2456,8 +2465,40 @@
     "sleeper_id": "12775",
     "fp_id": 27580,
     "tff_rank": null,
+    "agg_rank": 64.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 65,
+    "name": "Collin Hill",
+    "team": "FA",
+    "position": "QB",
+    "position_rank": "QB65",
+    "bye": null,
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7983.jpg",
+    "injury_status": "",
+    "player_status": "Inactive",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "7983",
+    "fp_id": 23416,
+    "tff_rank": null,
     "agg_rank": 65.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 66,
@@ -2525,10 +2566,62 @@
   },
   {
     "rank": 68,
+    "name": "Dillon Gabriel",
+    "team": "CLE",
+    "position": "QB",
+    "position_rank": "QB68",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12486.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Browns QB Deshaun Watson out of concussion protocol",
+        "description": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
+        "timestamp": "2026-11-07T19:18:22Z",
+        "player_names": [
+          "Deshaun Watson",
+          "Shedeur Sanders",
+          "Dillon Gabriel",
+          "Taylen Green"
+        ],
+        "player_name": "Deshaun Watson",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
+    "sleeper_id": "12486",
+    "fp_id": 23150,
+    "tff_rank": null,
+    "agg_rank": 68.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 69,
     "name": "Chris Oladokun",
     "team": "FA",
     "position": "QB",
-    "position_rank": "QB68",
+    "position_rank": "QB69",
     "bye": null,
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8413.jpg",
     "injury_status": "Questionable",
@@ -2552,40 +2645,8 @@
     "sleeper_id": "8413",
     "fp_id": 24575,
     "tff_rank": null,
-    "agg_rank": 68.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 69,
-    "name": "Dillon Gabriel",
-    "team": "CLE",
-    "position": "QB",
-    "position_rank": "QB69",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12486.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12486",
-    "fp_id": 23150,
-    "tff_rank": null,
     "agg_rank": 69.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 70,
@@ -2621,42 +2682,10 @@
   },
   {
     "rank": 71,
-    "name": "Jake Haener",
-    "team": "FA",
-    "position": "QB",
-    "position_rank": "QB71",
-    "bye": null,
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10215.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "10215",
-    "fp_id": 24728,
-    "tff_rank": null,
-    "agg_rank": 71.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 72,
     "name": "Jimmy Garoppolo",
     "team": "FA",
     "position": "QB",
-    "position_rank": "QB72",
+    "position_rank": "QB71",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1837.jpg",
     "injury_status": "",
@@ -2680,15 +2709,15 @@
     "sleeper_id": "1837",
     "fp_id": 12208,
     "tff_rank": null,
-    "agg_rank": 72.0,
-    "rank_change": 0
+    "agg_rank": 71.0,
+    "rank_change": 1
   },
   {
-    "rank": 73,
+    "rank": 72,
     "name": "Aidan O'Connell",
     "team": "LV",
     "position": "QB",
-    "position_rank": "QB73",
+    "position_rank": "QB72",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10866.jpg",
     "injury_status": "",
@@ -2712,15 +2741,15 @@
     "sleeper_id": "10866",
     "fp_id": 24330,
     "tff_rank": null,
-    "agg_rank": 73.0,
-    "rank_change": 0
+    "agg_rank": 72.0,
+    "rank_change": 1
   },
   {
-    "rank": 74,
+    "rank": 73,
     "name": "Behren Morton",
     "team": "NE",
     "position": "QB",
-    "position_rank": "QB74",
+    "position_rank": "QB73",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13295.jpg",
     "injury_status": "",
@@ -2744,8 +2773,40 @@
     "sleeper_id": "13295",
     "fp_id": 23146,
     "tff_rank": null,
+    "agg_rank": 73.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 74,
+    "name": "Jake Haener",
+    "team": "NYG",
+    "position": "QB",
+    "position_rank": "QB74",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10215.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "10215",
+    "fp_id": 24728,
+    "tff_rank": null,
     "agg_rank": 74.0,
-    "rank_change": 0
+    "rank_change": -3
   },
   {
     "rank": 75,
