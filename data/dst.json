@@ -513,42 +513,10 @@
   },
   {
     "rank": 17,
-    "name": "New England Patriots",
-    "team": "NE",
-    "position": "DST",
-    "position_rank": "DST17",
-    "bye": "11",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8180,
-    "tff_rank": null,
-    "agg_rank": 17.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 18,
     "name": "Buffalo Bills",
     "team": "BUF",
     "position": "DST",
-    "position_rank": "DST18",
+    "position_rank": "DST17",
     "bye": "7",
     "headshot_url": "",
     "injury_status": "",
@@ -572,8 +540,40 @@
     "sleeper_id": null,
     "fp_id": 8030,
     "tff_rank": null,
+    "agg_rank": 17.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 18,
+    "name": "New England Patriots",
+    "team": "NE",
+    "position": "DST",
+    "position_rank": "DST18",
+    "bye": "11",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8180,
+    "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 19,
