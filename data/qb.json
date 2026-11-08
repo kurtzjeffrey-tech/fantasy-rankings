@@ -51,42 +51,10 @@
   },
   {
     "rank": 2,
-    "name": "Josh Allen",
-    "team": "BUF",
-    "position": "QB",
-    "position_rank": "QB2",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4984",
-    "fp_id": 17298,
-    "tff_rank": 1,
-    "agg_rank": 1.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 3,
     "name": "Brock Purdy",
     "team": "SF",
     "position": "QB",
-    "position_rank": "QB3",
+    "position_rank": "QB2",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8183.jpg",
     "injury_status": "",
@@ -113,7 +81,7 @@
         "description": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
         "story": "",
         "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
-        "timestamp": "2026-11-06T17:50:08Z",
+        "timestamp": "2026-11-08T05:45:40Z",
         "player_names": [
           "Jahmyr Gibbs",
           "Bryce Young",
@@ -139,8 +107,40 @@
     "sleeper_id": "8183",
     "fp_id": 19797,
     "tff_rank": 13,
-    "agg_rank": 8.0,
-    "rank_change": 0
+    "agg_rank": 7.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 3,
+    "name": "Josh Allen",
+    "team": "BUF",
+    "position": "QB",
+    "position_rank": "QB3",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4984.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "4984",
+    "fp_id": 17298,
+    "tff_rank": 1,
+    "agg_rank": 2.0,
+    "rank_change": -1
   },
   {
     "rank": 4,
@@ -234,6 +234,25 @@
     "news": [
       {
         "source": "espn",
+        "headline": "How to bet Buccaneers-Bears: Tips, analysis and our top prop plays",
+        "description": "Odds, analysis and picks to help you bet Sunday's Tampa Bay Buccaneers-Chicago Bears game.",
+        "story": "",
+        "url": "https://www.espn.com/espn/betting/story/_/id/50408146/nfl-week-9-odds-betting-picks-buccaneers-bears-preview",
+        "timestamp": "2026-11-08T15:25:01Z",
+        "player_names": [
+          "Caleb Williams",
+          "Colston Loveland",
+          "Luther Burden III"
+        ],
+        "player_name": "Caleb Williams",
+        "teams": [
+          "Tampa Bay Buccaneers",
+          "Chicago Bears"
+        ],
+        "type": "Story"
+      },
+      {
+        "source": "espn",
         "headline": "Inside the evolution of Caleb Williams' MVP candidacy",
         "description": "Williams has the fourth-shortest odds to win MVP as the Bears are currently favored to win the NFC.",
         "story": "",
@@ -257,42 +276,10 @@
   },
   {
     "rank": 7,
-    "name": "Jared Goff",
-    "team": "DET",
-    "position": "QB",
-    "position_rank": "QB7",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3163.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "3163",
-    "fp_id": 15501,
-    "tff_rank": 18,
-    "agg_rank": 12.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 8,
     "name": "Patrick Mahomes II",
     "team": "KC",
     "position": "QB",
-    "position_rank": "QB8",
+    "position_rank": "QB7",
     "bye": "5",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4046.jpg",
     "injury_status": "",
@@ -316,8 +303,40 @@
     "sleeper_id": "4046",
     "fp_id": 16413,
     "tff_rank": 15,
-    "agg_rank": 11.5,
-    "rank_change": 0
+    "agg_rank": 11.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 8,
+    "name": "Jared Goff",
+    "team": "DET",
+    "position": "QB",
+    "position_rank": "QB8",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3163.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "3163",
+    "fp_id": 15501,
+    "tff_rank": 18,
+    "agg_rank": 13.0,
+    "rank_change": -1
   },
   {
     "rank": 9,
@@ -385,42 +404,10 @@
   },
   {
     "rank": 11,
-    "name": "Matthew Stafford",
-    "team": "LAR",
-    "position": "QB",
-    "position_rank": "QB11",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/421.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "421",
-    "fp_id": 9451,
-    "tff_rank": 20,
-    "agg_rank": 15.5,
-    "rank_change": 0
-  },
-  {
-    "rank": 12,
     "name": "Jordan Love",
     "team": "GB",
     "position": "QB",
-    "position_rank": "QB12",
+    "position_rank": "QB11",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6804.jpg",
     "injury_status": "",
@@ -444,8 +431,40 @@
     "sleeper_id": "6804",
     "fp_id": 19246,
     "tff_rank": 17,
-    "agg_rank": 14.5,
-    "rank_change": 0
+    "agg_rank": 14.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 12,
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "position": "QB",
+    "position_rank": "QB12",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/421.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "421",
+    "fp_id": 9451,
+    "tff_rank": 20,
+    "agg_rank": 16.0,
+    "rank_change": -1
   },
   {
     "rank": 13,
@@ -479,7 +498,7 @@
         "description": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
         "story": "",
         "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
-        "timestamp": "2026-11-06T17:50:08Z",
+        "timestamp": "2026-11-08T05:45:40Z",
         "player_names": [
           "Jahmyr Gibbs",
           "Bryce Young",
@@ -622,22 +641,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Why Kirk Cousins is a top-10 QB option this week in fantasy",
-        "description": "Why Kirk Cousins is a top-10 QB option this week in fantasy",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50400106/why-kirk-cousins-top-10-qb-option-week-fantasy",
-        "timestamp": "2026-11-06T16:45:34Z",
-        "player_names": [
-          "Kirk Cousins"
-        ],
-        "player_name": "Kirk Cousins",
-        "teams": [],
-        "type": "Media"
-      }
-    ],
+    "news": [],
     "sleeper_id": "1166",
     "fp_id": 11177,
     "tff_rank": 35,
@@ -710,12 +714,12 @@
   },
   {
     "rank": 19,
-    "name": "Drew Lock",
-    "team": "SEA",
+    "name": "J.J. McCarthy",
+    "team": "NYG",
     "position": "QB",
     "position_rank": "QB19",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5854.jpg",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11565.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -733,35 +737,12 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out",
-        "description": "New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
-        "timestamp": "2026-11-07T03:11:40Z",
-        "player_names": [
-          "Quenton Nelson",
-          "Sam Darnold",
-          "Leonard Williams",
-          "Charles Cross",
-          "Drew Lock",
-          "Uchenna Nwosu",
-          "Rashid Shaheed"
-        ],
-        "player_name": "Quenton Nelson",
-        "teams": [
-          "Seattle Seahawks"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "5854",
-    "fp_id": 18225,
+    "news": [],
+    "sleeper_id": "11565",
+    "fp_id": 23018,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": 1
+    "rank_change": 2
   },
   {
     "rank": 20,
@@ -795,7 +776,7 @@
         "description": "Our experts dive into the odds and player props for Week 9 and offer their betting tips and favorite plays.",
         "story": "",
         "url": "https://www.espn.com/espn/betting/story/_/id/50389829/week-9-nfl-odds-touchdown-props-best-bets-sunday-games",
-        "timestamp": "2026-11-06T17:50:08Z",
+        "timestamp": "2026-11-08T05:45:40Z",
         "player_names": [
           "Jahmyr Gibbs",
           "Bryce Young",
@@ -822,48 +803,16 @@
     "fp_id": 22900,
     "tff_rank": 26,
     "agg_rank": 23.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 21,
-    "name": "J.J. McCarthy",
-    "team": "NYG",
-    "position": "QB",
-    "position_rank": "QB21",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11565.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11565",
-    "fp_id": 23018,
-    "tff_rank": null,
-    "agg_rank": 21.0,
     "rank_change": 0
   },
   {
-    "rank": 22,
-    "name": "Carson Wentz",
-    "team": "MIN",
+    "rank": 21,
+    "name": "Drew Lock",
+    "team": "SEA",
     "position": "QB",
-    "position_rank": "QB22",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3161.jpg",
+    "position_rank": "QB21",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5854.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -881,19 +830,59 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
-    "sleeper_id": "3161",
-    "fp_id": 15520,
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Sources: Seahawks' Sam Darnold in jeopardy of missing Week 10 game vs. Raiders",
+        "description": "Seahawks QB Sam Darnold, who is out Sunday against the Cardinals, also is in danger of missing Seattle's Week 10 game against the Raiders, sources told ESPN.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50400897/sources-seahawks-sam-darnold-danger-missing-week-10",
+        "timestamp": "2026-11-08T13:33:54Z",
+        "player_names": [
+          "Sam Darnold",
+          "Drew Lock"
+        ],
+        "player_name": "Sam Darnold",
+        "teams": [
+          "Seattle Seahawks"
+        ],
+        "type": "HeadlineNews"
+      },
+      {
+        "source": "espn",
+        "headline": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out",
+        "description": "New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
+        "timestamp": "2026-11-07T03:11:40Z",
+        "player_names": [
+          "Quenton Nelson",
+          "Sam Darnold",
+          "Leonard Williams",
+          "Charles Cross",
+          "Drew Lock",
+          "Uchenna Nwosu",
+          "Rashid Shaheed"
+        ],
+        "player_name": "Quenton Nelson",
+        "teams": [
+          "Seattle Seahawks"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
+    "sleeper_id": "5854",
+    "fp_id": 18225,
     "tff_rank": null,
-    "agg_rank": 22.0,
-    "rank_change": 1
+    "agg_rank": 21.0,
+    "rank_change": -2
   },
   {
-    "rank": 23,
+    "rank": 22,
     "name": "Baker Mayfield",
     "team": "TB",
     "position": "QB",
-    "position_rank": "QB23",
+    "position_rank": "QB22",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4892.jpg",
     "injury_status": "",
@@ -917,7 +906,39 @@
     "sleeper_id": "4892",
     "fp_id": 17237,
     "tff_rank": 19,
-    "agg_rank": 21.0,
+    "agg_rank": 20.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 23,
+    "name": "Carson Wentz",
+    "team": "MIN",
+    "position": "QB",
+    "position_rank": "QB23",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3161.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "3161",
+    "fp_id": 15520,
+    "tff_rank": null,
+    "agg_rank": 23.0,
     "rank_change": -1
   },
   {
@@ -971,42 +992,10 @@
   },
   {
     "rank": 25,
-    "name": "Geno Smith",
-    "team": "NYJ",
-    "position": "QB",
-    "position_rank": "QB25",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1373.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "1373",
-    "fp_id": 11687,
-    "tff_rank": 29,
-    "agg_rank": 27.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 26,
     "name": "Justin Herbert",
     "team": "LAC",
     "position": "QB",
-    "position_rank": "QB26",
+    "position_rank": "QB25",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6797.jpg",
     "injury_status": "",
@@ -1030,8 +1019,61 @@
     "sleeper_id": "6797",
     "fp_id": 18635,
     "tff_rank": 12,
-    "agg_rank": 19.0,
-    "rank_change": 0
+    "agg_rank": 18.5,
+    "rank_change": 1
+  },
+  {
+    "rank": 26,
+    "name": "Geno Smith",
+    "team": "NYJ",
+    "position": "QB",
+    "position_rank": "QB26",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1373.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Geno Smith has been upgrade from Justin Fields for Jets -- except in win column",
+        "description": "Smith statistically has outperformed Fields in New York, but they both only have two wins.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50400929/jets-qb-upgrade-geno-smith-justin-fields",
+        "timestamp": "2026-11-08T14:30:12Z",
+        "player_names": [
+          "Braelon Allen",
+          "Garrett Wilson",
+          "Will McDonald IV",
+          "Breece Hall",
+          "Geno Smith"
+        ],
+        "player_name": "Braelon Allen",
+        "teams": [
+          "New York Jets"
+        ],
+        "type": "Story"
+      }
+    ],
+    "sleeper_id": "1373",
+    "fp_id": 11687,
+    "tff_rank": 29,
+    "agg_rank": 27.5,
+    "rank_change": -1
   },
   {
     "rank": 27,
@@ -1061,11 +1103,11 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Browns QB Deshaun Watson out of concussion protocol",
-        "description": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
+        "headline": "Browns QB Deshaun Watson out of protocol but set to be inactive, source says",
+        "description": "Deshaun Watson has cleared the concussion protocol, but a source told NFL Network that the Browns quarterback is expected to be inactive against the Saints. Shedeur Sanders will make his first start of the season against New Orleans.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
-        "timestamp": "2026-11-07T19:18:22Z",
+        "timestamp": "2026-11-08T12:43:53Z",
         "player_names": [
           "Deshaun Watson",
           "Shedeur Sanders",
@@ -1110,22 +1152,6 @@
           "Cleveland Browns"
         ],
         "type": "HeadlineNews"
-      },
-      {
-        "source": "espn",
-        "headline": "Stephen A.: Shedeur Sanders' Week 9 start is a big opportunity",
-        "description": "Stephen A.: Shedeur Sanders' Week 9 start is a big opportunity",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50399865/shedeur-sanders-week-9-start-big-opportunity",
-        "timestamp": "2026-11-06T15:53:50Z",
-        "player_names": [
-          "Shedeur Sanders"
-        ],
-        "player_name": "Shedeur Sanders",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "type": "Media"
       }
     ],
     "sleeper_id": "12524",
@@ -1223,28 +1249,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Sources: Ravens trade 4th-, 7th-rounders to get Jacoby Brissett, 5th-round pick",
-        "description": "The Ravens will acquire quarterback Jacoby Brissett and a 2027 fifth-round pick for a fourth-round pick in 2027 and seventh-round pick in 2028, sources told ESPN and NFL Network.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50400123/ravens-complete-trade-cardinals-qb-jacoby-brissett",
-        "timestamp": "2026-11-06T21:06:00Z",
-        "player_names": [
-          "Jacoby Brissett",
-          "Lamar Jackson",
-          "Tyler Huntley",
-          "Joe Fagnano"
-        ],
-        "player_name": "Jacoby Brissett",
-        "teams": [
-          "Baltimore Ravens",
-          "Arizona Cardinals"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
+    "news": [],
     "sleeper_id": "13350",
     "fp_id": 28400,
     "tff_rank": null,
@@ -1253,111 +1258,10 @@
   },
   {
     "rank": 31,
-    "name": "Deshaun Watson",
-    "team": "CLE",
-    "position": "QB",
-    "position_rank": "QB31",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4017.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Browns QB Deshaun Watson out of concussion protocol",
-        "description": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
-        "timestamp": "2026-11-07T19:18:22Z",
-        "player_names": [
-          "Deshaun Watson",
-          "Shedeur Sanders",
-          "Dillon Gabriel",
-          "Taylen Green"
-        ],
-        "player_name": "Deshaun Watson",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "type": "HeadlineNews"
-      },
-      {
-        "source": "espn",
-        "headline": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
-        "description": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50400928/browns-start-shedeur-sanders-qb-vs-saints",
-        "timestamp": "2026-11-06T18:56:40Z",
-        "player_names": [
-          "Shedeur Sanders",
-          "Deshaun Watson"
-        ],
-        "player_name": "Shedeur Sanders",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "type": "HeadlineNews"
-      }
-    ],
-    "sleeper_id": "4017",
-    "fp_id": 16398,
-    "tff_rank": 31,
-    "agg_rank": 31.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 32,
-    "name": "Kyler Murray",
-    "team": "MIN",
-    "position": "QB",
-    "position_rank": "QB32",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
-    "injury_status": "Out",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "5849",
-    "fp_id": 18600,
-    "tff_rank": 14,
-    "agg_rank": 23.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 33,
     "name": "Fernando Mendoza",
     "team": "LV",
     "position": "QB",
-    "position_rank": "QB33",
+    "position_rank": "QB31",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13269.jpg",
     "injury_status": "",
@@ -1381,15 +1285,15 @@
     "sleeper_id": "13269",
     "fp_id": 28013,
     "tff_rank": 33,
-    "agg_rank": 33.0,
-    "rank_change": 0
+    "agg_rank": 32.0,
+    "rank_change": 2
   },
   {
-    "rank": 34,
+    "rank": 32,
     "name": "Jameis Winston",
     "team": "NYG",
     "position": "QB",
-    "position_rank": "QB34",
+    "position_rank": "QB32",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2306.jpg",
     "injury_status": "",
@@ -1413,15 +1317,15 @@
     "sleeper_id": "2306",
     "fp_id": 13891,
     "tff_rank": null,
-    "agg_rank": 34.0,
-    "rank_change": 0
+    "agg_rank": 32.0,
+    "rank_change": 2
   },
   {
-    "rank": 35,
+    "rank": 33,
     "name": "Anthony Richardson Sr.",
     "team": "IND",
     "position": "QB",
-    "position_rank": "QB35",
+    "position_rank": "QB33",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9229.jpg",
     "injury_status": "",
@@ -1445,8 +1349,72 @@
     "sleeper_id": "9229",
     "fp_id": 24347,
     "tff_rank": null,
-    "agg_rank": 35.0,
-    "rank_change": 0
+    "agg_rank": 33.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 34,
+    "name": "Tanner McKee",
+    "team": "PHI",
+    "position": "QB",
+    "position_rank": "QB34",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9230.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "9230",
+    "fp_id": 24740,
+    "tff_rank": null,
+    "agg_rank": 34.0,
+    "rank_change": 8
+  },
+  {
+    "rank": 35,
+    "name": "Carson Beck",
+    "team": "ARI",
+    "position": "QB",
+    "position_rank": "QB35",
+    "bye": "14",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13272.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13272",
+    "fp_id": 22953,
+    "tff_rank": 36,
+    "agg_rank": 35.5,
+    "rank_change": 2
   },
   {
     "rank": 36,
@@ -1482,13 +1450,13 @@
   },
   {
     "rank": 37,
-    "name": "Carson Beck",
-    "team": "ARI",
+    "name": "Deshaun Watson",
+    "team": "CLE",
     "position": "QB",
     "position_rank": "QB37",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13272.jpg",
-    "injury_status": "",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4017.jpg",
+    "injury_status": "Questionable",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -1505,12 +1473,49 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
-    "sleeper_id": "13272",
-    "fp_id": 22953,
-    "tff_rank": 36,
-    "agg_rank": 36.5,
-    "rank_change": 0
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Browns QB Deshaun Watson out of protocol but set to be inactive, source says",
+        "description": "Deshaun Watson has cleared the concussion protocol, but a source told NFL Network that the Browns quarterback is expected to be inactive against the Saints. Shedeur Sanders will make his first start of the season against New Orleans.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
+        "timestamp": "2026-11-08T12:43:53Z",
+        "player_names": [
+          "Deshaun Watson",
+          "Shedeur Sanders",
+          "Dillon Gabriel",
+          "Taylen Green"
+        ],
+        "player_name": "Deshaun Watson",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "HeadlineNews"
+      },
+      {
+        "source": "espn",
+        "headline": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
+        "description": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50400928/browns-start-shedeur-sanders-qb-vs-saints",
+        "timestamp": "2026-11-06T18:56:40Z",
+        "player_names": [
+          "Shedeur Sanders",
+          "Deshaun Watson"
+        ],
+        "player_name": "Shedeur Sanders",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
+    "sleeper_id": "4017",
+    "fp_id": 16398,
+    "tff_rank": 31,
+    "agg_rank": 34.0,
+    "rank_change": -6
   },
   {
     "rank": 38,
@@ -1546,10 +1551,42 @@
   },
   {
     "rank": 39,
+    "name": "Jalon Daniels",
+    "team": "TB",
+    "position": "QB",
+    "position_rank": "QB39",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13425.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13425",
+    "fp_id": 26060,
+    "tff_rank": null,
+    "agg_rank": 39.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 40,
     "name": "Jacoby Brissett",
     "team": "BAL",
     "position": "QB",
-    "position_rank": "QB39",
+    "position_rank": "QB40",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3257.jpg",
     "injury_status": "",
@@ -1620,264 +1657,20 @@
           "Chicago Bears"
         ],
         "type": "Story"
-      },
-      {
-        "source": "espn",
-        "headline": "Sources: Ravens trade 4th-, 7th-rounders to get Jacoby Brissett, 5th-round pick",
-        "description": "The Ravens will acquire quarterback Jacoby Brissett and a 2027 fifth-round pick for a fourth-round pick in 2027 and seventh-round pick in 2028, sources told ESPN and NFL Network.",
-        "story": "",
-        "url": "https://www.espn.com/nfl/story/_/id/50400123/ravens-complete-trade-cardinals-qb-jacoby-brissett",
-        "timestamp": "2026-11-06T21:06:00Z",
-        "player_names": [
-          "Jacoby Brissett",
-          "Lamar Jackson",
-          "Tyler Huntley",
-          "Joe Fagnano"
-        ],
-        "player_name": "Jacoby Brissett",
-        "teams": [
-          "Baltimore Ravens",
-          "Arizona Cardinals"
-        ],
-        "type": "HeadlineNews"
       }
     ],
     "sleeper_id": "3257",
     "fp_id": 15642,
     "tff_rank": 28,
-    "agg_rank": 33.5,
-    "rank_change": 1
-  },
-  {
-    "rank": 40,
-    "name": "Jalon Daniels",
-    "team": "TB",
-    "position": "QB",
-    "position_rank": "QB40",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13425.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13425",
-    "fp_id": 26060,
-    "tff_rank": null,
-    "agg_rank": 40.0,
-    "rank_change": 1
+    "agg_rank": 34.0,
+    "rank_change": -1
   },
   {
     "rank": 41,
-    "name": "Mac Jones",
-    "team": "SF",
-    "position": "QB",
-    "position_rank": "QB41",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7527.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "7527",
-    "fp_id": 20156,
-    "tff_rank": null,
-    "agg_rank": 41.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 42,
-    "name": "Tanner McKee",
-    "team": "PHI",
-    "position": "QB",
-    "position_rank": "QB42",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/9230.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "9230",
-    "fp_id": 24740,
-    "tff_rank": null,
-    "agg_rank": 42.0,
-    "rank_change": -3
-  },
-  {
-    "rank": 43,
-    "name": "Ty Simpson",
-    "team": "LAR",
-    "position": "QB",
-    "position_rank": "QB43",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13275.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13275",
-    "fp_id": 25368,
-    "tff_rank": null,
-    "agg_rank": 43.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 44,
-    "name": "Spencer Rattler",
-    "team": "NO",
-    "position": "QB",
-    "position_rank": "QB44",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11562.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11562",
-    "fp_id": 23081,
-    "tff_rank": null,
-    "agg_rank": 44.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 45,
-    "name": "Cade Klubnik",
-    "team": "NYJ",
-    "position": "QB",
-    "position_rank": "QB45",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13303.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13303",
-    "fp_id": 24361,
-    "tff_rank": null,
-    "agg_rank": 45.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 46,
-    "name": "Sam Howell",
-    "team": "DAL",
-    "position": "QB",
-    "position_rank": "QB46",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8162.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "8162",
-    "fp_id": 23045,
-    "tff_rank": null,
-    "agg_rank": 46.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 47,
     "name": "Jalen Milroe",
     "team": "SEA",
     "position": "QB",
-    "position_rank": "QB47",
+    "position_rank": "QB41",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12510.jpg",
     "injury_status": "",
@@ -1901,17 +1694,17 @@
     "sleeper_id": "12510",
     "fp_id": 22884,
     "tff_rank": null,
-    "agg_rank": 47.0,
-    "rank_change": 0
+    "agg_rank": 41.0,
+    "rank_change": 6
   },
   {
-    "rank": 48,
-    "name": "Kyle McCord",
-    "team": "MIA",
+    "rank": 42,
+    "name": "Cade Klubnik",
+    "team": "NYJ",
     "position": "QB",
-    "position_rank": "QB48",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12494.jpg",
+    "position_rank": "QB42",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13303.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -1930,82 +1723,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "12494",
-    "fp_id": 23066,
+    "sleeper_id": "13303",
+    "fp_id": 24361,
     "tff_rank": null,
-    "agg_rank": 48.0,
-    "rank_change": 0
+    "agg_rank": 42.0,
+    "rank_change": 3
   },
   {
-    "rank": 49,
-    "name": "Joshua Dobbs",
-    "team": "DET",
-    "position": "QB",
-    "position_rank": "QB49",
-    "bye": "6",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4179.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4179",
-    "fp_id": 16417,
-    "tff_rank": null,
-    "agg_rank": 49.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 50,
-    "name": "Athan Kaliakmanis",
-    "team": "WAS",
-    "position": "QB",
-    "position_rank": "QB50",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13557.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13557",
-    "fp_id": 28098,
-    "tff_rank": null,
-    "agg_rank": 50.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 51,
+    "rank": 43,
     "name": "Tua Tagovailoa",
     "team": "ATL",
     "position": "QB",
-    "position_rank": "QB51",
+    "position_rank": "QB43",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6768.jpg",
     "injury_status": "",
@@ -2029,15 +1758,143 @@
     "sleeper_id": "6768",
     "fp_id": 19198,
     "tff_rank": 30,
-    "agg_rank": 40.5,
-    "rank_change": 0
+    "agg_rank": 36.5,
+    "rank_change": 8
   },
   {
-    "rank": 52,
+    "rank": 44,
+    "name": "Mac Jones",
+    "team": "SF",
+    "position": "QB",
+    "position_rank": "QB44",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7527.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "7527",
+    "fp_id": 20156,
+    "tff_rank": null,
+    "agg_rank": 44.0,
+    "rank_change": -3
+  },
+  {
+    "rank": 45,
+    "name": "Athan Kaliakmanis",
+    "team": "WAS",
+    "position": "QB",
+    "position_rank": "QB45",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13557.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13557",
+    "fp_id": 28098,
+    "tff_rank": null,
+    "agg_rank": 45.0,
+    "rank_change": 5
+  },
+  {
+    "rank": 46,
+    "name": "Spencer Rattler",
+    "team": "NO",
+    "position": "QB",
+    "position_rank": "QB46",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11562.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11562",
+    "fp_id": 23081,
+    "tff_rank": null,
+    "agg_rank": 46.0,
+    "rank_change": -2
+  },
+  {
+    "rank": 47,
+    "name": "Ty Simpson",
+    "team": "LAR",
+    "position": "QB",
+    "position_rank": "QB47",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13275.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13275",
+    "fp_id": 25368,
+    "tff_rank": null,
+    "agg_rank": 47.0,
+    "rank_change": -4
+  },
+  {
+    "rank": 48,
     "name": "Case Keenum",
     "team": "CHI",
     "position": "QB",
-    "position_rank": "QB52",
+    "position_rank": "QB48",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1737.jpg",
     "injury_status": "",
@@ -2061,8 +1918,136 @@
     "sleeper_id": "1737",
     "fp_id": 11425,
     "tff_rank": null,
+    "agg_rank": 48.0,
+    "rank_change": 4
+  },
+  {
+    "rank": 49,
+    "name": "Kenny Pickett",
+    "team": "CAR",
+    "position": "QB",
+    "position_rank": "QB49",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8160.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "8160",
+    "fp_id": 22722,
+    "tff_rank": null,
+    "agg_rank": 49.0,
+    "rank_change": 8
+  },
+  {
+    "rank": 50,
+    "name": "Sam Howell",
+    "team": "DAL",
+    "position": "QB",
+    "position_rank": "QB50",
+    "bye": "14",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8162.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "8162",
+    "fp_id": 23045,
+    "tff_rank": null,
+    "agg_rank": 50.0,
+    "rank_change": -4
+  },
+  {
+    "rank": 51,
+    "name": "Kyle McCord",
+    "team": "MIA",
+    "position": "QB",
+    "position_rank": "QB51",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12494.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12494",
+    "fp_id": 23066,
+    "tff_rank": null,
+    "agg_rank": 51.0,
+    "rank_change": -3
+  },
+  {
+    "rank": 52,
+    "name": "Joshua Dobbs",
+    "team": "DET",
+    "position": "QB",
+    "position_rank": "QB52",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4179.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "4179",
+    "fp_id": 16417,
+    "tff_rank": null,
     "agg_rank": 52.0,
-    "rank_change": 0
+    "rank_change": -3
   },
   {
     "rank": 53,
@@ -2162,13 +2147,13 @@
   },
   {
     "rank": 56,
-    "name": "Andy Dalton",
-    "team": "ATL",
+    "name": "Kyler Murray",
+    "team": "MIN",
     "position": "QB",
     "position_rank": "QB56",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/829.jpg",
-    "injury_status": "",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5849.jpg",
+    "injury_status": "Out",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -2186,20 +2171,20 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "829",
-    "fp_id": 9907,
-    "tff_rank": null,
-    "agg_rank": 56.0,
-    "rank_change": 0
+    "sleeper_id": "5849",
+    "fp_id": 18600,
+    "tff_rank": 14,
+    "agg_rank": 35.0,
+    "rank_change": -24
   },
   {
     "rank": 57,
-    "name": "Kenny Pickett",
-    "team": "CAR",
+    "name": "Tyrod Taylor",
+    "team": "GB",
     "position": "QB",
     "position_rank": "QB57",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8160.jpg",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/827.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -2218,11 +2203,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "8160",
-    "fp_id": 22722,
+    "sleeper_id": "827",
+    "fp_id": 10007,
     "tff_rank": null,
     "agg_rank": 57.0,
-    "rank_change": 0
+    "rank_change": 2
   },
   {
     "rank": 58,
@@ -2252,11 +2237,11 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Browns QB Deshaun Watson out of concussion protocol",
-        "description": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
+        "headline": "Browns QB Deshaun Watson out of protocol but set to be inactive, source says",
+        "description": "Deshaun Watson has cleared the concussion protocol, but a source told NFL Network that the Browns quarterback is expected to be inactive against the Saints. Shedeur Sanders will make his first start of the season against New Orleans.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
-        "timestamp": "2026-11-07T19:18:22Z",
+        "timestamp": "2026-11-08T12:43:53Z",
         "player_names": [
           "Deshaun Watson",
           "Shedeur Sanders",
@@ -2278,42 +2263,10 @@
   },
   {
     "rank": 59,
-    "name": "Tyrod Taylor",
-    "team": "GB",
-    "position": "QB",
-    "position_rank": "QB59",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/827.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "827",
-    "fp_id": 10007,
-    "tff_rank": null,
-    "agg_rank": 59.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 60,
     "name": "Quinn Ewers",
     "team": "JAX",
     "position": "QB",
-    "position_rank": "QB60",
+    "position_rank": "QB59",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12500.jpg",
     "injury_status": "",
@@ -2337,17 +2290,49 @@
     "sleeper_id": "12500",
     "fp_id": 23680,
     "tff_rank": null,
+    "agg_rank": 59.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 60,
+    "name": "Collin Hill",
+    "team": "FA",
+    "position": "QB",
+    "position_rank": "QB60",
+    "bye": null,
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7983.jpg",
+    "injury_status": "",
+    "player_status": "Inactive",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "7983",
+    "fp_id": 23416,
+    "tff_rank": null,
     "agg_rank": 60.0,
-    "rank_change": 0
+    "rank_change": 5
   },
   {
     "rank": 61,
-    "name": "Zach Wilson",
-    "team": "NO",
+    "name": "Davis Mills",
+    "team": "HOU",
     "position": "QB",
     "position_rank": "QB61",
     "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7538.jpg",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7585.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -2366,11 +2351,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "7538",
-    "fp_id": 22679,
+    "sleeper_id": "7585",
+    "fp_id": 22799,
     "tff_rank": null,
     "agg_rank": 61.0,
-    "rank_change": 0
+    "rank_change": 2
   },
   {
     "rank": 62,
@@ -2406,14 +2391,14 @@
   },
   {
     "rank": 63,
-    "name": "Davis Mills",
-    "team": "HOU",
+    "name": "Chris Oladokun",
+    "team": "FA",
     "position": "QB",
     "position_rank": "QB63",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7585.jpg",
-    "injury_status": "",
-    "player_status": "Active",
+    "bye": null,
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8413.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Inactive",
     "ecr": {
       "avg": null,
       "best": null,
@@ -2430,11 +2415,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "7585",
-    "fp_id": 22799,
+    "sleeper_id": "8413",
+    "fp_id": 24575,
     "tff_rank": null,
     "agg_rank": 63.0,
-    "rank_change": 0
+    "rank_change": 6
   },
   {
     "rank": 64,
@@ -2466,18 +2451,18 @@
     "fp_id": 27580,
     "tff_rank": null,
     "agg_rank": 64.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 65,
-    "name": "Collin Hill",
-    "team": "FA",
+    "name": "Zach Wilson",
+    "team": "NO",
     "position": "QB",
     "position_rank": "QB65",
-    "bye": null,
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7983.jpg",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7538.jpg",
     "injury_status": "",
-    "player_status": "Inactive",
+    "player_status": "Active",
     "ecr": {
       "avg": null,
       "best": null,
@@ -2494,11 +2479,11 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "7983",
-    "fp_id": 23416,
+    "sleeper_id": "7538",
+    "fp_id": 22679,
     "tff_rank": null,
     "agg_rank": 65.0,
-    "rank_change": -1
+    "rank_change": -4
   },
   {
     "rank": 66,
@@ -2534,10 +2519,42 @@
   },
   {
     "rank": 67,
+    "name": "Jake Haener",
+    "team": "NYG",
+    "position": "QB",
+    "position_rank": "QB67",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10215.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "10215",
+    "fp_id": 24728,
+    "tff_rank": null,
+    "agg_rank": 67.0,
+    "rank_change": 7
+  },
+  {
+    "rank": 68,
     "name": "Jake Browning",
     "team": "LAC",
     "position": "QB",
-    "position_rank": "QB67",
+    "position_rank": "QB68",
     "bye": "7",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6111.jpg",
     "injury_status": "",
@@ -2561,15 +2578,15 @@
     "sleeper_id": "6111",
     "fp_id": 18557,
     "tff_rank": null,
-    "agg_rank": 67.0,
-    "rank_change": 0
+    "agg_rank": 68.0,
+    "rank_change": -1
   },
   {
-    "rank": 68,
+    "rank": 69,
     "name": "Dillon Gabriel",
     "team": "CLE",
     "position": "QB",
-    "position_rank": "QB68",
+    "position_rank": "QB69",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12486.jpg",
     "injury_status": "",
@@ -2592,11 +2609,11 @@
     "news": [
       {
         "source": "espn",
-        "headline": "Browns QB Deshaun Watson out of concussion protocol",
-        "description": "Browns QB Deshaun Watson is out of the concussion protocol, but he is questionable. Shedeur Sanders will get the start against the Saints.",
+        "headline": "Browns QB Deshaun Watson out of protocol but set to be inactive, source says",
+        "description": "Deshaun Watson has cleared the concussion protocol, but a source told NFL Network that the Browns quarterback is expected to be inactive against the Saints. Shedeur Sanders will make his first start of the season against New Orleans.",
         "story": "",
         "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
-        "timestamp": "2026-11-07T19:18:22Z",
+        "timestamp": "2026-11-08T12:43:53Z",
         "player_names": [
           "Deshaun Watson",
           "Shedeur Sanders",
@@ -2612,38 +2629,6 @@
     ],
     "sleeper_id": "12486",
     "fp_id": 23150,
-    "tff_rank": null,
-    "agg_rank": 68.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 69,
-    "name": "Chris Oladokun",
-    "team": "FA",
-    "position": "QB",
-    "position_rank": "QB69",
-    "bye": null,
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8413.jpg",
-    "injury_status": "Questionable",
-    "player_status": "Inactive",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "8413",
-    "fp_id": 24575,
     "tff_rank": null,
     "agg_rank": 69.0,
     "rank_change": -1
@@ -2710,7 +2695,7 @@
     "fp_id": 12208,
     "tff_rank": null,
     "agg_rank": 71.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 72,
@@ -2742,7 +2727,7 @@
     "fp_id": 24330,
     "tff_rank": null,
     "agg_rank": 72.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 73,
@@ -2774,46 +2759,14 @@
     "fp_id": 23146,
     "tff_rank": null,
     "agg_rank": 73.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 74,
-    "name": "Jake Haener",
-    "team": "NYG",
-    "position": "QB",
-    "position_rank": "QB74",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10215.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "10215",
-    "fp_id": 24728,
-    "tff_rank": null,
-    "agg_rank": 74.0,
-    "rank_change": -3
-  },
-  {
-    "rank": 75,
     "name": "Matt Barkley",
     "team": "FA",
     "position": "QB",
-    "position_rank": "QB75",
+    "position_rank": "QB74",
     "bye": null,
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1338.jpg",
     "injury_status": "",
@@ -2837,15 +2790,15 @@
     "sleeper_id": "1338",
     "fp_id": 11686,
     "tff_rank": null,
-    "agg_rank": 75.0,
-    "rank_change": 0
+    "agg_rank": 74.0,
+    "rank_change": 1
   },
   {
-    "rank": 76,
+    "rank": 75,
     "name": "Matt Corral",
     "team": "FA",
     "position": "QB",
-    "position_rank": "QB76",
+    "position_rank": "QB75",
     "bye": null,
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8164.jpg",
     "injury_status": "",
@@ -2869,15 +2822,15 @@
     "sleeper_id": "8164",
     "fp_id": 23028,
     "tff_rank": null,
-    "agg_rank": 76.0,
-    "rank_change": 0
+    "agg_rank": 75.0,
+    "rank_change": 1
   },
   {
-    "rank": 77,
+    "rank": 76,
     "name": "Desmond Ridder",
     "team": "FA",
     "position": "QB",
-    "position_rank": "QB77",
+    "position_rank": "QB76",
     "bye": null,
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/8159.jpg",
     "injury_status": "",
@@ -2901,15 +2854,15 @@
     "sleeper_id": "8159",
     "fp_id": 20080,
     "tff_rank": null,
-    "agg_rank": 77.0,
-    "rank_change": 0
+    "agg_rank": 76.0,
+    "rank_change": 1
   },
   {
-    "rank": 78,
+    "rank": 77,
     "name": "Seth Henigan",
     "team": "FA",
     "position": "QB",
-    "position_rank": "QB78",
+    "position_rank": "QB77",
     "bye": null,
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12898.jpg",
     "injury_status": "",
@@ -2933,15 +2886,15 @@
     "sleeper_id": "12898",
     "fp_id": 25371,
     "tff_rank": null,
-    "agg_rank": 78.0,
-    "rank_change": 0
+    "agg_rank": 77.0,
+    "rank_change": 1
   },
   {
-    "rank": 79,
+    "rank": 78,
     "name": "Brandon Allen",
     "team": "FA",
     "position": "QB",
-    "position_rank": "QB79",
+    "position_rank": "QB78",
     "bye": null,
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3357.jpg",
     "injury_status": "",
@@ -2965,7 +2918,7 @@
     "sleeper_id": "3357",
     "fp_id": 15745,
     "tff_rank": null,
-    "agg_rank": 79.0,
-    "rank_change": 0
+    "agg_rank": 78.0,
+    "rank_change": 1
   }
 ]
