@@ -221,7 +221,7 @@
     "fp_id": 13731,
     "tff_rank": null,
     "agg_rank": 7.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 8,
@@ -253,7 +253,7 @@
     "fp_id": 26341,
     "tff_rank": null,
     "agg_rank": 8.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 9,
@@ -321,42 +321,10 @@
   },
   {
     "rank": 11,
-    "name": "Tyler Bass",
-    "team": "BUF",
-    "position": "K",
-    "position_rank": "K11",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7042.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "7042",
-    "fp_id": 19760,
-    "tff_rank": null,
-    "agg_rank": 11.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 12,
     "name": "Harrison Butker",
     "team": "KC",
     "position": "K",
-    "position_rank": "K12",
+    "position_rank": "K11",
     "bye": "5",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4227.jpg",
     "injury_status": "",
@@ -380,17 +348,17 @@
     "sleeper_id": "4227",
     "fp_id": 16712,
     "tff_rank": null,
-    "agg_rank": 12.0,
-    "rank_change": 0
+    "agg_rank": 11.0,
+    "rank_change": 1
   },
   {
-    "rank": 13,
-    "name": "Chase McLaughlin",
-    "team": "TB",
+    "rank": 12,
+    "name": "Tyler Bass",
+    "team": "BUF",
     "position": "K",
-    "position_rank": "K13",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6650.jpg",
+    "position_rank": "K12",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/7042.jpg",
     "injury_status": "",
     "player_status": "Active",
     "ecr": {
@@ -409,18 +377,18 @@
       "sleeper": null
     },
     "news": [],
-    "sleeper_id": "6650",
-    "fp_id": 19058,
+    "sleeper_id": "7042",
+    "fp_id": 19760,
     "tff_rank": null,
-    "agg_rank": 13.0,
-    "rank_change": 0
+    "agg_rank": 12.0,
+    "rank_change": -1
   },
   {
-    "rank": 14,
+    "rank": 13,
     "name": "Wil Lutz",
     "team": "DEN",
     "position": "K",
-    "position_rank": "K14",
+    "position_rank": "K13",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3678.jpg",
     "injury_status": "",
@@ -444,8 +412,40 @@
     "sleeper_id": "3678",
     "fp_id": 16026,
     "tff_rank": null,
+    "agg_rank": 13.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 14,
+    "name": "Chase McLaughlin",
+    "team": "TB",
+    "position": "K",
+    "position_rank": "K14",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6650.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6650",
+    "fp_id": 19058,
+    "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 15,
@@ -509,7 +509,7 @@
     "fp_id": 13274,
     "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 17,
@@ -541,7 +541,7 @@
     "fp_id": 18545,
     "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 18,
@@ -696,7 +696,29 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Cleveland Browns vs. New Orleans Saints Game Highlights",
+        "description": "Cleveland Browns vs. New Orleans Saints Game Highlights",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50425557/cleveland-browns-vs-new-orleans-saints-game-highlights",
+        "timestamp": "2026-11-08T22:17:53Z",
+        "player_names": [
+          "Tyler Shough",
+          "Harold Fannin Jr",
+          "Andre Szmyt",
+          "Shedeur Sanders",
+          "Audric Estime"
+        ],
+        "player_name": "Tyler Shough",
+        "teams": [
+          "New Orleans Saints",
+          "Cleveland Browns"
+        ],
+        "type": "Media"
+      }
+    ],
     "sleeper_id": "11261",
     "fp_id": 25713,
     "tff_rank": null,
@@ -737,42 +759,10 @@
   },
   {
     "rank": 24,
-    "name": "Trey Smack",
-    "team": "GB",
-    "position": "K",
-    "position_rank": "K24",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13545.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13545",
-    "fp_id": 28507,
-    "tff_rank": null,
-    "agg_rank": 24.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 25,
     "name": "Charlie Smyth",
     "team": "NO",
     "position": "K",
-    "position_rank": "K25",
+    "position_rank": "K24",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11653.jpg",
     "injury_status": "",
@@ -796,8 +786,40 @@
     "sleeper_id": "11653",
     "fp_id": 26444,
     "tff_rank": null,
-    "agg_rank": 25.0,
+    "agg_rank": 24.0,
     "rank_change": 1
+  },
+  {
+    "rank": 25,
+    "name": "Trey Smack",
+    "team": "GB",
+    "position": "K",
+    "position_rank": "K25",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13545.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13545",
+    "fp_id": 28507,
+    "tff_rank": null,
+    "agg_rank": 25.0,
+    "rank_change": -1
   },
   {
     "rank": 26,
@@ -829,7 +851,7 @@
     "fp_id": 16548,
     "tff_rank": null,
     "agg_rank": 26.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 27,
@@ -861,7 +883,7 @@
     "fp_id": 23901,
     "tff_rank": null,
     "agg_rank": 27.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 28,
@@ -897,42 +919,10 @@
   },
   {
     "rank": 29,
-    "name": "Jake Elliott",
-    "team": "PHI",
-    "position": "K",
-    "position_rank": "K29",
-    "bye": "10",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4195.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "4195",
-    "fp_id": 16540,
-    "tff_rank": null,
-    "agg_rank": 29.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 30,
     "name": "Jake Moody",
     "team": "BAL",
     "position": "K",
-    "position_rank": "K30",
+    "position_rank": "K29",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10937.jpg",
     "injury_status": "",
@@ -956,8 +946,40 @@
     "sleeper_id": "10937",
     "fp_id": 24009,
     "tff_rank": null,
+    "agg_rank": 29.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 30,
+    "name": "Jake Elliott",
+    "team": "PHI",
+    "position": "K",
+    "position_rank": "K30",
+    "bye": "10",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4195.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "4195",
+    "fp_id": 16540,
+    "tff_rank": null,
     "agg_rank": 30.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 31,

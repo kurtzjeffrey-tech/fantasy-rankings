@@ -253,7 +253,7 @@
     "fp_id": 8050,
     "tff_rank": null,
     "agg_rank": 8.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 9,
@@ -285,7 +285,7 @@
     "fp_id": 8100,
     "tff_rank": null,
     "agg_rank": 9.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 10,
@@ -317,7 +317,7 @@
     "fp_id": 8280,
     "tff_rank": null,
     "agg_rank": 10.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -381,7 +381,7 @@
     "fp_id": 8070,
     "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 13,
@@ -445,7 +445,7 @@
     "fp_id": 8030,
     "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": 3
+    "rank_change": 0
   },
   {
     "rank": 15,
@@ -541,7 +541,7 @@
     "fp_id": 8060,
     "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": -3
+    "rank_change": 0
   },
   {
     "rank": 18,
@@ -573,7 +573,7 @@
     "fp_id": 8080,
     "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 19,
@@ -605,7 +605,7 @@
     "fp_id": 8180,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 20,
@@ -737,42 +737,10 @@
   },
   {
     "rank": 24,
-    "name": "Arizona Cardinals",
-    "team": "ARI",
-    "position": "DST",
-    "position_rank": "DST24",
-    "bye": "14",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8000,
-    "tff_rank": null,
-    "agg_rank": 24.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 25,
     "name": "Baltimore Ravens",
     "team": "BAL",
     "position": "DST",
-    "position_rank": "DST25",
+    "position_rank": "DST24",
     "bye": "13",
     "headshot_url": "",
     "injury_status": "",
@@ -795,6 +763,38 @@
     "news": [],
     "sleeper_id": null,
     "fp_id": 8020,
+    "tff_rank": null,
+    "agg_rank": 24.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 25,
+    "name": "Arizona Cardinals",
+    "team": "ARI",
+    "position": "DST",
+    "position_rank": "DST25",
+    "bye": "14",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8000,
     "tff_rank": null,
     "agg_rank": 25.0,
     "rank_change": -1
@@ -829,7 +829,7 @@
     "fp_id": 8310,
     "tff_rank": null,
     "agg_rank": 26.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 27,
