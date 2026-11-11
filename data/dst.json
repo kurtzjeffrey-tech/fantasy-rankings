@@ -65,8 +65,8 @@
   },
   {
     "rank": 3,
-    "name": "Los Angeles Rams",
-    "team": "LAR",
+    "name": "Seattle Seahawks",
+    "team": "SEA",
     "position": "DST",
     "position_rank": "DST3",
     "bye": "11",
@@ -90,15 +90,15 @@
     },
     "news": [],
     "sleeper_id": null,
-    "fp_id": 8280,
+    "fp_id": 8260,
     "tff_rank": null,
     "agg_rank": 3.0,
     "rank_change": 2
   },
   {
     "rank": 4,
-    "name": "Green Bay Packers",
-    "team": "GB",
+    "name": "Los Angeles Rams",
+    "team": "LAR",
     "position": "DST",
     "position_rank": "DST4",
     "bye": "11",
@@ -122,15 +122,15 @@
     },
     "news": [],
     "sleeper_id": null,
-    "fp_id": 8110,
+    "fp_id": 8280,
     "tff_rank": null,
     "agg_rank": 4.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 5,
-    "name": "Seattle Seahawks",
-    "team": "SEA",
+    "name": "Green Bay Packers",
+    "team": "GB",
     "position": "DST",
     "position_rank": "DST5",
     "bye": "11",
@@ -154,10 +154,10 @@
     },
     "news": [],
     "sleeper_id": null,
-    "fp_id": 8260,
+    "fp_id": 8110,
     "tff_rank": null,
     "agg_rank": 5.0,
-    "rank_change": -2
+    "rank_change": -1
   },
   {
     "rank": 6,
@@ -189,7 +189,7 @@
     "fp_id": 8020,
     "tff_rank": null,
     "agg_rank": 6.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 7,
@@ -221,7 +221,7 @@
     "fp_id": 8150,
     "tff_rank": null,
     "agg_rank": 7.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 8,
@@ -257,42 +257,10 @@
   },
   {
     "rank": 9,
-    "name": "Cincinnati Bengals",
-    "team": "CIN",
-    "position": "DST",
-    "position_rank": "DST9",
-    "bye": "6",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8060,
-    "tff_rank": null,
-    "agg_rank": 9.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 10,
     "name": "Buffalo Bills",
     "team": "BUF",
     "position": "DST",
-    "position_rank": "DST10",
+    "position_rank": "DST9",
     "bye": "7",
     "headshot_url": "",
     "injury_status": "",
@@ -316,8 +284,40 @@
     "sleeper_id": null,
     "fp_id": 8030,
     "tff_rank": null,
-    "agg_rank": 10.0,
+    "agg_rank": 9.0,
     "rank_change": 1
+  },
+  {
+    "rank": 10,
+    "name": "Cincinnati Bengals",
+    "team": "CIN",
+    "position": "DST",
+    "position_rank": "DST10",
+    "bye": "6",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8060,
+    "tff_rank": null,
+    "agg_rank": 10.0,
+    "rank_change": -1
   },
   {
     "rank": 11,
@@ -349,7 +349,7 @@
     "fp_id": 8190,
     "tff_rank": null,
     "agg_rank": 11.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 12,
@@ -381,7 +381,7 @@
     "fp_id": 8310,
     "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 13,
@@ -413,78 +413,14 @@
     "fp_id": 8240,
     "tff_rank": null,
     "agg_rank": 13.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 14,
-    "name": "Cleveland Browns",
-    "team": "CLE",
-    "position": "DST",
-    "position_rank": "DST14",
-    "bye": "11",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8070,
-    "tff_rank": null,
-    "agg_rank": 14.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 15,
-    "name": "Detroit Lions",
-    "team": "DET",
-    "position": "DST",
-    "position_rank": "DST15",
-    "bye": "6",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8100,
-    "tff_rank": null,
-    "agg_rank": 15.0,
     "rank_change": 0
   },
   {
-    "rank": 16,
+    "rank": 14,
     "name": "New York Giants",
     "team": "NYG",
     "position": "DST",
-    "position_rank": "DST16",
+    "position_rank": "DST14",
     "bye": "8",
     "headshot_url": "",
     "injury_status": "",
@@ -508,8 +444,72 @@
     "sleeper_id": null,
     "fp_id": 8200,
     "tff_rank": null,
+    "agg_rank": 14.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 15,
+    "name": "Cleveland Browns",
+    "team": "CLE",
+    "position": "DST",
+    "position_rank": "DST15",
+    "bye": "11",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8070,
+    "tff_rank": null,
+    "agg_rank": 15.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 16,
+    "name": "Detroit Lions",
+    "team": "DET",
+    "position": "DST",
+    "position_rank": "DST16",
+    "bye": "6",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8100,
+    "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 17,
@@ -541,7 +541,7 @@
     "fp_id": 8130,
     "tff_rank": null,
     "agg_rank": 17.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 18,
@@ -573,46 +573,14 @@
     "fp_id": 8160,
     "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 19,
-    "name": "San Francisco 49ers",
-    "team": "SF",
-    "position": "DST",
-    "position_rank": "DST19",
-    "bye": "8",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8270,
-    "tff_rank": null,
-    "agg_rank": 19.0,
     "rank_change": 0
   },
   {
-    "rank": 20,
+    "rank": 19,
     "name": "Las Vegas Raiders",
     "team": "LV",
     "position": "DST",
-    "position_rank": "DST20",
+    "position_rank": "DST19",
     "bye": "13",
     "headshot_url": "",
     "injury_status": "",
@@ -636,8 +604,40 @@
     "sleeper_id": null,
     "fp_id": 8220,
     "tff_rank": null,
+    "agg_rank": 19.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 20,
+    "name": "San Francisco 49ers",
+    "team": "SF",
+    "position": "DST",
+    "position_rank": "DST20",
+    "bye": "8",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8270,
+    "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 21,
@@ -701,7 +701,7 @@
     "fp_id": 8250,
     "tff_rank": null,
     "agg_rank": 22.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -733,7 +733,7 @@
     "fp_id": 8040,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 24,
