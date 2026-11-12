@@ -221,7 +221,7 @@
     "fp_id": 23297,
     "tff_rank": null,
     "agg_rank": 7.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 8,
@@ -253,7 +253,7 @@
     "fp_id": 13029,
     "tff_rank": null,
     "agg_rank": 8.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 9,
@@ -385,74 +385,10 @@
   },
   {
     "rank": 13,
-    "name": "Ryan Fitzgerald",
-    "team": "CAR",
-    "position": "K",
-    "position_rank": "K13",
-    "bye": "5",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12961.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "12961",
-    "fp_id": 27261,
-    "tff_rank": null,
-    "agg_rank": 13.0,
-    "rank_change": 4
-  },
-  {
-    "rank": 14,
-    "name": "Jason Sanders",
-    "team": "NYJ",
-    "position": "K",
-    "position_rank": "K14",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5119.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "5119",
-    "fp_id": 17533,
-    "tff_rank": null,
-    "agg_rank": 14.0,
-    "rank_change": -1
-  },
-  {
-    "rank": 15,
     "name": "Brandon McManus",
     "team": "LAR",
     "position": "K",
-    "position_rank": "K15",
+    "position_rank": "K13",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1433.jpg",
     "injury_status": "",
@@ -476,8 +412,72 @@
     "sleeper_id": "1433",
     "fp_id": 13274,
     "tff_rank": null,
+    "agg_rank": 13.0,
+    "rank_change": 2
+  },
+  {
+    "rank": 14,
+    "name": "Ryan Fitzgerald",
+    "team": "CAR",
+    "position": "K",
+    "position_rank": "K14",
+    "bye": "5",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12961.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "12961",
+    "fp_id": 27261,
+    "tff_rank": null,
+    "agg_rank": 14.0,
+    "rank_change": -1
+  },
+  {
+    "rank": 15,
+    "name": "Jason Sanders",
+    "team": "NYJ",
+    "position": "K",
+    "position_rank": "K15",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5119.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5119",
+    "fp_id": 17533,
+    "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 16,
@@ -509,46 +509,14 @@
     "fp_id": 18545,
     "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 17,
-    "name": "Drew Stevens",
-    "team": "WAS",
-    "position": "K",
-    "position_rank": "K17",
-    "bye": "7",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13968.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13968",
-    "fp_id": 28175,
-    "tff_rank": null,
-    "agg_rank": 17.0,
-    "rank_change": 2
-  },
-  {
-    "rank": 18,
     "name": "Charlie Smyth",
     "team": "NO",
     "position": "K",
-    "position_rank": "K18",
+    "position_rank": "K17",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11653.jpg",
     "injury_status": "",
@@ -572,15 +540,15 @@
     "sleeper_id": "11653",
     "fp_id": 26444,
     "tff_rank": null,
-    "agg_rank": 18.0,
-    "rank_change": 3
+    "agg_rank": 17.0,
+    "rank_change": 1
   },
   {
-    "rank": 19,
+    "rank": 18,
     "name": "Andy Borregales",
     "team": "NE",
     "position": "K",
-    "position_rank": "K19",
+    "position_rank": "K18",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/12713.jpg",
     "injury_status": "",
@@ -604,8 +572,40 @@
     "sleeper_id": "12713",
     "fp_id": 27291,
     "tff_rank": null,
+    "agg_rank": 18.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 19,
+    "name": "Drew Stevens",
+    "team": "WAS",
+    "position": "K",
+    "position_rank": "K19",
+    "bye": "7",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13968.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13968",
+    "fp_id": 28175,
+    "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": -3
+    "rank_change": -2
   },
   {
     "rank": 20,
@@ -637,7 +637,7 @@
     "fp_id": 25713,
     "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 21,
@@ -664,12 +664,30 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Chiefs sticking with struggling Harrison Butker as kicker this week",
+        "description": "Harrison Butker will remain the Chiefs' kicker for Sunday's game against the Falcons, coach Andy Reid announced.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50454081/chiefs-sticking-harrison-butker-kicker-vs-falcons",
+        "timestamp": "2026-11-11T20:50:47Z",
+        "player_names": [
+          "Harrison Butker",
+          "Justin Tucker"
+        ],
+        "player_name": "Harrison Butker",
+        "teams": [
+          "Kansas City Chiefs"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "4227",
     "fp_id": 16712,
     "tff_rank": null,
     "agg_rank": 21.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 22,
@@ -705,10 +723,42 @@
   },
   {
     "rank": 23,
+    "name": "Trey Smack",
+    "team": "GB",
+    "position": "K",
+    "position_rank": "K23",
+    "bye": "11",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13545.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "13545",
+    "fp_id": 28507,
+    "tff_rank": null,
+    "agg_rank": 23.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 24,
     "name": "Jake Moody",
     "team": "ATL",
     "position": "K",
-    "position_rank": "K23",
+    "position_rank": "K24",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10937.jpg",
     "injury_status": "",
@@ -732,40 +782,8 @@
     "sleeper_id": "10937",
     "fp_id": 24009,
     "tff_rank": null,
-    "agg_rank": 23.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 24,
-    "name": "Trey Smack",
-    "team": "GB",
-    "position": "K",
-    "position_rank": "K24",
-    "bye": "11",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/13545.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "13545",
-    "fp_id": 28507,
-    "tff_rank": null,
     "agg_rank": 24.0,
-    "rank_change": 1
+    "rank_change": -1
   },
   {
     "rank": 25,
@@ -797,7 +815,7 @@
     "fp_id": 16548,
     "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 26,
@@ -829,7 +847,7 @@
     "fp_id": 23901,
     "tff_rank": null,
     "agg_rank": 26.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 27,
@@ -861,7 +879,7 @@
     "fp_id": 9491,
     "tff_rank": null,
     "agg_rank": 27.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 28,
