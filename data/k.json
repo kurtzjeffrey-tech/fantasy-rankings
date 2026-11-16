@@ -440,28 +440,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Carolina Panthers vs. New Orleans Saints: Game Highlights",
-        "description": "Carolina Panthers vs. New Orleans Saints: Game Highlights",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50493957/game-highlights",
-        "timestamp": "2026-11-15T21:27:45Z",
-        "player_names": [
-          "Alvin Kamara",
-          "Chuba Hubbard",
-          "Tyler Shough",
-          "Ryan Fitzgerald"
-        ],
-        "player_name": "Alvin Kamara",
-        "teams": [
-          "Carolina Panthers",
-          "New Orleans Saints"
-        ],
-        "type": "Media"
-      }
-    ],
+    "news": [],
     "sleeper_id": "12961",
     "fp_id": 27261,
     "tff_rank": null,
@@ -813,12 +792,29 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Dolphins cut kicker Zane Gonzalez a day after costly misses in loss to Colts",
+        "description": "The Dolphins waived kicker Zane Gonzalez on Monday, a day after he missed two field goals and an extra point in a 24-22 loss to the Colts.",
+        "story": "",
+        "url": "https://www.espn.com/nfl/story/_/id/50502391/dolphins-cut-kicker-zane-gonzalez-day-costly-misses",
+        "timestamp": "2026-11-16T18:46:40Z",
+        "player_names": [
+          "Zane Gonzalez"
+        ],
+        "player_name": "Zane Gonzalez",
+        "teams": [
+          "Miami Dolphins"
+        ],
+        "type": "HeadlineNews"
+      }
+    ],
     "sleeper_id": "4233",
     "fp_id": 16548,
     "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 26,
@@ -850,7 +846,7 @@
     "fp_id": 23901,
     "tff_rank": null,
     "agg_rank": 26.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 27,
@@ -882,7 +878,7 @@
     "fp_id": 25354,
     "tff_rank": null,
     "agg_rank": 27.0,
-    "rank_change": -2
+    "rank_change": 0
   },
   {
     "rank": 28,
