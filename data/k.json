@@ -317,7 +317,7 @@
     "fp_id": 26075,
     "tff_rank": null,
     "agg_rank": 10.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 11,
@@ -349,7 +349,7 @@
     "fp_id": 26763,
     "tff_rank": null,
     "agg_rank": 11.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 12,
@@ -385,42 +385,10 @@
   },
   {
     "rank": 13,
-    "name": "Matt Gay",
-    "team": "LV",
-    "position": "K",
-    "position_rank": "K13",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6083",
-    "fp_id": 18545,
-    "tff_rank": null,
-    "agg_rank": 13.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 14,
     "name": "Wil Lutz",
     "team": "DEN",
     "position": "K",
-    "position_rank": "K14",
+    "position_rank": "K13",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/3678.jpg",
     "injury_status": "",
@@ -444,8 +412,40 @@
     "sleeper_id": "3678",
     "fp_id": 16026,
     "tff_rank": null,
+    "agg_rank": 13.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 14,
+    "name": "Matt Gay",
+    "team": "LV",
+    "position": "K",
+    "position_rank": "K14",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
+    "injury_status": "Questionable",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6083",
+    "fp_id": 18545,
+    "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": 2
+    "rank_change": -1
   },
   {
     "rank": 15,
@@ -477,7 +477,7 @@
     "fp_id": 28176,
     "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 16,
@@ -509,7 +509,7 @@
     "fp_id": 16712,
     "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 17,
@@ -637,7 +637,7 @@
     "fp_id": 23901,
     "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 21,
@@ -669,7 +669,7 @@
     "fp_id": 26444,
     "tff_rank": null,
     "agg_rank": 21.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 22,
@@ -701,7 +701,7 @@
     "fp_id": 17575,
     "tff_rank": null,
     "agg_rank": 22.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 23,
@@ -733,7 +733,7 @@
     "fp_id": 25354,
     "tff_rank": null,
     "agg_rank": 23.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 24,
@@ -830,5 +830,37 @@
     "tff_rank": null,
     "agg_rank": 26.0,
     "rank_change": 0
+  },
+  {
+    "rank": 27,
+    "name": "Daniel Carlson",
+    "team": "MIA",
+    "position": "K",
+    "position_rank": "K27",
+    "bye": "6",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5095.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5095",
+    "fp_id": 17420,
+    "tff_rank": null,
+    "agg_rank": 27.0,
+    "rank_change": null
   }
 ]
