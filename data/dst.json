@@ -349,7 +349,7 @@
     "fp_id": 8250,
     "tff_rank": null,
     "agg_rank": 11.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 12,
@@ -381,7 +381,7 @@
     "fp_id": 8060,
     "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 13,
@@ -413,7 +413,7 @@
     "fp_id": 8270,
     "tff_rank": null,
     "agg_rank": 13.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 14,
@@ -513,42 +513,10 @@
   },
   {
     "rank": 17,
-    "name": "New York Giants",
-    "team": "NYG",
-    "position": "DST",
-    "position_rank": "DST17",
-    "bye": "8",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8200,
-    "tff_rank": null,
-    "agg_rank": 17.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 18,
     "name": "Dallas Cowboys",
     "team": "DAL",
     "position": "DST",
-    "position_rank": "DST18",
+    "position_rank": "DST17",
     "bye": "14",
     "headshot_url": "",
     "injury_status": "",
@@ -572,8 +540,40 @@
     "sleeper_id": null,
     "fp_id": 8080,
     "tff_rank": null,
+    "agg_rank": 17.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 18,
+    "name": "New York Giants",
+    "team": "NYG",
+    "position": "DST",
+    "position_rank": "DST18",
+    "bye": "8",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8200,
+    "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 19,
@@ -605,7 +605,7 @@
     "fp_id": 8230,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": 2
+    "rank_change": 0
   },
   {
     "rank": 20,
@@ -637,7 +637,7 @@
     "fp_id": 8220,
     "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 21,
@@ -669,7 +669,7 @@
     "fp_id": 8190,
     "tff_rank": null,
     "agg_rank": 21.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 22,
