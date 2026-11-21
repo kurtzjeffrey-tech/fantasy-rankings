@@ -289,42 +289,10 @@
   },
   {
     "rank": 10,
-    "name": "New York Jets",
-    "team": "NYJ",
-    "position": "DST",
-    "position_rank": "DST10",
-    "bye": "13",
-    "headshot_url": "",
-    "injury_status": "",
-    "player_status": "",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": null,
-    "fp_id": 8210,
-    "tff_rank": null,
-    "agg_rank": 10.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 11,
     "name": "Los Angeles Chargers",
     "team": "LAC",
     "position": "DST",
-    "position_rank": "DST11",
+    "position_rank": "DST10",
     "bye": "7",
     "headshot_url": "",
     "injury_status": "",
@@ -348,8 +316,40 @@
     "sleeper_id": null,
     "fp_id": 8250,
     "tff_rank": null,
+    "agg_rank": 10.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 11,
+    "name": "New York Jets",
+    "team": "NYJ",
+    "position": "DST",
+    "position_rank": "DST11",
+    "bye": "13",
+    "headshot_url": "",
+    "injury_status": "",
+    "player_status": "",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": null,
+    "fp_id": 8210,
+    "tff_rank": null,
     "agg_rank": 11.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 12,
