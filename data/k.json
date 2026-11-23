@@ -125,7 +125,7 @@
     "fp_id": 26475,
     "tff_rank": null,
     "agg_rank": 4.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 5,
@@ -157,7 +157,7 @@
     "fp_id": 26341,
     "tff_rank": null,
     "agg_rank": 5.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 6,
@@ -216,7 +216,27 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "New Orleans Saints vs. Chicago Bears: Game Highlights",
+        "description": "New Orleans Saints vs. Chicago Bears: Game Highlights",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50565012/game-highlights",
+        "timestamp": "2026-11-22T21:10:30Z",
+        "player_names": [
+          "Caleb Williams",
+          "Cairo Santos",
+          "Tyler Shough"
+        ],
+        "player_name": "Caleb Williams",
+        "teams": [
+          "New Orleans Saints",
+          "Chicago Bears"
+        ],
+        "type": "Media"
+      }
+    ],
     "sleeper_id": "2020",
     "fp_id": 13731,
     "tff_rank": null,
@@ -349,7 +369,7 @@
     "fp_id": 19058,
     "tff_rank": null,
     "agg_rank": 11.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 12,
@@ -381,7 +401,7 @@
     "fp_id": 17533,
     "tff_rank": null,
     "agg_rank": 12.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 13,
@@ -477,7 +497,7 @@
     "fp_id": 23901,
     "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 16,
@@ -509,7 +529,7 @@
     "fp_id": 19028,
     "tff_rank": null,
     "agg_rank": 16.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 17,
@@ -568,12 +588,33 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [],
+    "news": [
+      {
+        "source": "espn",
+        "headline": "Baltimore Ravens vs. Carolina Panthers: Game Highlights",
+        "description": "Baltimore Ravens vs. Carolina Panthers: Game Highlights",
+        "story": "",
+        "url": "https://www.espn.com/video/clip/_/id/50565408/game-highlights",
+        "timestamp": "2026-11-22T21:40:55Z",
+        "player_names": [
+          "Devontez Walker",
+          "Chuba Hubbard",
+          "Derrick Henry",
+          "Ryan Fitzgerald"
+        ],
+        "player_name": "Devontez Walker",
+        "teams": [
+          "Carolina Panthers",
+          "Baltimore Ravens"
+        ],
+        "type": "Media"
+      }
+    ],
     "sleeper_id": "12961",
     "fp_id": 27261,
     "tff_rank": null,
     "agg_rank": 18.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 19,
@@ -605,7 +646,7 @@
     "fp_id": 28176,
     "tff_rank": null,
     "agg_rank": 19.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 20,
@@ -637,7 +678,7 @@
     "fp_id": 17575,
     "tff_rank": null,
     "agg_rank": 20.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 21,
@@ -647,7 +688,7 @@
     "position_rank": "K21",
     "bye": "13",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6083.jpg",
-    "injury_status": "Questionable",
+    "injury_status": "",
     "player_status": "Active",
     "ecr": {
       "avg": null,
@@ -669,7 +710,7 @@
     "fp_id": 18545,
     "tff_rank": null,
     "agg_rank": 21.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 22,
@@ -737,42 +778,10 @@
   },
   {
     "rank": 24,
-    "name": "Chad Ryland",
-    "team": "ARI",
-    "position": "K",
-    "position_rank": "K24",
-    "bye": "14",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10955.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "10955",
-    "fp_id": 25354,
-    "tff_rank": null,
-    "agg_rank": 24.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 25,
     "name": "Jake Elliott",
     "team": "PHI",
     "position": "K",
-    "position_rank": "K25",
+    "position_rank": "K24",
     "bye": "10",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/4195.jpg",
     "injury_status": "",
@@ -796,8 +805,40 @@
     "sleeper_id": "4195",
     "fp_id": 16540,
     "tff_rank": null,
+    "agg_rank": 24.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 25,
+    "name": "Chad Ryland",
+    "team": "ARI",
+    "position": "K",
+    "position_rank": "K25",
+    "bye": "14",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/10955.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "10955",
+    "fp_id": 25354,
+    "tff_rank": null,
     "agg_rank": 25.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 26,
