@@ -184,30 +184,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
-        "description": "Kansas City Chiefs vs. Buffalo Bills: Game Highlight",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50609218/game-highlight",
-        "timestamp": "2026-11-27T06:19:18Z",
-        "player_names": [
-          "Tyler Bass",
-          "James Cook III",
-          "Nohl Williams",
-          "Greg Dortch",
-          "George Karlaftis",
-          "Emmett Johnson"
-        ],
-        "player_name": "Tyler Bass",
-        "teams": [
-          "Kansas City Chiefs",
-          "Buffalo Bills"
-        ],
-        "type": "Media"
-      }
-    ],
+    "news": [],
     "sleeper_id": "7042",
     "fp_id": 19760,
     "tff_rank": null,
@@ -312,42 +289,10 @@
   },
   {
     "rank": 10,
-    "name": "Jason Sanders",
-    "team": "NYJ",
-    "position": "K",
-    "position_rank": "K10",
-    "bye": "13",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5119.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "5119",
-    "fp_id": 17533,
-    "tff_rank": null,
-    "agg_rank": 10.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 11,
     "name": "Jake Bates",
     "team": "DET",
     "position": "K",
-    "position_rank": "K11",
+    "position_rank": "K10",
     "bye": "6",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11539.jpg",
     "injury_status": "",
@@ -371,8 +316,40 @@
     "sleeper_id": "11539",
     "fp_id": 26075,
     "tff_rank": null,
+    "agg_rank": 10.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 11,
+    "name": "Jason Sanders",
+    "team": "NYJ",
+    "position": "K",
+    "position_rank": "K11",
+    "bye": "13",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/5119.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "5119",
+    "fp_id": 17533,
+    "tff_rank": null,
     "agg_rank": 11.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 12,
@@ -468,7 +445,7 @@
     "fp_id": 14003,
     "tff_rank": null,
     "agg_rank": 14.0,
-    "rank_change": 1
+    "rank_change": 0
   },
   {
     "rank": 15,
@@ -500,7 +477,7 @@
     "fp_id": 13029,
     "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": -1
+    "rank_change": 0
   },
   {
     "rank": 16,
@@ -792,42 +769,10 @@
   },
   {
     "rank": 25,
-    "name": "Charlie Smyth",
-    "team": "NO",
-    "position": "K",
-    "position_rank": "K25",
-    "bye": "8",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11653.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "11653",
-    "fp_id": 26444,
-    "tff_rank": null,
-    "agg_rank": 25.0,
-    "rank_change": 1
-  },
-  {
-    "rank": 26,
     "name": "Joey Slye",
     "team": "TEN",
     "position": "K",
-    "position_rank": "K26",
+    "position_rank": "K25",
     "bye": "9",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6528.jpg",
     "injury_status": "",
@@ -850,6 +795,38 @@
     "news": [],
     "sleeper_id": "6528",
     "fp_id": 19028,
+    "tff_rank": null,
+    "agg_rank": 25.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 26,
+    "name": "Charlie Smyth",
+    "team": "NO",
+    "position": "K",
+    "position_rank": "K26",
+    "bye": "8",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11653.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "11653",
+    "fp_id": 26444,
     "tff_rank": null,
     "agg_rank": 26.0,
     "rank_change": -1
