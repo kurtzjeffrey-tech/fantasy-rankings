@@ -440,42 +440,10 @@
   },
   {
     "rank": 14,
-    "name": "Chris Boswell",
-    "team": "PIT",
-    "position": "K",
-    "position_rank": "K14",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1945.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "1945",
-    "fp_id": 13029,
-    "tff_rank": null,
-    "agg_rank": 14.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 15,
     "name": "Jason Myers",
     "team": "SEA",
     "position": "K",
-    "position_rank": "K15",
+    "position_rank": "K14",
     "bye": "11",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/2747.jpg",
     "injury_status": "",
@@ -499,8 +467,40 @@
     "sleeper_id": "2747",
     "fp_id": 14003,
     "tff_rank": null,
+    "agg_rank": 14.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 15,
+    "name": "Chris Boswell",
+    "team": "PIT",
+    "position": "K",
+    "position_rank": "K15",
+    "bye": "9",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/1945.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "1945",
+    "fp_id": 13029,
+    "tff_rank": null,
     "agg_rank": 15.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 16,
@@ -792,42 +792,10 @@
   },
   {
     "rank": 25,
-    "name": "Joey Slye",
-    "team": "TEN",
-    "position": "K",
-    "position_rank": "K25",
-    "bye": "9",
-    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6528.jpg",
-    "injury_status": "",
-    "player_status": "Active",
-    "ecr": {
-      "avg": null,
-      "best": null,
-      "worst": null,
-      "std_dev": null,
-      "ecr_vs_adp": null
-    },
-    "adp": {
-      "overall": null,
-      "espn": null,
-      "yahoo": null,
-      "nfl": null,
-      "cbs": null,
-      "sleeper": null
-    },
-    "news": [],
-    "sleeper_id": "6528",
-    "fp_id": 19028,
-    "tff_rank": null,
-    "agg_rank": 25.0,
-    "rank_change": 0
-  },
-  {
-    "rank": 26,
     "name": "Charlie Smyth",
     "team": "NO",
     "position": "K",
-    "position_rank": "K26",
+    "position_rank": "K25",
     "bye": "8",
     "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/11653.jpg",
     "injury_status": "",
@@ -851,8 +819,40 @@
     "sleeper_id": "11653",
     "fp_id": 26444,
     "tff_rank": null,
+    "agg_rank": 25.0,
+    "rank_change": 1
+  },
+  {
+    "rank": 26,
+    "name": "Joey Slye",
+    "team": "TEN",
+    "position": "K",
+    "position_rank": "K26",
+    "bye": "9",
+    "headshot_url": "https://sleepercdn.com/content/nfl/players/thumb/6528.jpg",
+    "injury_status": "",
+    "player_status": "Active",
+    "ecr": {
+      "avg": null,
+      "best": null,
+      "worst": null,
+      "std_dev": null,
+      "ecr_vs_adp": null
+    },
+    "adp": {
+      "overall": null,
+      "espn": null,
+      "yahoo": null,
+      "nfl": null,
+      "cbs": null,
+      "sleeper": null
+    },
+    "news": [],
+    "sleeper_id": "6528",
+    "fp_id": 19028,
+    "tff_rank": null,
     "agg_rank": 26.0,
-    "rank_change": 0
+    "rank_change": -1
   },
   {
     "rank": 27,
@@ -911,29 +911,7 @@
       "cbs": null,
       "sleeper": null
     },
-    "news": [
-      {
-        "source": "espn",
-        "headline": "Eagles stun Cowboys with largest-ever Thanksgiving game comeback",
-        "description": "Eagles stun Cowboys with largest-ever Thanksgiving game comeback",
-        "story": "",
-        "url": "https://www.espn.com/video/clip/_/id/50607884/eagles-stun-cowboys-largest-ever-thanksgiving-game-comeback",
-        "timestamp": "2026-11-27T01:58:17Z",
-        "player_names": [
-          "Jake Elliott",
-          "Javonte Williams",
-          "DeVonta Smith",
-          "Kenny Moore II",
-          "Dak Prescott"
-        ],
-        "player_name": "Jake Elliott",
-        "teams": [
-          "Dallas Cowboys",
-          "Philadelphia Eagles"
-        ],
-        "type": "Media"
-      }
-    ],
+    "news": [],
     "sleeper_id": "4195",
     "fp_id": 16540,
     "tff_rank": null,
